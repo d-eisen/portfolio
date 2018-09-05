@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "www.heronblue.design"
 languageCode = "en-us"
 title = "Portfolio"
 theme = "hugo-lodi-theme"
