@@ -201,7 +201,7 @@ section {
 }
 
 .hero-right p a {
-  color: #574CDD;
+  color: #1B7BFF;
   text-decoration: underline;
 }
 
@@ -341,8 +341,7 @@ section {
   border: solid 2px #E1E1E1;
   padding: 18px 0;
   text-align: center;
-  color: #574CDD;
-   /* color: #1B7BFF; */
+  color: #1B7BFF;
   font-weight: 500;
   -webkit-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
