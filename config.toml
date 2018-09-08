@@ -24,10 +24,10 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     enable = true
     avatar = "Headshot5.jpg"
     subtitle = "Hello, I'm David, a UX Designer"
-    hero_right = ["**Currently doing consulting work for NGOs and nonprofit organizations. My background includes roles within healthcare. I have served as director of education and research, and director of social services**", 
+    hero_right = ["**A user experience designer with a varied background in social work, health care, and nonprofit managment. I have an extensive history focused on customer care and wellbeing. I utilize human centered design in eliciting user needs and goals and work creatively and collaboratively toward solutions.**", 
     #"I founded [User Experience Society](https://www.facebook.com/UXSoc/), the first student UX organization in the Philippines. For two years, we've had 20+ events with 30+ speakers for over 300 members and 500+ attendees. We've expanded to [California](https://www.facebook.com/profile.php?id=245708449193012) this year.", "I do a bit of writing as well. [Here's an article with a total of 21,000+ views to InVision & Medium](http://blog.invisionapp.com/ux-internship-wisdom/) talking about 50 things I learned spending 3 years as a UX intern.", "I help cultivate the design community in Manila too. I'm the youngest core member of [UX Philippines](https://www.facebook.com/groups/uxphilippines/) and I moderated a panel with some cool people for the [UXPH 2017 Conference](https://www.uxphilippines.com).", 
   ]
-    resume = "eisenmenger.pdf"
+    resume = "Resume_Eisenmenger.pdf"
 
 [params.process]
     enable = true
@@ -35,7 +35,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     subtitle = "Full Process Design"
 
 [params.case_studies]
-    enable = true
+    enable = false
     title = "Case Studies"
     subtitle = "Selected Works"
 
