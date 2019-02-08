@@ -28,7 +28,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     hero_right = ["**A user experience designer with a diverse background in healthcare, social work, and nonprofit management. My focus is to help create seamless user experiences that work well, make people happy, and add value to the product. I have an extensive history focused on wellbeing in the user's experience. My approach uses human centered design in eliciting user needs and goals working creatively and collaboratively toward solutions.**", 
     #"I founded [User Experience Society](https://www.facebook.com/UXSoc/), the first student UX organization in the Philippines. For two years, we've had 20+ events with 30+ speakers for over 300 members and 500+ attendees. We've expanded to [California](https://www.facebook.com/profile.php?id=245708449193012) this year.", "I do a bit of writing as well. [Here's an article with a total of 21,000+ views to InVision & Medium](http://blog.invisionapp.com/ux-internship-wisdom/) talking about 50 things I learned spending 3 years as a UX intern.", "I help cultivate the design community in Manila too. I'm the youngest core member of [UX Philippines](https://www.facebook.com/groups/uxphilippines/) and I moderated a panel with some cool people for the [UXPH 2017 Conference](https://www.uxphilippines.com).", 
   ]
-    resume = "Resume_Eisenmenger02.pdf"
+    resume = "Resume_Eisenmenger.pdf"
 
 [params.process]
     enable = true
