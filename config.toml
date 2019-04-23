@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "David Eisenmenger"
 theme = "hugo-lodi-theme"
-googleAnalytics = "UA-XXXXXXXX-Y"
+googleAnalytics = "UA-138889713-1"
 
 [params]
     theme_color = "#4ca2ff"
