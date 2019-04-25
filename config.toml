@@ -31,7 +31,7 @@ googleAnalytics = "UA-138889713-1"
     resume = "Resume_Eisenmenger.pdf"
 
 [params.process]
-    enable = true
+    enable = false
     title = "My Process"
     # subtitle = "Full Process Design"
 
