@@ -9,19 +9,19 @@ title: "MedWater | David Eisenmenger"
 description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
 
 # This the heading of the navigation at the top of the case study
-nav_heading: "Cope Case Study"
+nav_heading: "MedWater Case Study"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
 thumbnail: "cope.jpg"
 
 # This is the title of the case study in the case studies section
-case_short_title: "Cope iOS App"
+case_short_title: "MedWater Mobile Site"
 
 # This is the title of the case study in the case study page
-case_title: "Cope iOS App"
+case_title: "MedWater Mobile Site"
 
 # This is the subtitle of the case study in the case studies section and the case study page
-case_subtitle: "Mobile App Design"
+case_subtitle: "Mobile Web Design"
 
 # This is the case description in the case studies section
 case_description: "Cope is a mobile app that allows mental health help seekers track their symptoms and medication. I helped them create a minimum viable product for testing."
