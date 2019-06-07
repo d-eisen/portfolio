@@ -130,9 +130,13 @@ Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sa
 
 ## Site Map
 Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
+![Site Map Low Fidelity](/MwSiteMapLoFi.jpg "Site Map Low Fidelity")
+![Site Map High Fidelity](/MwSiteMap.jpg "Site Map High Fidelity")
 
 ## Card Sort
 Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
+![Card Sort Report Cover](/MedWaterCardSortReportV1_Page_1.jpg "Card Sort Report Cover")
+![Card Sort Similarity Index](/MedWaterCardSortSimilarityMatrixFinal.png "Site Map High Fidelity")
 
 # Design and Iteration
 Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat velit scelerisque in dictum non. Id cursus metus aliquam eleifend mi in. Lectus sit amet est placerat in egestas erat.
