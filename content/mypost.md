@@ -24,7 +24,7 @@ case_title: "MedWater Mobile Site"
 case_subtitle: "Mobile Web Design"
 
 # This is the case description in the case studies section
-case_description: "Cope is a mobile app that allows mental health help seekers track their symptoms and medication. I helped them create a minimum viable product for testing."
+case_description: "MedWater.com is an informational website for a non governmental organization focused on water, sanitation, and hygiene for communities in Ecuador."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
