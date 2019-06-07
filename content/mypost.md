@@ -188,7 +188,14 @@ Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sa
 
 ![Usabilty Report Cover Page](/MWUsabilityTestReport_Page_1.png "Style Guide")
 
+# Next Steps
 
+The project is actually in development now and the next step is
+to conduct usability tests, install analytics and use new insights to
+inform new iterations of the product. Design a better onboarding
+process. Design for empty states. Design copywriting and strategy for
+push notifications as trigger. Integrate a social aspect into the
+application. All these will be helpful to create a better design for the app.
 
 
 
