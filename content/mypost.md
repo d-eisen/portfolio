@@ -96,31 +96,59 @@ validating assumptions, benchmarking,  and guerilla testing. I could
 have done some more usability studies early in the process, however.
 
 # Research
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus at urna condimentum mattis pellentesque id nibh tortor. 
-
+##Survey
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus at urna condimentum mattis pellentesque id nibh tortor.
+ 
+##Interview
+Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
 ![MedWater Interview Summary](/MWInterviewSummary.jpg)
 
-# Discover
-Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae. 
+# Discovery: Personas and Empathy Maps
+Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
 
 ## Personas
-Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem. 
-
-## Empathy Maps
 Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
 
-# Design and Iterate
+## Empathy Maps
 Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat velit scelerisque in dictum non. Id cursus metus aliquam eleifend mi in. Lectus sit amet est placerat in egestas erat.
 
+# Content Strategy: Site Map and Card Sort
+Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
+
+## Site Map
+Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
+
+## Card Sort
+Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
+
+# Design and Iteration
+Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat velit scelerisque in dictum non. Id cursus metus aliquam eleifend mi in. Lectus sit amet est placerat in egestas erat.
+
+## User Flows
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus at urna condimentum mattis pellentesque id nibh tortor. 
+
 ## Sketching
+Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
 
 ## Wireframing
+Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
 
 ## Style Guide
+Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
 
-# Deliver
-## Prototype
+## Low Fidelity Prototype
+Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat velit scelerisque in dictum non. Id cursus metus aliquam eleifend mi in. Lectus sit amet est placerat in egestas erat.
+
+## Usability Study
+Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
+
+
+
+
+
+
+
+
 # Informal Competitive Analysis
 
 We checked the App Store for similar applications, and we found
