@@ -28,7 +28,7 @@ case_description: "Cope is a mobile app that allows mental health help seekers t
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
-case_feature_img: "featured-cope.jpg"
+case_feature_img: "static/LandingPg.png"
 
 # This is the case summary in the case itself
 case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
