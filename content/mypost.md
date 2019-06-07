@@ -61,7 +61,7 @@ testimonial: "David has really helped us to take some important steps in realizi
 
 # Testimonial photo, place this at /post_title_here/img
 # e.g. /mypost/img
-# testimonial_photo: "john.jpg"
+testimonial_photo: "john.jpg"
 
 # Author of testimonial
 testimonial_author: "Darrell Adams"
