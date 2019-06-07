@@ -109,13 +109,16 @@ Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci
 
 ## Personas
 Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
-![Persona Linda](/PersonaLinda.jpg)
+
+![Persona Linda](/PersonaLinda.jpg "Lean Persona Linda")
 Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
-![Persona Shawn](/PersonaShawn.jpg)
+
+![Persona Shawn](/PersonaShawn.jpg "Lean Persona Shawn")
 Commodo nulla facilisi nullam vehicula ipsum a arcu.
 
 ## Empathy Maps
 Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat velit scelerisque in dictum non. Id cursus metus aliquam eleifend mi in. Lectus sit amet est placerat in egestas erat.
+![Persona Shawn](/PersonaShawn.jpg)
 
 # Content Strategy: Site Map and Card Sort
 Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
