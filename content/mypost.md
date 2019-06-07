@@ -118,7 +118,12 @@ Commodo nulla facilisi nullam vehicula ipsum a arcu.
 
 ## Empathy Maps
 Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat velit scelerisque in dictum non. Id cursus metus aliquam eleifend mi in. Lectus sit amet est placerat in egestas erat.
-![Persona Shawn](/PersonaShawn.jpg)
+
+![Empathy Map Linda](/EmpathyMaps_Page_1.jpg "Empathy Map Linda")
+
+![Empathy Map Linda](/EmpathyMaps_Page_2.jpg "Empathy Map Shawn")
+
+Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
 
 # Content Strategy: Site Map and Card Sort
 Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
