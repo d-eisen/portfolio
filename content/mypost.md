@@ -52,9 +52,9 @@ button_links:
     # - link: "http://copenow.co/"
     #   img: "eyeball.svg"
     #   text: "View Landing Page"
-    # - link: "cope.pdf"
-    #   img: "download.svg"
-    #   text: "Download Feature Sets"
+    - link: "/MedWaterStyleGuide.pdf"
+      img: "download.svg"
+      text: "Download Style Guide"
 
 # Testimonial text
 testimonial: "David has really helped us to take some important steps in realizing our vision for this site. His work with has been from end to end."
