@@ -96,18 +96,31 @@ validating assumptions, benchmarking,  and guerilla testing. I could
 have done some more usability studies early in the process, however.
 
 # Research
-Lorem ipsem dolor petsit
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus at urna condimentum mattis pellentesque id nibh tortor. 
 
 ![MedWater Interview Summary](/MWInterviewSummary.jpg)
 
 # Discover
+Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae. 
 
-# Design
+## Personas
+Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem. 
 
-# Iterate
+## Empathy Maps
+Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
+
+# Design and Iterate
+Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat velit scelerisque in dictum non. Id cursus metus aliquam eleifend mi in. Lectus sit amet est placerat in egestas erat.
+
+## Sketching
+
+## Wireframing
+
+## Style Guide
 
 # Deliver
-
+## Prototype
 # Informal Competitive Analysis
 
 We checked the App Store for similar applications, and we found
