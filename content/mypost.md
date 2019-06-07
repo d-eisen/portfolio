@@ -21,17 +21,17 @@ case_short_title: "MedWater Mobile Site"
 case_title: "MedWater Mobile Site"
 
 # This is the subtitle of the case study in the case studies section and the case study page
-case_subtitle: "Mobile Web Design"
+case_subtitle: "Mobile First Web Design"
 
 # This is the case description in the case studies section
 case_description: "MedWater.com is an informational website for a non governmental organization focused on water, sanitation, and hygiene for communities in Ecuador."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
-case_feature_img: "featured-cope.jpg"
+case_feature_img: "LandingPg.png"
 
 # This is the case summary in the case itself
-case_summary: "Medwater.com is an informational website for the organization. The site is focused on allowing supporters to donate to the organization, fundraise via Venmo and Facebook challenge and review updates fromt the field. I created a minimum viable product for this application."
+case_summary: "Medwater.com is an informational website for the organization. The site is focused on allowing supporters to donate to the organization, fundraise via Venmo and Facebook and review updates from the field. I created a minimum viable product for this site."
 
 # Your team members
 team: ["David Eisenmenger"]
@@ -61,7 +61,7 @@ testimonial: "David has really helped us to take some important steps in realizi
 
 # Testimonial photo, place this at /post_title_here/img
 # e.g. /mypost/img
-testimonial_photo: "john.jpg"
+# testimonial_photo: "john.jpg"
 
 # Author of testimonial
 testimonial_author: "Darrell Adams"
