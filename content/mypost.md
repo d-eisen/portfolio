@@ -31,16 +31,16 @@ case_description: "MedWater.com is an informational website for a non government
 case_feature_img: "featured-cope.jpg"
 
 # This is the case summary in the case itself
-case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
+case_summary: "Medwater.com is an informational website for the organization. The site is focused on allowing supporters to donate to the organization, fundraise via Venmo and Facebook challenge and review updates fromt the field. I created a minimum viable product for this application."
 
 # Your team members
-team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
+team: ["David Eisenmenger"]
 
 # Roles of your team members
 roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
 
 # Methods your team members used
-methods: ["Sketching", "Mockups", "Guerilla Testing"]
+methods: ["Sketching", "Wireframing", "Usability Testing"]
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
