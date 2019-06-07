@@ -186,8 +186,7 @@ Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat 
 ## Usability Study
 Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
 
-
-
+![Usabilty Report Cover Page](/MWUsabilityTestReport_Page_1.png "Style Guide")
 
 
 
