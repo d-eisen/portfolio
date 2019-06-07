@@ -177,8 +177,11 @@ Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci
 ## Style Guide
 Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
 
+![Style Guide Cover Page](/MedWaterStyleGuide_Page_1.png "Style Guide")[/MedWaterStyleGuide.pdf] 
+
 ## Low Fidelity Prototype
 Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat velit scelerisque in dictum non. Id cursus metus aliquam eleifend mi in. Lectus sit amet est placerat in egestas erat.
+
 
 ## Usability Study
 Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
