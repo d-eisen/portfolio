@@ -95,18 +95,18 @@ The design I created was a result of self-started questions,
 validating assumptions, benchmarking,  and guerilla testing. I could
 have done some more usability studies early in the process, however.
 
-#Research
+# Research
 Lorem ipsem dolor petsit
 
-[MedWater Interview Summary](/MWInterviewSummary.jpg)
+![MedWater Interview Summary](/MWInterviewSummary.jpg)
 
-#Discover
+# Discover
 
-#Design
+# Design
 
-#Iterate
+# Iterate
 
-#Deliver
+# Deliver
 
 # Informal Competitive Analysis
 
