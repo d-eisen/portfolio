@@ -148,24 +148,25 @@ Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat 
 ## User Flows
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus at urna condimentum mattis pellentesque id nibh tortor. 
 
-![User Flow Low Fidelity](/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity")*User flow sketch: Landing Page to Create Account*
+![User Flow Low Fidelity](/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity") *User flow sketch: Landing Page to Create Account*
 
-![User Flow High Fidelity 1](/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1")*User flow high fidelity: Landing Page to Create Account*
+![User Flow High Fidelity 1](/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1") *User flow high fidelity: Landing Page to Create Account*
 
-![User Flow High Fidelity](/MedWaterUserFlowsHiFi_Page_2.jpg "User Flow High Fidelity 2")*User flow high fidelity: Landing Page to Donation*
+![User Flow High Fidelity](/MedWaterUserFlowsHiFi_Page_2.jpg "User Flow High Fidelity 2") *User flow high fidelity: Landing Page to Donation*
 
 ## Sketching
 Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
 
-![Sketch: Landing Page to Login](/01MWLandingPagetoLogin_Page_1.jpg "Landing Page to Login 1")*Screen design sketch: Landing Page to Create Account 1*
+![Sketch: Landing Page to Login1](/01MWLandingPagetoLogin_Page_1.jpg "Landing Page to Login 1")*Screen design sketch: Landing Page to Create Account 1*
 
-![User Flow High Fidelity 1](/01MWLandingPagetoLogin_Page_2.jpg "Landing Page to Login 1")*Screen design sketch: Landing Page to Create Account 1*
-
-![User Flow High Fidelity](/MedWaterUserFlowsHiFi_Page_2.jpg "User Flow High Fidelity 2")*User flow high fidelity: Landing Page to Donation*
-
+![Sketch: Landing Page to Login2](/01MWLandingPagetoLogin_Page_2.jpg "Landing Page to Login 2") *Screen design sketch: Landing Page to Create Account 2*
 
 ## Wireframing
 Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
+
+![Wire Frame 1](/03LandingPgToLogin.pdf "Wire Frame: Landing Page to Login") *Wire Frame: Landing Page to Donation*
+
+
 
 ## Style Guide
 Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
