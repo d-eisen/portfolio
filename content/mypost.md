@@ -77,7 +77,7 @@ draft: false
 # The Challenge
 
 A non governmental organization called MedWater asked me to create a **minimum viable product**for a website that was suitable for mobile.
-The organization's goal for this project is to increase financial and community support for users of the site in it's English speaking markets. 
+The organization's goal for this project is to increase financial and community support for users of the site in it's English speaking markets. The design I created was the result of an iterative research and design process.
 
 <!-- It was the first project
 where I handled mobile app design, and I was very excited to learn the
@@ -90,13 +90,13 @@ several startup prep work for the product to take off. My job was to
 actually create the experience for their users and make sure they are
 represented in the design process. -->
 
-The design I created was the result of an iterative design and research process. 
+ 
 
 # Research
-##Survey
+## Survey
 A screener survey was completed with participants who reported that they had been involved with NGO’s as a supporter or volunteer in the last twelve months. 
 
-##Interview
+## Interview
 Interviews were conducted with a representative group of users.
 ![MedWater Interview Summary](/MWInterviewSummary.jpg)*Interview Summary Report Cover*
 
