@@ -6,7 +6,7 @@ weight: 1
 title: "MedWater | David Eisenmenger"
 
 # This is the description in the <head> tag
-description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
+description: "I set a direction for the rebranding of the product and crafted a functioning prototype ready for usability testing and development."
 
 # This the heading of the navigation at the top of the case study
 nav_heading: "MedWater Case Study"
