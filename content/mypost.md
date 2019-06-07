@@ -130,12 +130,16 @@ Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sa
 
 ## Site Map
 Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
+
 ![Site Map Low Fidelity](/MwSiteMapLoFi.jpg "Site Map Low Fidelity")
+
 ![Site Map High Fidelity](/MwSiteMap.jpg "Site Map High Fidelity")
 
 ## Card Sort
 Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
+
 ![Card Sort Report Cover](/MedWaterCardSortReportV1_Page_1.jpg "Card Sort Report Cover")
+
 ![Card Sort Similarity Index](/MedWaterCardSortSimilarityMatrixFinal.png "Site Map High Fidelity")
 
 # Design and Iteration
@@ -143,6 +147,12 @@ Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat 
 
 ## User Flows
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus at urna condimentum mattis pellentesque id nibh tortor. 
+
+![User Flow Low Fidelity](/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity")*User flow sketch: Landing Page to Create Account*
+
+![User Flow High Fidelity 1](/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1")*User flow high fidelity: Landing Page to Create Account
+
+![User Flow High Fidelity](/MedWaterUserFlowsHiFi_Page_2.jpg "User Flow High Fidelity 2")*User flow high fidelity: Landing Page to Donation
 
 ## Sketching
 Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
