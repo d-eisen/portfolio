@@ -164,9 +164,15 @@ Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sa
 ## Wireframing
 Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
 
-![Wire Frame 1](/03LandingPgToLogin.pdf "Wire Frame: Landing Page to Login") *Wire Frame: Landing Page to Donation*
+![Wire Frame 1](/LandingPgToDonate.png "Wire Frame: Landing Page to Login 1") 
 
+![Wire Frame 2](/LandingPgToDonate2.png "Wire Frame: Landing Page to Login 2") 
 
+![Wire Frame 3](/LandingPgToDonate3.png "Wire Frame: Landing Page to Login 3") 
+
+![Wire Frame 4](/LandingPgToDonate4.png "Wire Frame: Landing Page to Login 4") 
+
+![Wire Frame 5](/LandingPgToDonate5.png "Wire Frame: Landing Page to Login 5") 
 
 ## Style Guide
 Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
