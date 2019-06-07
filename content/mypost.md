@@ -46,7 +46,7 @@ methods: ["Sketching", "Wireframing", "Usability Testing"]
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
 # Place your custom svgs into /static/svg
 button_links:
-    - link: "https://drive.google.com/open?id=1keBUGsAtKGhKGiyBmOXFzF8BZa8go2Xm"
+    - link: "./sites/portfolio/static/MWMobilePrototype.pdf"
       img: "eyeball.svg"
       text: "View Prototype"
     # - link: "http://copenow.co/"
