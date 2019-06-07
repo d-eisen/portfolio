@@ -150,12 +150,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![User Flow Low Fidelity](/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity")*User flow sketch: Landing Page to Create Account*
 
-![User Flow High Fidelity 1](/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1")*User flow high fidelity: Landing Page to Create Account
+![User Flow High Fidelity 1](/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1")*User flow high fidelity: Landing Page to Create Account*
 
-![User Flow High Fidelity](/MedWaterUserFlowsHiFi_Page_2.jpg "User Flow High Fidelity 2")*User flow high fidelity: Landing Page to Donation
+![User Flow High Fidelity](/MedWaterUserFlowsHiFi_Page_2.jpg "User Flow High Fidelity 2")*User flow high fidelity: Landing Page to Donation*
 
 ## Sketching
 Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
+
+![Sketch: Landing Page to Login](/01MWLandingPagetoLogin_Page_1.jpg "Landing Page to Login 1")*Screen design sketch: Landing Page to Create Account 1*
+
+![User Flow High Fidelity 1](/01MWLandingPagetoLogin_Page_2.jpg "Landing Page to Login 1")*Screen design sketch: Landing Page to Create Account 1*
+
+![User Flow High Fidelity](/MedWaterUserFlowsHiFi_Page_2.jpg "User Flow High Fidelity 2")*User flow high fidelity: Landing Page to Donation*
+
 
 ## Wireframing
 Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
