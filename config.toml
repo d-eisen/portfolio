@@ -35,9 +35,9 @@ googleAnalytics = "UA-138889713-1"
     # subtitle = "Full Process Design"
 
 [params.case_studies]
-    enable = false
-    title = "Case Studies"
-    subtitle = "Selected Works"
+    enable = true
+    title = "Case Study"
+    subtitle = "User Experience Design"
 
 [params.footer]
     enable = true
