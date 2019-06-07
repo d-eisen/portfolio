@@ -12,7 +12,7 @@ description: "I set a direction for the branding and identity of the product and
 nav_heading: "MedWater Case Study"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
-thumbnail: "/LandingPg.png"
+thumbnail: "LandingPg.png"
 
 # This is the title of the case study in the case studies section
 case_short_title: "MedWater Mobile Site"
