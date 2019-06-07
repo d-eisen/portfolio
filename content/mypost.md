@@ -175,9 +175,9 @@ Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci
 ![Wire Frame 5](/LandingPgToDonate5.png "Wire Frame: Landing Page to Login 5") 
 
 ## Style Guide
-Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
+A [style guide](/MedWaterStyleGuide.pdf) was developed. Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
 
-![Style Guide Cover Page](/MedWaterStyleGuide_Page_1.png "Style Guide")[/MedWaterStyleGuide.pdf] 
+![Style Guide Cover Page](/MedWaterStyleGuide_Page_1.png "Style Guide")  
 
 ## Low Fidelity Prototype
 Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat velit scelerisque in dictum non. Id cursus metus aliquam eleifend mi in. Lectus sit amet est placerat in egestas erat.
