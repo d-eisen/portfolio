@@ -76,10 +76,9 @@ draft: false
 ---
 # The Challenge
 
-![](//localhost:1313/cope/img/persona.png)
+A non governmental organization called MedWater asked me to create a **minimum viable product**for a website that was suitable for mobile.
+The organization's goal for this project is to increase financial and community support for users of the site in it's English speaking markets. 
 
-A non governmental organization called MedWater asked me to create a **minimum viable product**
-for a website that was suitable for mobile. 
 <!-- It was the first project
 where I handled mobile app design, and I was very excited to learn the
 intricacies of the iOS platform. -->
@@ -91,78 +90,80 @@ several startup prep work for the product to take off. My job was to
 actually create the experience for their users and make sure they are
 represented in the design process. -->
 
-The design I created was a result of self-started questions,
-validating assumptions, benchmarking,  and guerilla testing. I could
-have done some more usability studies early in the process, however.
+The design I created was the result of an iterative design and research process. 
 
 # Research
 ##Survey
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus at urna condimentum mattis pellentesque id nibh tortor.
+A screener survey was completed with participants who reported that they had been involved with NGO’s as a supporter or volunteer in the last twelve months. 
 
 ##Interview
-Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
+Interviews were conducted with a representative group of users.
 ![MedWater Interview Summary](/MWInterviewSummary.jpg)*Interview Summary Report Cover*
 
 # Discovery: Personas and Empathy Maps
-Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
-
+Based on these interviews 2 primary personas of users emerged. 
 
 ## Personas
-Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
-
+The first persona, Linda, valued personal connection as a factor related to her involvement with organizations. Linda was generous with her time and was not a frequent user of mobile apps.
 ![Persona Linda](/PersonaLinda.jpg "Lean Persona Linda")
-Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
 
+The second persona, Shawn, valued personal connection as well. Shawn had less time to give and appreciated convenience as factor in websites and apps.
 ![Persona Shawn](/PersonaShawn.jpg "Lean Persona Shawn")
-Commodo nulla facilisi nullam vehicula ipsum a arcu.
 
 ## Empathy Maps
-Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat velit scelerisque in dictum non. Id cursus metus aliquam eleifend mi in. Lectus sit amet est placerat in egestas erat.
+Empathy maps were developed to gain a more detailed view of each persona's behaviors and motivations.
 
 ![Empathy Map Linda](/EmpathyMaps_Page_1.jpg "Empathy Map Linda")
 
 ![Empathy Map Linda](/EmpathyMaps_Page_2.jpg "Empathy Map Shawn")
 
-Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
+# Content Strategy: Card Sort and Site Map
 
-# Content Strategy: Site Map and Card Sort
-Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
 
-## Site Map
-Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
-
-![Site Map Low Fidelity](/MwSiteMapLoFi.jpg "Site Map Low Fidelity")
-
-![Site Map High Fidelity](/MwSiteMap.jpg "Site Map High Fidelity")
-
-## Card Sort
-Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
+# Card Sort
+With the user personas in mind, A card sort activity was engaged to evaluate how users would categorize information on a website. This activity evaluates the website’s content strategy by asking participants in a study to sort cards with tasks associated with the website into categories that make sense to the user. The results of the study including the categories, cards, and participant comments (during moderated sessions) are analyzed and evaluated. 
 
 ![Card Sort Report Cover](/MedWaterCardSortReportV1_Page_1.jpg "Card Sort Report Cover")
 
+The following similarity matrix (representing the combined participants) compares two cards and scores them based on how many participants agreed with the pair. Darker/higher numbers signify a stronger relationship between the card above the number and the card to the right of the number.  
+
 ![Card Sort Similarity Index](/MedWaterCardSortSimilarityMatrixFinal.png "Site Map High Fidelity")
 
+
+
+## Site Map
+Informed by the categories that users selected during the card sort activity a site map was developed based on the results of the study. 
+
+![Site Map Low Fidelity](/MwSiteMapLoFi.jpg "Site Map Low Fidelity")
+
+Additional review the results resulted in a second iteration of the site map.
+
+![Site Map High Fidelity](/MwSiteMap.jpg "Site Map High Fidelity")
+
+#
 # Design and Iteration
-Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat velit scelerisque in dictum non. Id cursus metus aliquam eleifend mi in. Lectus sit amet est placerat in egestas erat.
+Based on the results of the research and discovery activities described above, some flows for typical user processes began to emerge.
 
 ## User Flows
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus at urna condimentum mattis pellentesque id nibh tortor. 
+Sketches were made of the most fundamental processes of the site, including this example of a user flow from the landing page to the creation of a user account.
 
 ![User Flow Low Fidelity](/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity") *User flow sketch: Landing Page to Create Account*
+
+Based on these sketches and additonal study of the research material, higher fidelity renderings of the user flows were completed.
 
 ![User Flow High Fidelity 1](/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1") *User flow high fidelity: Landing Page to Create Account*
 
 ![User Flow High Fidelity](/MedWaterUserFlowsHiFi_Page_2.jpg "User Flow High Fidelity 2") *User flow high fidelity: Landing Page to Donation*
 
 ## Sketching
-Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
+With a clearer sense of how a user might interact with the site, some inital sketches could be made. Here are early sketches of screen flows from the Landing Page to creating an Account.
 
 ![Sketch: Landing Page to Login1](/01MWLandingPagetoLogin_Page_1.jpg "Landing Page to Login 1")*Screen design sketch: Landing Page to Create Account 1*
 
 ![Sketch: Landing Page to Login2](/01MWLandingPagetoLogin_Page_2.jpg "Landing Page to Login 2") *Screen design sketch: Landing Page to Create Account 2*
 
 ## Wireframing
-Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
+Based on user feedback on sketches a low fidelity wire frame was developed. This wire frame is an rendering of the Landing Page to Donation user flow. 
 
 ![Wire Frame 1](/LandingPgToDonate.png "Wire Frame: Landing Page to Login 1") 
 
@@ -175,161 +176,23 @@ Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci
 ![Wire Frame 5](/LandingPgToDonate5.png "Wire Frame: Landing Page to Login 5") 
 
 ## Style Guide
-A [style guide](/MedWaterStyleGuide.pdf) was developed. Nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus scelerisque eleifend donec pretium. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. 
+In preparation for a prototype a [style guide](/MedWaterStyleGuide.pdf) was developed. The style guide reflects the color scheme and font choices and some basic aspects of the user interface. A color palatte was selected based on the organization's current color scheme and their emphasis on water. Additonal remaining colors reﬂect some of the tones found in the region of Ecuador where the organization's operations are based. The green shades for text reﬂect the mood of growth and optimism that the site coneys.
 
 ![Style Guide Cover Page](/MedWaterStyleGuide_Page_1.png "Style Guide")  
 
 ## Low Fidelity Prototype
-Consequat ac felis donec et odio pellentesque diam volutpat commodo. Etiam erat velit scelerisque in dictum non. Id cursus metus aliquam eleifend mi in. Lectus sit amet est placerat in egestas erat.
+A low fidelity clickable prototype was created in Balsamiq. The protoype simulates the flows mapped in previous iterations.
 
 
 ## Usability Study
-Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
+Based on the low fidelity protoype, a moderated usability study was completed. Users were asked to complete tasks related to creating an account, making a donation to the organization, and challenges others in a fundraising activity using the mobile site. 
+
 
 ![Usabilty Report Cover Page](/MWUsabilityTestReport_Page_1.png "Style Guide")
 
 # Next Steps
 
-The project is actually in development now and the next step is
-to conduct usability tests, install analytics and use new insights to
-inform new iterations of the product. Design a better onboarding
-process. Design for empty states. Design copywriting and strategy for
-push notifications as trigger. Integrate a social aspect into the
-application. All these will be helpful to create a better design for the app.
+Based on the results of the usability study, an additional iteration of the design and further testing will have the design ready for beta development. 
 
+Additional areas for research and design are related to the updating the organizations blog structure and their use of mapping assets with the organization's partner communities in Ecuador.
 
-
-# Informal Competitive Analysis
-
-We checked the App Store for similar applications, and we found
-out that there were no well-designed niche applications for handling
-mental health. We found another app called Cope as well, but their
-solution was more of a community-based social sharing platform. We saw
-this as an opportunity for our own version of Cope to solve a unique
-problem in the space.
-
-![](//localhost:1313/cope/img/competition-cope.jpg)
-
-Instead, we drew inspiration from applications that feature the
-design components we needed: menstrual cycle management apps that have
-good summaries and calendars, emotion tracking apps, medicine tracking apps.
-
-I used the concepts gained from these applications to study how
-they understood the mental models of their own users and hopefully
-replicate that kind of empathy whenever I create design decisions for Cope.
-
-# Pivoting
-
-We had feature changes and a lot of design decisions cancelled.
-Before, we had different modules for the design: forums, mental health
-doctor search, messaging.
-
-![](//localhost:1313/cope/img/discarded.jpg)
-
-We finalized the components of Cope that we wanted to build and
-we decided that we wanted to focus on tracking their progress for
-mental health. I had to drop some UI explorations I did for the first
-version of Cope we were building.
-            
-# Ideation and Feature Prioritization
-
-How do we exactly track one's progress in mental health? How do
-we make sure that the design is as usable as possible? What specific
-things should we track? How do we gauge someone's well-being in as few
-questions as possible? How do we design an efficient system for tracking
-and managing medication, and how does it tie up with the overall
-well-being score and progress of the user? How do we make a
-habit-forming product?
-            
-![](//localhost:1313/cope/img/sketch.png)
-
-There were so many questions we had to answer going into the
-project, but we decided on four key features that will serve as the
-solution to the mental health tracking problem: a self-report check-in
-system, medicine tracker, calendar overview, and summary dashboard. All
-modules work together to form a cohesive whole as a mental health
-tracking platform.
-            
-![](//localhost:1313/cope/img/summary.png)
-
-# Assumptions and Considerations
-
-**The boundaries of self-reporting and analysis** 
-<br>We cannot really derive a diagnosis from the self-report component of
-the application because doctors are the only ones qualified to do it.
-There are so many factors that relate to mental health, and we realized
-as a team that the last thing that our app would want to do is to guess.
-The design decision is to tally user's progress based on his or her own
-input, and we would assign a total well-being score based on the
-aggregate of their answers.
-            
-![](//localhost:1313/cope/img/calendar.png)
-
-**Frequency of data collection**
-<br>How exactly do we know if the emotion that was self-reported persisted all throughout
-the day? As human beings, our emotions constantly change. We can't do a
-self-check just once a day because the data becomes inaccurate. We
-decided to have multiple check-ins as the solution. That changed the
-initial design I created for the calendar screen.
-            
-# User Flow Brainstorming
-
-![](//localhost:1313/cope/img/flow.png)
-
-**Designing the onboarding process**
-<br>The onboarding process starts with the user signing up or logging in and
-keying important data. The user then performs his or her first symptoms
-check-in. This is essential so there could be a baseline for his or her
-data in the calendar and summary screens. He or she is led to an empty
-state of the medicine tracker screen. From there, the user could add
-medicine or check out his summary or calendar.   
-         
-# Hi-Fidelity Design
-
-After asking so many questions about the product and validating
-our assumptions with experts, I created different screens using Sketch.
-There were multiple versions and ideas that I had to validate, and
-frankly, I feel like I haven't tested the solutions that I created yet.
-During this phase, I got advice from a data visualization desginer if I
-were designing the graphs correctly. I created a quick [landing page as well.](http://copenow.co)
-            
-![](//localhost:1313/cope/img/add-medicine.png)
-
-**Design Intentionality**
-<br>There are so many nuances during the high fidelity design phase
-and so we kept on going back to sketching all the time. I tried to be
-smarter in thinking about the usability of each design. My focus was to
-be more intentional in all of the affordances I create within the application.
-            
-# Prototyping
-
-I built [the prototype](https://marvelapp.com/g4b64e/screen/14364499) 
-with Invision first but I encountered some problems with the tool.
-MarvelApp proved a better choice. After building the prototype with
-normal hotlinks, I believe we were ready to try it out with some users.
-                                      
-# Guerilla Testing
-
-I tested the application with 7 college students from Ateneo de
-Manila University with convenience sampling. The results revealed some
-usability questions for the app. What would the users actually do after
-keying in their symptoms for the day? What if they do not have
-medication ready? How can we get them to come back and actually use it
-again? Indeed, there are many more things to design for the product that
-we have not explored yet.
-            
-# Next Steps
-
-The project is actually in development now and the next step is
-to conduct usability tests, install analytics and use new insights to
-inform new iterations of the product. Design a better onboarding
-process. Design for empty states. Design copywriting and strategy for
-push notifications as trigger. Integrate a social aspect into the
-application. All these will be helpful to create a better design for the app.
-            
-![](//localhost:1313/cope/img/cope-final.png)
-
-In reality, product design is the easy part. The real problems
-we're facing involve fighting a stigma around mental health, building an
-open, supportive and vulnerable community, and creating a sustainable
-business model for the product.
