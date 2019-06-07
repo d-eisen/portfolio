@@ -101,7 +101,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##Interview
 Nisi est sit amet facilisis magna etiam tempor. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem.
-![MedWater Interview Summary](/MWInterviewSummary.jpg)
+![MedWater Interview Summary](/MWInterviewSummary.jpg)*Interview Summary Report Cover*
 
 # Discovery: Personas and Empathy Maps
 Aliquet sagittis id consectetur purus ut faucibus. Dictum fusce ut placerat orci. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Commodo nulla facilisi nullam vehicula ipsum a arcu. 
