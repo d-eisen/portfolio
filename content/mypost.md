@@ -31,7 +31,7 @@ case_description: "MedWater.com is an informational website for a non government
 case_feature_img: "LandingPg.png"
 
 # This is the case summary in the case itself
-case_summary: "Medwater.com is an informational website for the organization. The site is focused on allowing supporters to donate to the organization, fundraise via Venmo and Facebook and review updates from the field. I created a minimum viable product for this site."
+case_summary: "Medwater.com is an informational website for the organization. The site is focused on allowing supporters to donate to the organization, raise funds via Venmo and Facebook and review updates from the field. I created a minimum viable product for this site."
 
 # Your team members
 team: ["David Eisenmenger"]
@@ -120,7 +120,7 @@ Empathy maps were developed to gain a more detailed view of each persona's behav
 # Content Strategy: Card Sort and Site Map
 
 
-# Card Sort
+## Card Sort
 With the user personas in mind, A card sort activity was engaged to evaluate how users would categorize information on a website. This activity evaluates the website’s content strategy by asking participants in a study to sort cards with tasks associated with the website into categories that make sense to the user. The results of the study including the categories, cards, and participant comments (during moderated sessions) are analyzed and evaluated. 
 
 ![Card Sort Report Cover](/MedWaterCardSortReportV1_Page_1.jpg "Card Sort Report Cover")
@@ -140,8 +140,8 @@ Additional review the results resulted in a second iteration of the site map.
 
 ![Site Map High Fidelity](/MwSiteMap.jpg "Site Map High Fidelity")
 
-#
-# Design and Iteration
+
+## Design and Iteration
 Based on the results of the research and discovery activities described above, some flows for typical user processes began to emerge.
 
 ## User Flows
@@ -149,14 +149,14 @@ Sketches were made of the most fundamental processes of the site, including this
 
 ![User Flow Low Fidelity](/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity") *User flow sketch: Landing Page to Create Account*
 
-Based on these sketches and additonal study of the research material, higher fidelity renderings of the user flows were completed.
+Based on these sketches and additional study of the research material, higher fidelity renderings of the user flows were completed.
 
 ![User Flow High Fidelity 1](/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1") *User flow high fidelity: Landing Page to Create Account*
 
 ![User Flow High Fidelity](/MedWaterUserFlowsHiFi_Page_2.jpg "User Flow High Fidelity 2") *User flow high fidelity: Landing Page to Donation*
 
 ## Sketching
-With a clearer sense of how a user might interact with the site, some inital sketches could be made. Here are early sketches of screen flows from the Landing Page to creating an Account.
+With a clearer sense of how a user might interact with the site, some initial sketches could be made. Here are early sketches of screen flows from the Landing Page to creating an Account.
 
 ![Sketch: Landing Page to Login1](/01MWLandingPagetoLogin_Page_1.jpg "Landing Page to Login 1")*Screen design sketch: Landing Page to Create Account 1*
 
@@ -176,19 +176,19 @@ Based on user feedback on sketches a low fidelity wire frame was developed. This
 ![Wire Frame 5](/LandingPgToDonate5.png "Wire Frame: Landing Page to Login 5") 
 
 ## Style Guide
-In preparation for a prototype a [style guide](/MedWaterStyleGuide.pdf) was developed. The style guide reflects the color scheme and font choices and some basic aspects of the user interface. A color palatte was selected based on the organization's current color scheme and their emphasis on water. Additonal remaining colors reﬂect some of the tones found in the region of Ecuador where the organization's operations are based. The green shades for text reﬂect the mood of growth and optimism that the site coneys.
+In preparation for a prototype a [style guide](/MedWaterStyleGuide.pdf) was developed. The style guide reflects the color scheme and font choices and some basic aspects of the user interface. A color palette was selected based on the organization's current color scheme and their emphasis on water. Additional remaining colors reﬂect some of the tones found in the region of Ecuador where the organization's operations are based. The green shades for text reﬂect the mood of growth and optimism that the site coneys.
 
 ![Style Guide Cover Page](/MedWaterStyleGuide_Page_1.png "Style Guide")  
 
 ## Low Fidelity Prototype
-A low fidelity clickable prototype was created in Balsamiq. The protoype simulates the flows mapped in previous iterations.
+A low fidelity clickable [prototype] (/MWMobilePrototype.pdf) was created in Balsamiq. The prototype primarily simulates the login and donation flows.
 
 
 ## Usability Study
-Based on the low fidelity protoype, a moderated usability study was completed. Users were asked to complete tasks related to creating an account, making a donation to the organization, and challenges others in a fundraising activity using the mobile site. 
+Based on the low fidelity prototype, a moderated usability study was completed. Users were asked to complete tasks related to creating an account, making a donation to the organization, and challenges others in a fundraising activity using the mobile site. 
 
 
-![Usabilty Report Cover Page](/MWUsabilityTestReport_Page_1.png "Style Guide")
+![Usability Report Cover Page](/MWUsabilityTestReport_Page_1.png "Style Guide")
 
 # Next Steps
 
