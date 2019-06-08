@@ -57,7 +57,7 @@ button_links:
       text: "Download Style Guide"
 
 # Testimonial text
-testimonial: "David has really helped us to take some important steps in realizing our vision for this site. His work with has been from end to end."
+testimonial: "David has helped us to realize our vision for this site. His work has been valuable from the start."
 
 # Testimonial photo, place this at /post_title_here/img
 # e.g. /mypost/img
