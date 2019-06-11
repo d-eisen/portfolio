@@ -10,11 +10,11 @@ theme = "hugo-lodi-theme"
 
     # head description
     # This is what appears on the preview when posting this site on Facebook for example
-    description = ""
+    description = "David Eisenmenger: Portfolio"
 
     # head photo
     # This is what appears on the preview when posting this site on Facebook for example
-    description_photo = "portfolio.jpg"
+    description_photo = "portfolio.png"
 
     # favicon image (512x512px), place this in the static/img folder
     favicon = "favicon.png"
