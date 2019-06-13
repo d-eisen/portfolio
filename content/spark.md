@@ -11,7 +11,7 @@ description: "I set a direction for the branding and identity of the product and
 nav_heading: "Spark! Case Study"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
-thumbnail: "SparkBoardMockup(sm).png"
+thumbnail: "SparkBoardMockup(SqSmall).png"
 
 # This is the title of the case study in the case studies section
 case_short_title: "Spark Training Module"
@@ -27,7 +27,7 @@ case_description: "Spark is an in person training module for diverisity and incl
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
-case_feature_img: "SparkBoardMockup(sm).png"
+case_feature_img: "/SparkBoardMockup(SqSmall).png"
 
 # This is the case summary in the case itself
 case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
