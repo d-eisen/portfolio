@@ -1,9 +1,9 @@
----
+World---
 # This determines what shows up first, lower weight = shows up first
 weight: 1
 
 # This is what appears as the tab's title
-title: "MedWater | David Eisenmenger"
+title: "WorldWater | David Eisenmenger"
 
 # This is the description in the <head> tag
 description: "I set a direction for the rebranding of the product and crafted a functioning prototype ready for usability testing and development."
@@ -15,7 +15,7 @@ nav_heading: "MedWater Case Study"
 thumbnail: "LandingPg.png"
 
 # This is the title of the case study in the case studies section
-case_short_title: "MedWater Mobile Site"
+case_short_title: "WorldWater Mobile Site"
 
 # This is the title of the case study in the case study page
 case_title: "MedWater Mobile Site"
@@ -24,14 +24,14 @@ case_title: "MedWater Mobile Site"
 case_subtitle: "Mobile First Web Design"
 
 # This is the case description in the case studies section
-case_description: "MedWater.com is an informational website for a non governmental organization focused on water, sanitation, and hygiene for communities in Ecuador."
+case_description: "WorldWater.com is an informational website for a non governmental organization focused on water, sanitation, and hygiene for communities in Ecuador."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
 case_feature_img: "LandingPg.png"
 
 # This is the case summary in the case itself
-case_summary: "Medwater.com is an informational website for the organization. The site is focused on allowing supporters to donate to the organization, raise funds via Venmo and Facebook and review updates from the field. I created a minimum viable product for this site."
+case_summary: "WorldWater.com is an informational website for the organization. The site is focused on allowing supporters to donate to the organization, raise funds via Venmo and Facebook and review updates from the field. I created a minimum viable product for this site."
 
 # Your team members
 team: ["David Eisenmenger"]
