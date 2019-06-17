@@ -76,7 +76,7 @@ draft: false
 ---
 # The Challenge
 
-A non governmental organization called WorldWater asked me to create a **minimum viable product**for a website that was suitable for mobile.
+A non governmental organization called WorldWater asked me to create a **minimum viable product**for a website that was suitable for mobile. The organization's website performed poorly on small screens.
 The organization's goal for this project is to increase financial and community support for users of the site in it's English speaking markets. The design I created was the result of an iterative research and design process.
 
 <!-- It was the first project
@@ -111,7 +111,7 @@ The second persona, Shawn, valued personal connection as well. Shawn had less ti
 ![Persona Shawn](/PersonaShawn.jpg "Lean Persona Shawn")
 
 ## Empathy Maps
-Empathy maps were developed to gain a more detailed view of each persona's behaviors and motivations.
+I created empathy maps based on these personas to gain a more detailed view of each user persona's behaviors and motivations.
 
 ![Empathy Map Linda](/EmpathyMaps_Page_1.jpg "Empathy Map Linda")
 
