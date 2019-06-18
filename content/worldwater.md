@@ -76,7 +76,11 @@ draft: false
 ---
 # The Challenge
 
+<<<<<<< HEAD
 A non governmental organization called MedWater asked me to create a **minimum viable product**for a website that was suitable for mobile.
+=======
+A non governmental organization called WorldWater asked me to create a **minimum viable product**for a website that was suitable for mobile.
+>>>>>>> edab1b1... Revert "Narrative challenge and testimonial updated"
 The organization's goal for this project is to increase financial and community support for users of the site in it's English speaking markets. The design I created was the result of an iterative research and design process.
 
 <!-- It was the first project
