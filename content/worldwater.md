@@ -9,7 +9,7 @@ title: "WorldWater | David Eisenmenger"
 description: "I set a direction for the rebranding of the product and crafted a functioning prototype ready for usability testing and development."
 
 # This the heading of the navigation at the top of the case study
-nav_heading: "WorldWater Case Study"
+nav_heading: "MedWater Case Study"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
 thumbnail: "LandingPg.png"
@@ -18,7 +18,7 @@ thumbnail: "LandingPg.png"
 case_short_title: "WorldWater Mobile Site"
 
 # This is the title of the case study in the case study page
-case_title: "WorldWater Mobile Site"
+case_title: "MedWater Mobile Site"
 
 # This is the subtitle of the case study in the case studies section and the case study page
 case_subtitle: "Mobile First Web Design"
@@ -67,7 +67,7 @@ testimonial: "David has really helped us to take some important steps in realizi
 testimonial_author: "Darrell Adams"
 
 # Testimonial subtitle, usually position of the testimonial author
-testimonial_subtitle: "Co-founder, WorldWater"
+testimonial_subtitle: "Co-founder, MedWater"
 
 date: 2019-05-21T15:11:07-04:00
 draft: false
@@ -76,7 +76,7 @@ draft: false
 ---
 # The Challenge
 
-A non governmental organization called WorldWater asked me to create a **minimum viable product**for a website that was suitable for mobile.
+A non governmental organization called MedWater asked me to create a **minimum viable product**for a website that was suitable for mobile.
 The organization's goal for this project is to increase financial and community support for users of the site in it's English speaking markets. The design I created was the result of an iterative research and design process.
 
 <!-- It was the first project
@@ -98,7 +98,7 @@ A screener survey was completed with participants who reported that they had bee
 
 ## Interview
 Interviews were conducted with a representative group of users.
-![WorldWater Interview Summary](/MWInterviewSummary.jpg)*Interview Summary Report Cover*
+![MedWater Interview Summary](/MWInterviewSummary.jpg)*Interview Summary Report Cover*
 
 # Discovery: Personas and Empathy Maps
 Based on these interviews 2 primary personas of users emerged. 
