@@ -7,7 +7,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 [params]
     theme_color = "#574CDD"
     description = "Portfolio of Alexis Collado, UX Designer"
-    description_photo = "portfolio.jpg"
+    description_photo = "portfolio.png"
     favicon = "favicon.png"
     logo = "logo.png"
     email = "myemail@gmail.com"
