@@ -31,7 +31,7 @@ case_description: "WorldWater.com is an informational website for a non governme
 case_feature_img: "LandingPg.png"
 
 # This is the case summary in the case itself
-case_summary: "WorldWater.com is an informational website for the organization. The site is focused on allowing supporters to donate to the organization, raise funds via Venmo and Facebook and review updates from the field. I created a minimum viable product for this site."
+case_summary: "This is an informational website for the WorldWater organization. The site is focused on allowing supporters to donate to the organization, raise funds via Venmo and Facebook and review updates from the field. I created a minimum viable product for this site."
 
 # Your team members
 team: ["David Eisenmenger"]
