@@ -7,7 +7,7 @@ googleAnalytics = "UA-138889713-1"
 [params]
     theme_color = "#4ca2ff"
     description = "Portfolio of David Eisenmenger, UX Researcher and Designer"
-    description_photo = "portfolio.png"
+    description_photo = "https://www.heronblue.design/img/portfolio.png"
     favicon = "logo.png"
     logo = "logo.png"
     email = "david@heronblue.design"
