@@ -28,7 +28,7 @@ case_description: "WorldWater.com is an informational website for a non governme
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
-case_feature_img: "WWLandingPg.png"
+case_feature_img: "WWLandingPgV3LG.png"
 
 # This is the case summary in the case itself
 case_summary: "This is an informational website for the WorldWater organization. The site is focused on allowing supporters to donate to the organization, raise funds via Venmo and Facebook and review updates from the field. I created a minimum viable product for this site."
