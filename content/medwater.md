@@ -12,7 +12,7 @@ description: "I set a direction for the rebranding of the product and crafted a 
 nav_heading: "WorldWater Case Study"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
-thumbnail: "LandingPg.png"
+thumbnail: "WWLandingPg.png"
 
 # This is the title of the case study in the case studies section
 case_short_title: "WorldWater Mobile Site"
@@ -28,7 +28,7 @@ case_description: "WorldWater.com is an informational website for a non governme
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
-case_feature_img: "LandingPg.png"
+case_feature_img: "WWLandingPg.png"
 
 # This is the case summary in the case itself
 case_summary: "This is an informational website for the WorldWater organization. The site is focused on allowing supporters to donate to the organization, raise funds via Venmo and Facebook and review updates from the field. I created a minimum viable product for this site."
