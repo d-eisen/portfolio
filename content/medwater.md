@@ -12,7 +12,7 @@ description: "I set a direction for the rebranding of the product and crafted a 
 nav_heading: "WorldWater Case Study"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
-thumbnail: "WWLandingPg.png"
+thumbnail: "WWLandingPgV3LG.png"
 
 # This is the title of the case study in the case studies section
 case_short_title: "WorldWater Mobile Site"
