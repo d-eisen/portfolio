@@ -75,7 +75,7 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 # The Problem
-A non governmental organization named WorldWater asked me to redesign their current website. The organization's goal was to leverage increased giving through the site and to attract new users.  In the research phase, some users expressed reluctance to become involved with a new organization. This was a potential barrier.
+A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization's goal was to leverage increased giving through the site and attract new users.  In the research phase, I learned that  users expressed reluctance to become involved with a new organization. This was a potential barrier. 
 
 # The Solution
 I developed a redesigned site as a minimal viable product utilizing mobile first design. Through user research I learned that people using the site were likey to give financially to organzations with which they had a connenction. Users would afford involvement with a new organization if referred by a personal connection. Therefore I redesigned the giving interface to integrat with social media platforms with options to challenge others to give through Facebook or Venmo.
@@ -94,15 +94,11 @@ represented in the design process. -->
 
  
 
-# Research
-## Survey and Interviews
-I performed user research through survey and inperson intviews. A screener survey was completed with participants who reported that they had been involved with NGO’s as a supporter or volunteer in the last twelve months. 
+# Research: Survey and Interviews
+I performed user research through survey and in person interviews. A screener survey was completed with participants who reported that they had been involved with NGO’s as a supporter or volunteer in the last twelve months. Interviews were conducted with a representative group of users.
+![MedWater Interview Summary]()*Users were only 50% favorable to involvment in new organizations*
 
-## Interview
-Interviews were conducted with a representative group of users.
-![MedWater Interview Summary](/MWInterviewSummary.jpg)*Interview Summary Report Cover*
-
-# Discovery: Personas and Empathy Maps
+# Discover: Insights, Personas, Empathy Maps
 Based on these interviews 2 primary personas of users emerged. 
 
 ## Personas
@@ -119,7 +115,7 @@ Empathy maps were developed to gain a more detailed view of each persona's behav
 
 ![Empathy Map Linda](/EmpathyMaps_Page_2.jpg "Empathy Map Shawn")
 
-# Content Strategy: Card Sort and Site Map
+# Further Discovery: Card Sort and Site Map
 
 
 ## Card Sort
@@ -143,7 +139,7 @@ Additional review the results resulted in a second iteration of the site map.
 ![Site Map High Fidelity](/MwSiteMap.jpg "Site Map High Fidelity")
 
 
-## Design and Iteration
+# Design: User Flows, Sketching, and Wire framing
 Based on the results of the research and discovery activities described above, some flows for typical user processes began to emerge.
 
 ## User Flows
@@ -177,16 +173,15 @@ Based on user feedback on sketches a low fidelity wire frame was developed. This
 
 ![Wire Frame 5](/LandingPgToDonate5.png "Wire Frame: Landing Page to Login 5") 
 
-## Style Guide
-In preparation for a prototype a [style guide](/MedWaterStyleGuide.pdf) was developed. The style guide reflects the color scheme and font choices and some basic aspects of the user interface. A color palette was selected based on the organization's current color scheme and their emphasis on water. Additional remaining colors reﬂect some of the tones found in the region of Ecuador where the organization's operations are based. The green shades for text reﬂect the mood of growth and optimism that the site coneys.
 
-![Style Guide Cover Page](/MedWaterStyleGuide_Page_1.png "Style Guide")  
-
-## Low Fidelity Prototype
+# Develop: Low Fidelity Prototype
 A low fidelity clickable [prototype] (/MWMobilePrototype.pdf) was created in Balsamiq. The prototype primarily simulates the login and donation flows.
 
+## Style Guide
+In preparation for a prototype a [style guide](/MedWaterStyleGuide.pdf) was developed. The style guide reflects the color scheme and font choices and some basic aspects of the user interface. A color palette was selected based on the organization's current color scheme and their emphasis on water. Additional remaining colors reﬂect some of the tones found in the region of Ecuador where the organization's operations are based. The green shades for text reﬂect the mood of growth and optimism that the site coneys.
+![Style Guide Cover Page](/MedWaterStyleGuide_Page_1.png "Style Guide")  
 
-## Usability Study
+# Iterate: Usability Study
 Based on the low fidelity prototype, a moderated usability study was completed. Users were asked to complete tasks related to creating an account, making a donation to the organization, and challenges others in a fundraising activity using the mobile site. 
 
 
