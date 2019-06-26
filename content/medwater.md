@@ -113,7 +113,7 @@ Empathy maps were developed to gain a more detailed view of each persona's behav
 
 ![Empathy Map Linda](/EmpathyMaps_Page_1.jpg "Empathy Map Linda")
 
-![Empathy Map Linda](/EmpathyMaps_Page_2.jpg "Empathy Map Shawn")
+![Empathy Map Shawn](/EmpathyMaps_Page_2.jpg "Empathy Map Shawn")
 
 # Further Discovery: Card Sort and Site Map
 
@@ -121,7 +121,7 @@ Empathy maps were developed to gain a more detailed view of each persona's behav
 ## Card Sort
 With the user personas in mind, A card sort activity was engaged to evaluate how users would categorize information on a website. This activity evaluates the website’s content strategy by asking participants in a study to sort cards with tasks associated with the website into categories that make sense to the user. The results of the study including the categories, cards, and participant comments (during moderated sessions) are analyzed and evaluated. 
 
-![Card Sort Report Cover](/MedWaterCardSortReportV1_Page_1.jpg "Card Sort Report Cover")
+<!-- ![Card Sort Report Cover](/MedWaterCardSortReportV1_Page_1.jpg "Card Sort Report Cover") -->
 
 The following similarity matrix (representing the combined participants) compares two cards and scores them based on how many participants agreed with the pair. Darker/higher numbers signify a stronger relationship between the card above the number and the card to the right of the number.  
 
