@@ -74,9 +74,12 @@ draft: false
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
-# The Challenge
+# The Problem
+A non governmental organization named WorldWater asked me to redesign their current website. The organization's goal was to leverage increased giving through the site and to attract new users.
 
-A non governmental organization called WorldWater asked me to create a **minimum viable product**for a website that was suitable for mobile. The organization's goal for this project is to increase financial and community support for users of the site in it's English speaking markets. The design I created was the result of an iterative research and design process.
+# The Solution
+I developed a redesigned site as a minimal viable product utilizing mobile first design. Through user research I learned that people using the site were likey to give financially to organzations with which they had a connenction. Users would afford involvement with a new organization if referred by a personal connection. Therefore I redesigned the giving interface to integrat with social media platforms with options to challenge others to give through Facebook or Venmo.
+
 
 <!-- It was the first project
 where I handled mobile app design, and I was very excited to learn the
@@ -92,8 +95,8 @@ represented in the design process. -->
  
 
 # Research
-## Survey
-A screener survey was completed with participants who reported that they had been involved with NGO’s as a supporter or volunteer in the last twelve months. 
+## Survey and Interviews
+I performed user research through survey and inperson intviews. A screener survey was completed with participants who reported that they had been involved with NGO’s as a supporter or volunteer in the last twelve months. 
 
 ## Interview
 Interviews were conducted with a representative group of users.
