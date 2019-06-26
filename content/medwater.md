@@ -75,7 +75,7 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 # The Problem
-A non governmental organization named WorldWater asked me to redesign their current website. The organization's goal was to leverage increased giving through the site and to attract new users.
+A non governmental organization named WorldWater asked me to redesign their current website. The organization's goal was to leverage increased giving through the site and to attract new users.  In the research phase, some users expressed reluctance to become involved with a new organization. This was a potential barrier.
 
 # The Solution
 I developed a redesigned site as a minimal viable product utilizing mobile first design. Through user research I learned that people using the site were likey to give financially to organzations with which they had a connenction. Users would afford involvement with a new organization if referred by a personal connection. Therefore I redesigned the giving interface to integrat with social media platforms with options to challenge others to give through Facebook or Venmo.
