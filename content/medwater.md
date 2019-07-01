@@ -78,7 +78,6 @@ draft: false
 A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization's goal was to leverage increased giving through the site and attract new users.  In the research phase, I learned that  users expressed reluctance to become involved with a new organization. This was a potential barrier. 
 
 
-
 # The Solution
 I developed a redesigned site as a minimal viable product utilizing mobile first design. Through user research I learned that people using the site were likey to give financially to organzations with which they had a connenction. Users would afford involvement with a new organization if referred by a personal connection. Therefore I redesigned the giving interface to integrat with social media platforms with options to challenge others to give through Facebook or Venmo.
 
@@ -98,15 +97,16 @@ represented in the design process. -->
 
 # Research: Survey and Interviews
 I performed user research through survey and in person interviews. A screener survey was completed with participants who reported that they had been involved with NGO’s as a supporter or volunteer in the last twelve months. Interviews were conducted with a representative group of users.
-![MedWater Interview Summary]()*Users were only 50% favorable to involvment in new organizations*
+
+![MedWater Interview Summary]("") *Users were only 50% favorable to involvement in new organizations*
 
 
 
 # Discovery: Insights, Personas, Empathy Maps
-Based on these interviews 2 primary personas of users emerged. 
+<!-- Research had  -->
 
-## Personas
-The first persona, Linda, valued personal connection as a factor related to her involvement with organizations. Linda was generous with her time and was not a frequent user of mobile apps.
+## Persona
+Based on the survey and interviews user personas and empathy maps were developed to help synthesize research.The first persona, Linda, valued personal connection as a factor related to her involvement with organizations. Linda was generous with her time and was not a frequent user of mobile apps.
 ![Persona Linda](/PersonaLinda.jpg "Lean Persona Linda")
 
 The second persona, Shawn, valued personal connection as well. Shawn had less time to give and appreciated convenience as factor in websites and apps.
@@ -182,7 +182,6 @@ In preparation for a prototype a [style guide](/MedWaterStyleGuide.pdf) was deve
 
 # Iteration: Usability Study
 Based on the low fidelity prototype, a moderated usability study was completed. Users were asked to complete tasks related to creating an account, making a donation to the organization, and challenges others in a fundraising activity using the mobile site. 
-
 
 ![Usability Report Cover Page](/MWUsabilityTestReport_Page_1.png "Style Guide")
 
