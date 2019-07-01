@@ -73,3 +73,18 @@ draft: false
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
+#Problem
+I was challenged to develop a new product that would promote diversity and inclusion amongst staff members working in front line positions in long term care.
+
+#Solution
+In partnership with a designer we developed a new product for an in person training module 
+
+#Research
+
+#Discover
+
+#Design
+
+#Develop 
+
+#Iterate
