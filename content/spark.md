@@ -69,7 +69,7 @@ testimonial_author: "Tiffany Hoback"
 testimonial_subtitle: "Executive Sponsor"
 
 date: 2019-06-11T22:59:05-04:00
-draft: true
+draft: false
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
