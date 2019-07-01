@@ -5,7 +5,7 @@ weight: 2
 title: "Spark"
 
 # This is the description in the <head> tag
-description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
+description: "I served as product designer for the development of a workplace training course focused on diversity and inclusion for front line staff working in long term care."
 
 # This the heading of the navigation at the top of the case study
 nav_heading: "Spark! Case Study"
@@ -14,32 +14,32 @@ nav_heading: "Spark! Case Study"
 thumbnail: "SparkBoardMockup(SqSmall).png"
 
 # This is the title of the case study in the case studies section
-case_short_title: "Spark Training Module"
+case_short_title: "Spark! Diversity and Inclusion"
 
 # This is the title of the case study in the case study page
-case_title: "Spark Training Module"
+case_title: "Spark! Diversity and Inclusion"
 
 # This is the subtitle of the case study in the case studies section and the case study page
 case_subtitle: "In person training module"
 
 # This is the case description in the case studies section
-case_description: "Spark is an in person training module for diverisity and inclusion."
+case_description: "Spark is an in person training module for diversity and inclusion that works through storytelling and empathy building."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
 case_feature_img: "/SparkBoardMockup(SqSmall).png"
 
 # This is the case summary in the case itself
-case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
+case_summary: "Spark! is a facilitator led training module that teaches diversity and inclusion. The program is deployed through six free standing training modules lasting fifteen minutes each. The modules are designed to be empathetic to the needs of healthcare workers and teach diversity and inclusion to frontline care staff. Partnering with a development of the program assets including facility guide, learner guide, and game board."
 
 # Your team members
-team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
+team: ["David Eisenmenger", "James Rustad", "Lisa Cornelius"]
 
 # Roles of your team members
-roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
+roles: ["Product Designer", "Visual Designer", "Visual Designer"]
 
 # Methods your team members used
-methods: ["Sketching", "Mockups", "Guerilla Testing"]
+methods: ["Inteviews", "Content Strategy", "Mockups", "Prototype", "User Testing"]
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
@@ -56,20 +56,20 @@ button_links:
       text: "Download Feature Sets"
 
 # Testimonial text
-testimonial: "Alexis designed everything for Cope from the ground up. What I really like about him is his true understanding and grasp of what makes a great UI great. He knows that the user experience needs a lot of refining from customers and he isn't shy to take feedback even if it's critical. Alexis is one of those rare people who just gets it."
+testimonial: "David took the project from concept to implementation."
 
 # Testimonial photo, place this at /post_title_here/img
 # e.g. /mypost/img
-testimonial_photo: "john.jpg"
+# testimonial_photo: ""
 
 # Author of testimonial
-testimonial_author: "John Robert Palomo"
+testimonial_author: "Tiffany Hoback"
 
 # Testimonial subtitle, usually position of the testimonial author
-testimonial_subtitle: "Co-founder, Cope"
+testimonial_subtitle: "Executive Sponsor"
 
 date: 2019-06-11T22:59:05-04:00
-draft: false
+draft: true
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
@@ -85,6 +85,6 @@ In partnership with a designer we developed a new product for an in person train
 
 #Design
 
-#Develop 
+#Develop
 
 #Iterate
