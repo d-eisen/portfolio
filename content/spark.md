@@ -5,7 +5,7 @@ weight: 2
 title: "Spark"
 
 # This is the description in the <head> tag
-description: "I served as product designer for the development of a workplace training course focused on diversity and inclusion for front line staff working in long term care."
+description: "I served as the product designer and process owner for the project. I guided the product from initial concept to development."
 
 # This the heading of the navigation at the top of the case study
 nav_heading: "Spark! Case Study"
@@ -48,9 +48,11 @@ button_links:
     - link: "https://marvelapp.com/g4b64e/screen/14364499"
       img: "eyeball.svg"
       text: "View Prototype"
+
     - link: "http://copenow.co/"
       img: "eyeball.svg"
       text: "View Landing Page"
+
     - link: "cope.pdf"
       img: "download.svg"
       text: "Download Feature Sets"
