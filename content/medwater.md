@@ -103,7 +103,7 @@ I performed user research through survey and in person interviews. A screener su
 
 
 # Discovery: Insights, Personas, Empathy Maps
-<!-- Research had  -->
+
 
 ## Persona
 Based on the survey and interviews user personas and empathy maps were developed to help synthesize research.The first persona, Linda, valued personal connection as a factor related to her involvement with organizations. Linda was generous with her time and was not a frequent user of mobile apps.
