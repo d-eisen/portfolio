@@ -73,13 +73,13 @@ draft: false
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
-#Problem
+# Problem
 I was challenged by the executive team of my company to develop a new product that would promote diversity and inclusion amongst staff members working in front line positions in long term care facilities.
 
-#Solution
+# Solution
 In partnership with a visual designer we developed a facilitator led training training course that incorporates empathy building, diversity, and inclusion through gamification and interpersonal interaction. The program is structured in six free standing training modules and can be delivered directly in staff members working environment. Modules last fifteen minutes each. Each module is designed from the perspective of healthcare workers and encourages discussion and storytelling. Program assets including facilitator guide, learner guide, and game board.
 
-#Research
+# Research
 I performed primary research with chaplains and front line staff to learn more about the needs of the staff.
 
 Business requirements were obtained from executive team.
@@ -87,12 +87,12 @@ Business requirements were obtained from executive team.
 The learning department was consulted on what type of training in most effective with front line staff
 
 Secondary research related to previous diversity efforts was reviewed.
-#Discover
+# Discover
 Insights include: heartburns related to misunderstanding and miscommunication between staff.
 
 A profile of a female CNA from Cuba was developed as we designed
 
-#Design
+# Design
 Based on a framework of current service values, themes related to diversity and inclusion were incorporated into the module
 
 A design session was held where insights from interviews were shared.
@@ -103,19 +103,19 @@ Delivered on the floor
 Modular free standing design, 
 Gamification 
 Simple materials
-#Develop
+# Develop
 An initial draft of the facilitator guide, learner guide, and game board were developed.
 Drafts were iterated on with input from team members and front line staff.
 
-#Iterate
+# Iterate
 A final prototype was developed for testing.
 Visual designers, a sample facilitator and participants were convened for a user testing session.
 
 Users suggested tweaks to the content. 
 Changes were made.
 
-#Next Steps
+# Next Steps
 Diversity and inclusion incorporated into new staff training. 
 
-#Insights
+# Insights
 Tying the module to the service values allowed the product to have greater longevity.
