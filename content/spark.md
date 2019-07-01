@@ -27,7 +27,7 @@ case_description: "Spark is an in person training module for diversity and inclu
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
-case_feature_img: "/SparkBoardMockup(SqSmall).png"
+case_feature_img: "/SparkBoardMockupMain.png"
 
 # This is the case summary in the case itself
 case_summary: "Spark! is a facilitator led training module that teaches diversity and inclusion. The program is deployed through six free standing training modules lasting fifteen minutes each. The modules are designed to be empathetic to the needs of healthcare workers and teach diversity and inclusion to frontline care staff. Partnering with a development of the program assets including facility guide, learner guide, and game board."
