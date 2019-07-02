@@ -88,7 +88,7 @@ I performed primary research with managers and front line staff at a few differe
 Based on my interviews with staff members, some of the most frequent pain points were related to misunderstandings and miscommunications between staff members. "We all work two jobs and we don't have time to get to know one another. 
 
 # Design
-A design session was convened with the consultant, learning team, and executive sponsor. Insights from my interviews with staff were shared. From this session the following requirements emerged"
+A design session was convened with the consultant, learning team, and executive sponsor. Insights from my interviews with staff were shared. From this session the following requirements emerged:
 <ul>Connect teaching points on diversity and inclusion with the organization's current service values</ul>
 <ul>Training should be instructor led and delivered in the staff work area</ul>
 
@@ -102,13 +102,14 @@ An initial draft of the facilitator guide, learner guide, and game board were de
 Drafts were circulated for feedback and markup by all stakeholder groups. 
 
 # Iterate
-A final prototype was developed for testing. I facilited a , a sample facilitator and participants were convened for a user testing session.
+A final prototype was developed for testing. I convened a user testing session in one of the target facilities. A full test of the materials was completed using a sample facilitator and group of participants. The design consultants and I captured user feedback on the materials.
 
-Users suggested tweaks to the content. 
-Changes were made.
+Based on the user sessions, adjustments were made to the curriculum based on user feedback. Specific changes were: 
+<ul>Facilitators would like to have sample images available for assisting the articipants in their group project</ul>
+<ul>Participants indicated that they would like more time to talk with one another during the session.</ul> 
 
 # Next Steps
-Diversity and inclusion incorporated into new staff training. 
+The executive leadership were pleased with the final product and assumed responsibility for its implemenation in the field.  
 
-# Insights
-Tying the module to the service values allowed the product to have greater longevity.
+# Suggestions for further development
+Diversity and inclusion principles should be integrated with services values and incorporated into new staff training. This project revealed important gaps in the sample facility's processes related to multiple language access. Steps have been taken to address these issues by the leadership but may warrant further review.
