@@ -90,10 +90,11 @@ Based on my interviews with staff members, some of the most frequent pain points
 # Design
 A design session was convened with the consultant, learning team, and executive sponsor. Insights from my interviews with staff were shared. From this session the following requirements emerged"
 * Connect teaching points on diversity and inclusion with the organization's current service values
-  * Training should be instructor led and delivered in the staff work area
+* Training should be instructor led and delivered in the staff work area
+
 Other design requirements were clarified:
-  * Modular free standing design to allow for users to join anywhere in the sequence
-  <ul Gamification for quick engagement>
+  <ul>Modular free standing design to allow for users to join anywhere in the sequence</ul>
+  <ul> Gamification for quick engagement</ul>
   <ul>Simple materials that are easily reproducible</ul>
 
 # Develop
