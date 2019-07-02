@@ -92,9 +92,9 @@ A design session was convened with the consultant, learning team, and executive 
   * Connect teaching points on diversity and inclusion with the organization's current service values
   * Training should be instructor led and delivered in the staff work area
 Other design requirements were clarified:
-* Modular free standing design to allow for users to join anywhere in the sequence
-* Gamification for quick engagement
-* Simple materials that are easily reproducible
+  * Modular free standing design to allow for users to join anywhere in the sequence
+  * Gamification for quick engagement
+  * Simple materials that are easily reproducible
 
 # Develop
 An initial draft of the facilitator guide, learner guide, and game board were developed.
