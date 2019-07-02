@@ -36,7 +36,7 @@ case_summary: "Spark! is a facilitator led training module that teaches diversit
 team: ["David Eisenmenger", "James Rustad", "Lisa Cornelius"]
 
 # Roles of your team members
-roles: ["Product Designer", "Visual Designer", "Visual Designer"]
+roles: ["Product Designer", "Design Consultant", "Visual Designer"]
 
 # Methods your team members used
 methods: ["Interviews", "Content Strategy", "Mockups", "Prototype", "User Testing"]
@@ -76,10 +76,10 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 # Problem
-I was challenged by the executive team of my company to develop a new product that would promote diversity and inclusion amongst staff members working in front line positions in long term care facilities.
+I was challenged by the executive leadership of my company at the time to develop a new product that would promote diversity and inclusion amongst staff members working in front line positions in long term care facilities.
 
 # Solution
-In partnership with a visual designer we developed a facilitator led training training course that incorporates empathy building, diversity, and inclusion through gamification and interpersonal interaction. The program is structured in six free standing training modules and can be delivered directly in staff members working environment. Modules last fifteen minutes each. Each module is designed from the perspective of healthcare workers and encourages discussion and storytelling. Program assets including facilitator guide, learner guide, and game board.
+In partnership with a design consultant and a visual designer we developed a facilitator led training training course that incorporates empathy building, diversity, and inclusion through gamification and interpersonal interaction. The program is structured in five free standing training modules and can be delivered directly in staff members working environment. Modules last fifteen minutes each. Each module is designed from the perspective of healthcare workers and encourages discussion and storytelling. Program assets including facilitator guide, learner guide, and game board.
 
 # Research
 I performed primary research with chaplains and front line staff to learn more about the needs of the staff.
@@ -89,6 +89,9 @@ Business requirements were obtained from executive team.
 The learning department was consulted on what type of training in most effective with front line staff
 
 Secondary research related to previous diversity efforts was reviewed.
+
+<iframe width="720px" height="480px" src="https://datausa.io/profile/geo/homestead-fl#demographics/demographics/ethnicity?viz=true" frameborder="0" ></iframe>
+
 # Discover
 Insights include: heartburns related to misunderstanding and miscommunication between staff.
 
