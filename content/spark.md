@@ -88,23 +88,20 @@ I performed primary research with managers and front line staff at a few differe
 Based on my interviews with staff members, some of the most frequent pain points were related to misunderstandings and miscommunications between staff members. "We all work two jobs and we don't have time to get to know one another. 
 
 # Design
-A design session was convened with the consultant, learning team, and executive sponsor. Insights from my interviews with staff were shared. From this session the following requirements emerged
+A design session was convened with the consultant, learning team, and executive sponsor. Insights from my interviews with staff were shared. From this session the following requirements emerged"
   * Connect teaching points on diversity and inclusion with the organization's current service values
   * Training should be instructor led and delivered in the staff work area
+Other design requirements were clarified:
+* Modular free standing design to allow for users to join anywhere in the sequence
+* Gamification for quick engagement
+* Simple materials that are easily reproducible
 
-The following design decisions were made informed by research and discovery. 
-Instructor led training
-Delivered on the floor
-Modular free standing design, 
-Gamification 
-Simple materials
 # Develop
 An initial draft of the facilitator guide, learner guide, and game board were developed.
-Drafts were iterated on with input from team members and front line staff.
+Drafts were circulated for feedback and markup by all stakeholder groups. 
 
 # Iterate
-A final prototype was developed for testing.
-Visual designers, a sample facilitator and participants were convened for a user testing session.
+A final prototype was developed for testing. I facilited a , a sample facilitator and participants were convened for a user testing session.
 
 Users suggested tweaks to the content. 
 Changes were made.
