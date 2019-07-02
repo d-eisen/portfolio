@@ -88,9 +88,9 @@ I performed primary research with managers and front line staff at a few differe
 Based on my interviews with staff members, some of the most frequent pain points were related to misunderstandings and miscommunications between staff members. "We all work two jobs and we don't have time to get to know one another. 
 
 # Design
-Based on a framework of current service values, themes related to diversity and inclusion were incorporated into the module
-
-A design session was held where insights from interviews were shared.
+A design session was convened with the consultant, learning team, and executive sponsor. Insights from my interviews with staff were shared. From this session the following requirements emerged
+<ul>Connect teaching points on diversity and inclusion with the organization's current service values</ul>
+<ul>Training should be instructor led and delivered in the staff work area</ul>
 
 The following design decisions were made informed by research and discovery. 
 Instructor led training
