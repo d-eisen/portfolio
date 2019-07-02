@@ -76,26 +76,16 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 # Problem
-I was challenged by the executive leadership of my company at the time to develop a new product that would promote diversity and inclusion amongst staff members working in front line positions in long term care facilities.
+I was challenged by the executive leadership of my company at the time to develop a new product that would promote diversity and inclusion amongst staff members working in front line positions in long term care facilities. Leaders of the organization were concerned about staff engagement and service delivery in a region  with high levels of racial, ethnic, and economic diversity.
 
 # Solution
-In partnership with a design consultant and a visual designer we developed a facilitator led training training course that incorporates empathy building, diversity, and inclusion through gamification and interpersonal interaction. The program is structured in five free standing training modules and can be delivered directly in staff members working environment. Modules last fifteen minutes each. Each module is designed from the perspective of healthcare workers and encourages discussion and storytelling. Program assets including facilitator guide, learner guide, and game board.
+In partnership with a design consultant and a visual designer we developed a facilitator led training training course that incorporates empathy building, diversity and inclusion through gamification and interpersonal interaction. The program is structured in five free standing training modules and can be delivered directly in staff members working environment. Modules last fifteen minutes each. Each module is designed from the perspective of healthcare workers and encourages discussion and storytelling. Program assets including facilitator guide, learner guide, and game board.
 
 # Research
-I performed primary research with chaplains and front line staff to learn more about the needs of the staff.
-
-Business requirements were obtained from executive team.
-
-The learning department was consulted on what type of training in most effective with front line staff
-
-Secondary research related to previous diversity efforts was reviewed.
-
-<iframe width="720px" height="480px" src="https://datausa.io/profile/geo/homestead-fl#demographics/demographics/ethnicity?viz=true" frameborder="0" ></iframe>
+I performed primary research with managers and front line staff at a few different facilities to learn more about the needs of the staff as end users. Partnering with the executive team, I obtained the business requirements for the project, including the budget. The learning department was consulted on what type of training may be most effective with front line staff. Secondary research was performed including resources previously developed by the company.
 
 # Discover
-Insights include: heartburns related to misunderstanding and miscommunication between staff.
-
-A profile of a female CNA from Cuba was developed as we designed
+Based on my interviews with staff members, some of the most frequent pain points were related to misunderstandings and miscommunications between staff members. "We all work two jobs and we don't have time to get to know one another. 
 
 # Design
 Based on a framework of current service values, themes related to diversity and inclusion were incorporated into the module
