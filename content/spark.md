@@ -47,15 +47,15 @@ methods: ["Interviews", "Content Strategy", "Mockups", "Prototype", "User Testin
 button_links:
     - link: "https://marvelapp.com/g4b64e/screen/14364499"
       img: "eyeball.svg"
-      text: "View Prototype"
+      text: "View Product"
 
-    - link: "http://copenow.co/"
-      img: "eyeball.svg"
-      text: "View Landing Page"
+    # - link: "http://copenow.co/"
+    #   img: "eyeball.svg"
+    #   text: "View Landing Page"
 
-    - link: "cope.pdf"
-      img: "download.svg"
-      text: "Download Feature Sets"
+    # - link: "cope.pdf"
+    #   img: "download.svg"
+    #   text: "Download Feature Sets"
 
 # Testimonial text
 testimonial: "David took the project from concept to implementation."
