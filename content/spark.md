@@ -81,10 +81,10 @@ I was challenged by the executive leadership of my company at the time to develo
 # Solution
 In partnership with a design consultant and a visual designer we developed a facilitator led training training course that incorporates empathy building, diversity and inclusion through gamification and interpersonal interaction. The program is structured in five free standing training modules and can be delivered directly in staff members working environment. Modules last fifteen minutes each. Each module is designed from the perspective of healthcare workers and encourages discussion and storytelling. Program assets including facilitator guide, learner guide, and game board.
 
-# Research
+# User Research
 I performed primary research with managers and front line staff at a few different facilities to learn more about the needs of the staff as end users. Partnering with the executive team, I obtained the business requirements for the project, including the budget. The learning department was consulted on what type of training may be most effective with front line staff. Secondary research was performed including resources previously developed by the company.
 
-# Discover
+# Insights
 Based on my interviews with staff members, some of the most frequent pain points were related to misunderstandings and miscommunications between staff members. "We all work two jobs and we don't have time to get to know one another. 
 
 # Design
