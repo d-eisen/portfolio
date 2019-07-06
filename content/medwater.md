@@ -133,7 +133,7 @@ The following similarity matrix (representing the combined participants) compare
 ## Site Map
 Informed by the categories that users selected during the card sort activity a site map was developed based on the results of the study. 
 
-![Site Map Low Fidelity](/MwSiteMapLoFi.jpg "Site Map Low Fidelity")
+![Site Map Low Fidelity](/MwSiteMapLoFiCropped.png"Site Map Low Fidelity")
 
 Additional review the results resulted in a second iteration of the site map.
 
