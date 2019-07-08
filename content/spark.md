@@ -83,7 +83,7 @@ In partnership with a design consultant and a visual designer we developed a fac
 
 # User Research
 I performed primary research with managers and front line staff at a few different facilities to learn more about the needs of the staff as end users. Partnering with the executive team, I obtained the business requirements for the project, including the budget. The learning department was consulted on what type of training may be most effective with front line staff. Secondary research was performed including resources previously developed by the company.
-![Homestead, Florida Demographics](/spark/img/HomesteadFlForeign-BornPopulation.png "Foreign Born Population Homestead")
+![Homestead, Florida Demographics](/spark/img/HomeFlaFBPopBLV2.png "Foreign Born Population Homestead")
 
 
 # Insights
