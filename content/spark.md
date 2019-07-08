@@ -79,10 +79,11 @@ draft: false
 I was challenged by the executive leadership of my company at the time to develop a new product that would promote diversity and inclusion amongst staff members working in front line positions in long term care facilities. Leaders of the organization were concerned about staff engagement and service delivery in a region  with high levels of racial, ethnic, and economic diversity.
 
 # Solution
-In partnership with a design consultant and a visual designer we developed a facilitator led training training course that incorporates empathy building, diversity and inclusion through gamification and interpersonal interaction. The program is structured in five free standing training modules and can be delivered directly in staff members working environment. Modules last fifteen minutes each. Each module is designed from the perspective of healthcare workers and encourages discussion and storytelling. Program assets including facilitator guide, learner guide, and game board.
+In partnership with a design consultant and a visual designer we developed a facilitator led training course that incorporates empathy building, diversity and inclusion through gamification and interpersonal interaction. The program is structured in five free standing training modules and can be delivered directly in staff members working environment. Modules last fifteen minutes each. Each module is designed from the perspective of healthcare workers and encourages discussion and storytelling. Program assets including facilitator guide, learner guide, and game board.
 
 # User Research
 I performed primary research with managers and front line staff at a few different facilities to learn more about the needs of the staff as end users. Partnering with the executive team, I obtained the business requirements for the project, including the budget. The learning department was consulted on what type of training may be most effective with front line staff. Secondary research was performed including resources previously developed by the company.
+![Homestead, Fl Demographics](/img/HomesteadFlForeignBornPopulation.png "Foreign Born Population Homestead")
 
 # Insights
 Based on my interviews with staff members, some of the most frequent pain points were related to misunderstandings and miscommunications between staff members. "We all work two jobs and we don't have time to get to know one another. 
@@ -105,7 +106,7 @@ Drafts were circulated for feedback and markup by all stakeholder groups.
 A final prototype was developed for testing. I convened a user testing session in one of the target facilities. A full test of the materials was completed using a sample facilitator and group of participants. The design consultants and I captured user feedback on the materials.
 
 Based on the user sessions, adjustments were made to the curriculum based on user feedback. Specific changes were: 
-<ul>Facilitators would like to have sample images available for assisting the articipants in their group project</ul>
+<ul>Facilitators would like to have sample images available for assisting the participants in their group project</ul>
 <ul>Participants indicated that they would like more time to talk with one another during the session.</ul> 
 
 # Next Steps
