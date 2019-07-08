@@ -88,7 +88,7 @@ I performed primary research with managers and front line staff at a few differe
 
 # Insights
 Based on my interviews with staff members, some of the most frequent pain points were related to misunderstandings and miscommunications between staff members. "We all work two jobs and we don't have time to get to know one another. 
-![Spark PullQuote](/spark/img/SparkPullQuoteV4.png "Spark Pull Quote")
+![Spark PullQuote](/spark/img/SparkPullQuoteV5.png "Spark Pull Quote")
 
 # Design
 A design session was convened with the consultant, learning team, and executive sponsor. Insights from my interviews with staff were shared. From this session the following requirements emerged:
