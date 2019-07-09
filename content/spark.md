@@ -45,7 +45,7 @@ methods: ["Interviews", "Content Strategy", "Mockups", "Prototype", "User Testin
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
 # Place your custom svgs into /static/svg
 button_links:
-    - link: "https://marvelapp.com/g4b64e/screen/14364499"
+    - link: "https://cdn.flipsnack.com/widget/v2/widget.html?hash=ftpiehnx2"
       img: "eyeball.svg"
       text: "View Product"
 
