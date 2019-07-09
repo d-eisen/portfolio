@@ -94,16 +94,19 @@ Based on my interviews with staff members, some of the most frequent pain points
 A design session was convened with the consultant, learning team, and executive sponsor. Insights from my interviews with staff were shared. From this session the following requirements emerged:
 <ul>Connect teaching points on diversity and inclusion with the organization's current service values</ul>
 <ul>Training should be instructor led and delivered in the staff work area</ul>
+![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerpt2.png "Spark Page Excerpt Detail")
 
 Other design requirements were clarified:
 <ul>Modular free standing design to allow for users to join anywhere in the sequence</ul>
 <ul> Gamification for quick engagement</ul>
 <ul>Simple materials that are easily reproducible</ul>
-![GameBoard](/spark/img/ProviderSparkGameBoardFINAL.png "Spark Game Board")
+![Game Board](/spark/img/ProviderSparkGameBoardFINAL.png "Spark Game Board")
 
 # Develop
 An initial draft of the facilitator guide, learner guide, and game board were developed.
 Drafts were circulated for feedback and markup by all stakeholder groups. 
+![Page Excerpt](/spark/img/SpLearnerGuideExcerpt.png "Spark Page Excerpt")
+
 
 # Iterate
 A final prototype was developed for testing. I convened a user testing session in one of the target facilities. A full test of the materials was completed using a sample facilitator and group of participants. The design consultants and I captured user feedback on the materials.
