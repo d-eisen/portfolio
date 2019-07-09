@@ -2,7 +2,7 @@
 # This determines what shows up first, lower weight = shows up first
 weight: 2
 # This is what appears as the tab's title
-title: "Spark"
+title: "Spark | David Eisenmenger"
 
 # This is the description in the <head> tag
 description: "I served as the product designer and process owner for the project. I guided the product from initial concept to development."
@@ -99,6 +99,7 @@ Other design requirements were clarified:
 <ul>Modular free standing design to allow for users to join anywhere in the sequence</ul>
 <ul> Gamification for quick engagement</ul>
 <ul>Simple materials that are easily reproducible</ul>
+![GameBoard](/spark/img/ProviderSparkGameBoardFINAL.png "Spark Game Board")
 
 # Develop
 An initial draft of the facilitator guide, learner guide, and game board were developed.
