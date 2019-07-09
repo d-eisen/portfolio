@@ -11,7 +11,7 @@ description: "I served as the product designer and process owner for the project
 nav_heading: "Spark! Case Study"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
-thumbnail: "SparkBoardMockup(SqSmall).png"
+thumbnail: "SparkBoardMockup(SqSmall)v2.png"
 
 # This is the title of the case study in the case studies section
 case_short_title: "Spark! Training Course"
@@ -27,7 +27,7 @@ case_description: "Spark is an in person training module for diversity and inclu
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
-case_feature_img: "/SparkBoardMockupMain.png"
+case_feature_img: "/SparkBoardMockupv2.png"
 
 # This is the case summary in the case itself
 case_summary: "Spark! is a facilitator led training module that teaches diversity and inclusion. The program is deployed through six free standing training modules lasting fifteen minutes each. The modules are designed to be empathetic to the needs of healthcare workers and teach diversity and inclusion to frontline care staff. Partnering with a development of the program assets including facility guide, learner guide, and game board."
