@@ -11,7 +11,7 @@ description: "I served as the product designer and process owner for the project
 nav_heading: "Spark! Case Study"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
-thumbnail: "SparkBoardMockup(SqSmall)v2.png"
+thumbnail: "SparkBoardMockupSqv2.png"
 
 # This is the title of the case study in the case studies section
 case_short_title: "Spark! Training Course"
