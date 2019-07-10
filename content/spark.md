@@ -115,7 +115,7 @@ Based on the user sessions, adjustments were made to the curriculum based on use
 <ul>Facilitators would like to have sample images available for assisting the participants in their group project</ul>
 <ul>Participants indicated that they would like more time to talk with one another during the session.</ul> 
 
-![Spark PullQuote 1](/spark/img/SparkPullQuoteBV2.png "Spark Pull Quote 2")
+![Spark PullQuote 1](/spark/img/SparkPullQuoteBV3.png "Spark Pull Quote 2")
 # Next Steps
 The executive leadership were pleased with the final product and assumed responsibility for its implemenation in the field.  
 
