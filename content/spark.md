@@ -105,7 +105,7 @@ Other design requirements were clarified:
 # Develop
 An initial draft of the facilitator guide, learner guide, and game board were developed.
 Drafts were circulated for feedback and markup by all stakeholder groups. 
-![Spark Full Page Excerpt](/spark/img/SpLearnerGuideFullPgExcerptv2.png "Spark Full Page Excerpt")
+![Spark Full Page Excerpt](/spark/img/SpLearnerGuideFullPgExcerptv3.png "Spark Full Page Excerpt")
 
 
 # Iterate
