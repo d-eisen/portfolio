@@ -47,7 +47,7 @@ methods: ["Interviews", "Content Strategy", "Mockups", "Prototype", "User Testin
 button_links:
     - link: "https://cdn.flipsnack.com/widget/v2/widget.html?hash=ftpiehnx2"
       img: "eyeball.svg"
-      text: "View Product"
+      text: "View Guide Book"
 
     # - link: "http://copenow.co/"
     #   img: "eyeball.svg"
