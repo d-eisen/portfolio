@@ -94,7 +94,7 @@ Based on my interviews with staff members, some of the most frequent pain points
 A design session was convened with the consultant, learning team, and executive sponsor. Insights from my interviews with staff were shared. From this session the following requirements emerged:
 <ul>Connect teaching points on diversity and inclusion with the organization's current service values</ul>
 <ul>Training should be instructor led and delivered in the staff work area</ul>
-![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerpt2.png "Spark Page Excerpt Detail")
+![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerptv5.png "Spark Page Excerpt Detail")
 
 Other design requirements were clarified:
 <ul>Modular free standing design to allow for users to join anywhere in the sequence</ul>
