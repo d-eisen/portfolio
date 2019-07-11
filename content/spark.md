@@ -99,21 +99,21 @@ Front line staff work long hours often juggling a second job at another company.
 <br>As one staff member commented, "it's not that we don't like one another, it's that we don't know one another." My hypothesis was that a lack both informal time spent together as a team as well as few spaces to have intentional conversation about people's differences contributed to the team's difficulty in communicating.
 
 # Design
-I had contracted with a design consultant to develop the materials. A design session was convened with the consultant, members of the company's learning team, and the executive sponsor. Insights from my visits with staff were incorporated as data for the design. From this session the following requirements emerged
-<ul> <li>Connect teaching points on diversity and inclusion with the organization's current service values</li>
-<li>Training should be instructor led and delivered in the staff work area></li></ul>
-![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerptv6.png "Spark Page Excerpt Detail")
-
-Other design requirements were clarified:
-<ul>Modular free standing design to allow for users to join anywhere in the sequence</ul>
-<ul> Gamification for quick engagement</ul>
-<ul>Simple materials that are easily reproducible</ul>
+I had contracted with a design consultant to develop the materials. A design session was convened with the consultant, members of the company's learning team, and the executive sponsor. Insights from my visits with staff were incorporated as data for the design. 
+![Spark Full Page Excerpt](/spark/img/SpLearnerGuideFullPgExcerptv3.png "Spark Full Page Excerpt")
+From this session the following requirements emerged:
+<ul> <li>Training should be instructor led and delivered in the staff work area.</li>
+<li>Given the staff's time constraints course units should be modular and free standing allowing new users to join anywhere in the sequence.</li>
+<li>To encourage interaction the modules should utilize gamification and group activities.</li>
 ![Game Board](/spark/img/ProviderSparkGameBoardFINALv2.png "Spark Game Board")
+<li>Tie in  the organization's current service values with the teaching points on diversity and inclusion.</li>
+<li>Simple materials that are easily reproducible</li></ul>
+![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerptv6.png "Spark Page Excerpt Detail")
 
 # Develop
 An initial draft of the facilitator guide, learner guide, and game board were developed.
 Drafts were circulated for feedback and markup by all stakeholder groups. 
-![Spark Full Page Excerpt](/spark/img/SpLearnerGuideFullPgExcerptv3.png "Spark Full Page Excerpt")
+
 
 
 # Iterate
