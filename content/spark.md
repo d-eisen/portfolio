@@ -98,34 +98,40 @@ Front line staff work long hours often juggling a second job at another company.
 
 <br>As one staff member commented, "it's not that we don't like one another, it's that we don't know one another." My hypothesis was that a lack both informal time spent together as a team as well as few spaces to have intentional conversation about people's differences contributed to the team's difficulty in communicating.
 
-# Design
+# Design the Materials
 I had contracted with a design consultant to develop the materials. A design session was convened with the consultant, members of the company's learning team, and the executive sponsor. Insights from my visits with staff were incorporated as data for the design. 
+
 ![Spark Full Page Excerpt](/spark/img/SpLearnerGuideFullPgExcerptv3.png "Spark Full Page Excerpt")
+
 From this session the following requirements emerged:
 <ul> <li>Training should be instructor led and delivered in the staff work area.</li>
 <li>Given the staff's time constraints course units should be modular and free standing allowing new users to join anywhere in the sequence.</li>
 <li>To encourage interaction the modules should utilize gamification and group activities.</li>
+
 ![Game Board](/spark/img/ProviderSparkGameBoardFINALv2.png "Spark Game Board")
+
 <li>Tie in  the organization's current service values with the teaching points on diversity and inclusion.</li>
 <li>Simple materials that are easily reproducible</li></ul>
+
 ![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerptv6.png "Spark Page Excerpt Detail")
 
-# Develop
-An initial draft of the facilitator guide, learner guide, and game board were developed.
+# Developing a Prototype
+A blue line of the facilitator guide, learner guide, and game board were developed.
 Drafts were circulated for feedback and markup by all stakeholder groups. 
 
-
-
-# Iterate
-A final prototype was developed for testing. I convened a user testing session in one of the target facilities. A full test of the materials was completed using a sample facilitator and group of participants. The design consultants and I captured user feedback on the materials.
-
-Based on the user sessions, adjustments were made to the curriculum based on user feedback. Specific changes were: 
-<ul>Facilitators would like to have sample images available for assisting the participants in their group project</ul>
-<ul>Participants indicated that they would like more time to talk with one another during the session.</ul> 
+# Usability Testing and Iteration
+A prototype was developed for testing with users. A usability test was convene in one of the target facilities. All materials were tested live with a group of users from one of the facilities including participants. The design consultants and I captured user feedback on the materials.
+<br>
+We were pleased to observe that the participants use of the product seemed to be developing new connections between the users as co-workers. One user commented after completing the course, "We were having conversations that we didn't think we could have with one another."
+<br>
+Some of the specific feedback from the tests was as follows. Facilitators would like to have sample images available for assisting the participants in their group project. Participants indicated that they would like more time to talk with one another during the session than what was scheduled. 
+<br>
+Some participants commented that the directions on module 2 were unclear regarding how to use the rating scale included in the self assessment. This feedback was addressed in the next iteration of the product.
 
 ![Spark PullQuote 1](/spark/img/SparkPullQuoteBV3.png "Spark Pull Quote 2")
+
 # Next Steps
 The executive leadership were pleased with the final product and assumed responsibility for its implemenation in the field.  
 
 # Suggestions for further development
-Diversity and inclusion principles should be integrated with services values and incorporated into new staff training. This project revealed important gaps in the sample facility's processes related to multiple language access. Steps have been taken to address these issues by the leadership but may warrant further review.
+While this in person course format seemed to show some impact in bringing people into direct conversation with one another regarding the importance of diversity and inclusion, the continued integration of these values with the organization's service values would lead to greater leverage for the initiative.
