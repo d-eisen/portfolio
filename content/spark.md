@@ -100,8 +100,8 @@ Front line staff work long hours often juggling a second job at another company.
 
 # Design
 I had contracted with a design consultant to develop the materials. A design session was convened with the consultant, members of the company's learning team, and the executive sponsor. Insights from my visits with staff were incorporated as data for the design. From this session the following requirements emerged
-+ Connect teaching points on diversity and inclusion with the organization's current service values
-<ul>Training should be instructor led and delivered in the staff work area</ul>
+<ul> <li>Connect teaching points on diversity and inclusion with the organization's current service values</li>
+<li>Training should be instructor led and delivered in the staff work area></li></ul>
 ![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerptv6.png "Spark Page Excerpt Detail")
 
 Other design requirements were clarified:
