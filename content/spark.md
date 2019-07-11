@@ -104,14 +104,14 @@ I had contracted with a design consultant to develop the materials. A design ses
 ![Spark Full Page Excerpt](/spark/img/SpLearnerGuideFullPgExcerptv3.png "Spark Full Page Excerpt")
 
 From this session the following requirements emerged:
-<ul> <li>Training should be instructor led and delivered in the staff work area.</li>
+<li>Training should be instructor led and delivered in the staff work area.</li>
 <li>Given the staff's time constraints course units should be modular and free standing allowing new users to join anywhere in the sequence.</li>
 <li>To encourage interaction the modules should utilize gamification and group activities.</li>
 
 ![Game Board](/spark/img/ProviderSparkGameBoardFINALv2.png "Spark Game Board")
 
 <li>Tie in  the organization's current service values with the teaching points on diversity and inclusion.</li>
-<li>Simple materials that are easily reproducible</li></ul>
+<li>Simple materials that are easily reproducible</li>
 
 ![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerptv6.png "Spark Page Excerpt Detail")
 
@@ -121,11 +121,11 @@ Drafts were circulated for feedback and markup by all stakeholder groups.
 
 # Usability Testing and Iteration
 A prototype was developed for testing with users. A usability test was convene in one of the target facilities. All materials were tested live with a group of users from one of the facilities including participants. The design consultants and I captured user feedback on the materials.
-<br>
+<br><br>
 We were pleased to observe that the participants use of the product seemed to be developing new connections between the users as co-workers. One user commented after completing the course, "We were having conversations that we didn't think we could have with one another."
-<br>
+<br><br>
 Some of the specific feedback from the tests was as follows. Facilitators would like to have sample images available for assisting the participants in their group project. Participants indicated that they would like more time to talk with one another during the session than what was scheduled. 
-<br>
+<br><br>
 Some participants commented that the directions on module 2 were unclear regarding how to use the rating scale included in the self assessment. This feedback was addressed in the next iteration of the product.
 
 ![Spark PullQuote 1](/spark/img/SparkPullQuoteBV3.png "Spark Pull Quote 2")
