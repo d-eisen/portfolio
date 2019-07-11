@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 4
 title: "TEDxADMU | Alexis Collado"
 description: "I strategized, designed, and developed a simple landing page for TEDxADMU to set their application conversions to 66.8%."
 nav_heading: "TEDxADMU Case Study"
