@@ -76,26 +76,31 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 # Problem
-I was challenged by the executive leadership of my company at the time to develop a new product that would promote diversity and inclusion amongst staff members working in front line positions in long term care facilities. The leaders of the organization were concerned about staff engagement and service delivery in a region  with high levels of racial, ethnic, and economic diversity.
+I was challenged by the executive leadership of my company at the time to develop a new product that would promote diversity and inclusion amongst staff members working in front line roles in long term care facilities. The leaders of the organization were concerned about staff engagement and service delivery in a region with significant racial, ethnic, and economic diversity.
 
 # Solution
-The final design for the product was a facilitator led training course that incorporates empathy building, diversity and inclusion through gamification and interpersonal interaction. The program is structured in six free standing training modules and can be delivered directly in staff members working environment. 
-<br>Modules last fifteen minutes each. Each module is designed from the perspective of healthcare workers and encourages discussion and storytelling. Program assets including facilitator guide, learner guide, game board and cards.
+The final design for the product was a facilitator led training course that incorporates empathy building, diversity, and inclusion through gamification and interpersonal interaction. The program is structured in six free standing training modules and can be delivered directly in the staff members' working environment. <br>
+<br>Modules last fifteen minutes each. Each module is designed from the perspective of healthcare workers and encourages discussion and storytelling. Program assets include: facilitator guide, learner guide, game board, and cards.
 
 # Selecting the Market
-I obtaining business requirements for the project from the executive team including budget and delivery deadline. Working with the exective team. we selected a market in south Florida for the product pilot. The regional and local leaders in this area were concerned about staff engagement and its impact on service delivery in these facilities.
+I obtaining business requirements for the project from the executive team including budget and delivery delivery. Working with the executive team, we selected a market in south Florida for the product pilot. The regional and local leaders in this area were concerned about low staff engagement and its impact on service delivery in these facilities.
+
 ![Homestead, Florida Demographics](/spark/img/HomeFlaFBPopBLV3.png "Foreign Born Population Homestead")
-This market had a significant level of cultural and ethnic diversity. For example, one community in this market Homestead, Florida had a foreign born population just over 35%. This proportion sits evenly between Miami-Dade county (53%) and the state of Florida (21%)as a whole. 
+
+This market had a significant level of cultural and ethnic diversity. For example, one community in the region in Homestead, Florida had a foreign born population just over 35%. This proportion sits evenly between Miami-Dade County (53%) and the state of Florida (21%) as a whole. 
 
 # User Research and Discovery
 I performed site visits with managers and front line staff at a few facilities in the area to learn more about the needs of the staff as end users. Based on my discussions with staff members, some of the most frequent pain points were related to poor communication and misunderstanding between staff members. Staff members on one shift came from five different nationalities and spoke several languages.
+
 ![Spark PullQuote](/spark/img/SparkPullQuoteV5.png "Spark Pull Quote")
+
 Front line staff work long hours often juggling a second job at another company. In their work there is little down time. When staff members did take down time it was often with people who were part of their same cultural group. This created a silo effect within the teams.  
-<br>As one staff member commented, "it's not that we don't like one another, it's that we don't know one another." My hypothesis was that a lack both informal time together as a team as well as few spaces to have intentional conversation about their differences contributed to the team's difficulty communicating.
+
+<br>As one staff member commented, "it's not that we don't like one another, it's that we don't know one another." My hypothesis was that a lack both informal time spent together as a team as well as few spaces to have intentional conversation about people's differences contributed to the team's difficulty in communicating.
 
 # Design
-A design session was convened with the consultant, learning team, and executive sponsor. Insights from my interviews with staff were shared. From this session the following requirements emerged:
-<ul>Connect teaching points on diversity and inclusion with the organization's current service values</ul>
+I had contracted with a design consultant to develop the materials. A design session was convened with the consultant, members of the company's learning team, and the executive sponsor. Insights from my visits with staff were incorporated as data for the design. From this session the following requirements emerged
++ Connect teaching points on diversity and inclusion with the organization's current service values
 <ul>Training should be instructor led and delivered in the staff work area</ul>
 ![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerptv6.png "Spark Page Excerpt Detail")
 
