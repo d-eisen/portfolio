@@ -109,7 +109,7 @@ From this session the following requirements emerged:
 <li>To encourage interaction the modules should utilize gamification and group activities.</li>
 
 ![Game Board](/spark/img/ProviderSparkGameBoardFINALv2.png "Spark Game Board")
-
+Additional requiements:
 <li>Tie in  the organization's current service values with the teaching points on diversity and inclusion.</li>
 <li>Simple materials that are easily reproducible</li>
 
