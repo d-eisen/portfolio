@@ -46,9 +46,9 @@ methods: ["Sketching", "Wireframing", "Usability Testing"]
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
 # Place your custom svgs into /static/svg
 button_links:
-    - link: "https://balsamiq.cloud/su8bkvt/ppctiyo"
+    - link: "/MWMobilePrototype.pdf"
       img: "eyeball.svg"
-      text: "View Prototype"
+      text: "View Low Fi Prototype"
     # - link: "http://copenow.co/"
     #   img: "eyeball.svg"
     #   text: "View Landing Page"
