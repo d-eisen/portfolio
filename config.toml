@@ -23,9 +23,9 @@ googleAnalytics = "UA-138889713-1"
 [params.hero]
     enable = true
     avatar = "HeadshotFinal.jpg"
-    subtitle = "Hello! I'm David, a User Experience Researcher and Designer"
+    subtitle = "Hello! I'm David, a User Experience Designer and Researcher"
     # subtitle2 = "Empathy Specialist"
-    hero_right = ["**A user experience researcher and designer with a diverse background in product design, social work, and healthcare management. My focus is to solve problems with solutions that create a seamless user experience, make people happy, and add value to the product. My approach uses human centered design in eliciting user needs and goals working creatively and collaboratively toward solutions.**"]
+    hero_right = ["**A user experience designer and reseasrcher with a diverse background in product design, social work, and healthcare management. My focus is to solve problems with solutions that create a seamless user experience, make people happy, and add value to the product. My approach uses human centered design in eliciting user needs and goals, working creatively and collaboratively toward solutions.**"]
     
     resume = "Resume_Eisenmenger.pdf"
 
