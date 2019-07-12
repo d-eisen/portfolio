@@ -39,7 +39,7 @@ team: ["David Eisenmenger", "James Rustad", "Lisa Cornelius"]
 roles: ["Product Designer", "Product Manager"]
 
 # Methods your team members used
-methods: ["Interviews", "Content Strategy", "Mockups", "Prototype", "User Testing"]
+methods: ["Interviews", "Content Strategy", "Mockups", "Prototype", "Usability Testing"]
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
