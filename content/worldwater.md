@@ -93,16 +93,24 @@ represented in the design process. -->
 
 
 # Research: Survey and Interviews
-I began with user research. I performed primary research using an online survey and in person interviews. I wanted to speak with people who had already demonstrated interest in being involved with NGOs. An survey of was completed by 16 participants who reported being involved with an NGO’s as a supporter or volunteer in the last twelve months. 
+I began with user research. I performed primary research using an online survey and in person interviews. I wanted to speak with people who had already demonstrated interest in being involved with NGOs. A survey of was completed by 16 participants who reported being involved with an NGO’s as a supporter or volunteer in the last twelve months. 
 
-Market research showed that websites from similar organizations placed call to actions for giving very prominently on their sites.
+I performed some market research reviewing the website of some organization with a similar mission WorldWater. My review of competing sites showed that similar organizations placed call to actions for giving very prominently on their sites.
 
-<!-- Interviews were conducted with a representative group of users. -->
+Some of the key findings of the survey were that most users were involved in few organizations (less than five), however their primary activities with NGOs were well aligned with the goals of the site.  The participants key activities were reported as follows
+
+<!-- PARTICIPANT SURVEY ACTIVITY GRAPH HERE -->
+
+One finding of the survey was potentially concerning. Survey participants reported only 24% favorable to new involvements with organizations. This finding would be something to explore more deeply during user interviews.
 
 <!-- ![MedWater Interview Summary]("")*Users were only 50% favorable to involvement in new organizations* -->
 
+User interviews were conducted with a representative group of users.
+
+
+
 # Discovery: Insights, Personas, Empathy Maps
-In the research phase I learned that users said that they were reluctant to develop new involvements with organizations. This presented as a potential barrier. When asked what would help users override this concern, users reported that personal connection was what would lead them to new invovlements. 
+In the research phase I learned that users said that they were reluctant to develop new involvements with organizations. This presented as a potential barrier. When asked what would help users override this concern, users reported that personal connection was what would lead them to new involvements. 
 Through user research I learned that people using the site were likely to give financially to organizations with which they had a connection. Users would afford involvement with a new organization if referred by a personal connection. Therefore I redesigned the giving interface to integrate with social media platforms with options to challenge others to give through Facebook or Venmo.
 
 ## Persona
