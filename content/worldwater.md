@@ -140,11 +140,11 @@ There was some disagreement from the participants regarding the categorization o
 
 ## Site Map
 I designed a site map based on the results of the card sort activity. I completed an initial hand drawn sketch of the site map to begin the design process. Since my directive was to develop a minimally viable product, I knew that the prototype would not necessarily need to have each section fully developed, however a sound content strategy would include a comprehensive site map.
-![Site Map Low Fidelity](/medwater/img/MwSiteMapLoFiCropped.png"Site Map Low Fidelity")
+![Site Map Low Fidelity](/MwSiteMapLoFiCropped.png"Site Map Low Fidelity")
 
 I moved quickly to develop a higher fidelity site map that included some early rendering of the screen flows associated with particular actions on the site. 
 
-![Site Map High Fidelity](/medwater/img/WWSiteMapFINAL.svg "Site Map High Fidelity")
+![Site Map High Fidelity](/medwater/img/WWSiteMapFINAL.gif "Site Map High Fidelity")
 
 # Design: User Flows, Sketching, and Wire framing
 
