@@ -77,13 +77,8 @@ draft: false
 # The Problem
 A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization's goal was to increase giving and engagement through their site and attract new users.  
 
-
 # The Solution
 I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
-
-
-
-
 
 <!-- It was the first project
 where I handled mobile app design, and I was very excited to learn the
@@ -98,14 +93,16 @@ represented in the design process. -->
 
 
 # Research: Survey and Interviews
-I performed user research through survey and in person interviews. A screener survey was completed with participants who reported that they had been involved with NGO’s as a supporter or volunteer in the last twelve months. Interviews were conducted with a representative group of users.
+The solution began with user research. I performed primary research using survey and in person interviews. I wanted to speak with people who already had demonstrated interest in being involved with NGOs. An survey of was completed by 16 participants who reported being involved with an NGO’s as a supporter or volunteer in the last twelve months. 
 
-![MedWater Interview Summary]("") *Users were only 50% favorable to involvement in new organizations*
+Interviews were conducted with a representative group of users.
+
+![MedWater Interview Summary]("")*Users were only 50% favorable to involvement in new organizations*
 
 
 
 # Discovery: Insights, Personas, Empathy Maps
-
+In the research phase I learned that users said that they were reluctant to develop new involvements with organizations. This presented as a potential barrier. When asked what would help users override this concern, users reported that personal connection was what would lead them to new invovlements. 
 Through user research I learned that people using the site were likely to give financially to organizations with which they had a connection. Users would afford involvement with a new organization if referred by a personal connection. Therefore I redesigned the giving interface to integrate with social media platforms with options to challenge others to give through Facebook or Venmo.
 
 ## Persona
