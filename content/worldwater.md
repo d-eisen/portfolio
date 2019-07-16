@@ -6,7 +6,7 @@ weight: 1
 title: "WorldWater | David Eisenmenger"
 
 # This is the description in the <head> tag
-description: "I set a direction for the rebranding of the product and crafted a functioning prototype ready for usability testing and development."
+description: "I set a direction for the redesign of the product and crafted a functioning prototype ready for usability testing and development."
 
 # This the heading of the navigation at the top of the case study
 nav_heading: "WorldWater Case Study"
@@ -101,28 +101,28 @@ Some of the key findings of the survey were that most users were involved in few
 
 <!-- PARTICIPANT SURVEY ACTIVITY GRAPH HERE -->
 
-One finding of the survey was potentially concerning. Survey participants reported only 24% favorable to new involvements with organizations. This finding would be something to explore more deeply during user interviews.
+One finding of the survey was potentially concerning. Survey participants reported being only 24% favorable to new involvements with organizations. This finding would be something to explore more deeply during user interviews.
 
 <!-- ![MedWater Interview Summary]("")*Users were only 50% favorable to involvement in new organizations* -->
 
-User interviews were conducted with a representative group of users. 
+I conducted in person interviews with a set of users who were survey respondents. I wanted to dig more deeply on couple of important questions. What do organizations do that draw you in? What are the pain points associated with their experience of NGOS. From the survey, users said that they were reluctant to develop new involvements with organizations. This presented a potential barrier to the goals of the project. In the interviews, I asked users what motivates them to become involved with the organizations. 
+
+Participants responded that they became involved with organizations through recommendations from people that they know. When I asked participants what organizations did that draws them in as volunteer or donors, they emphasized that alignment of their personal values with organization's values drew them in.
+
+I also asked participants what are their pain points associated with being involved with organizations. The two pain points that users have were related to scheduling: users reported having difficulty being involved with organizations due to limited time, others reported feeling that organizations made poor use of their time.
 
 # Discovery: Insights, Personas, Empathy Maps
-In the research phase I learned that users said that they were reluctant to develop new involvements with organizations. This presented as a potential barrier. When asked what would help users override this concern, users reported that personal connection was what would lead them to new involvements. 
-
-Through user research I learned that people using the site were likely to give financially to organizations with which they had a connection. Users would afford involvement with a new organization if referred by a personal connection. Therefore I redesigned the giving interface to integrate with social media platforms with options to challenge others to give through Facebook or Venmo.
+A key insight from the research was is that users would most likely afford involvement with a new organization if they were 1.) referred by a personal connection and 2.) their experience with the organization's site would be as convenient and efficient in helping them meet their goals of supporting the organization. Based on these insignts, the requirements for the design would be likely to include seamless user flows related to giving to the organization that integrated with social media platforms to allow users to challenge others to involvement.
 
 ## Persona
-I wanted to better understand the research that had been done and begin to anticipate how users might behave when using the site. Two learn personas were developed on the survey and interview results. 
-
-Based on the survey and interviews user personas and empathy maps were developed to help synthesize research.The first persona, Linda, valued personal connection as a factor related to her involvement with organizations. Linda was generous with her time and was not a frequent user of mobile apps.
+I wanted to further synthesize the research that had been done and begin to develop a profile of the kind of person for who I was designing. Two lean personas were developed based on the surveys and interviews. The first persona, Linda, valued personal connection as a factor related to her involvement with organizations. Linda was generous with her time and was not a frequent user of mobile technology.
 ![Persona Linda](/PersonaLinda.jpg "Lean Persona Linda")
 
-The second persona, Shawn, valued personal connection as well. Shawn had less time to give and appreciated convenience as factor in websites and apps.
+The second persona, Shawn, valued personal connection as well. Shawn had less time to give than what he wanted. Shawn appreciated convenience as factor as it related to his interaction with an organization's website.
 ![Persona Shawn](/PersonaShawn.jpg "Lean Persona Shawn")
 
 ## Empathy Maps
-Empathy maps were developed to gain a more detailed view of each persona's behaviors and motivations.
+I alsow wanted to begin to predict how users might behave when using the site. To extend the reach of the personas, I developed Empathy maps were to project a more detailed view of each persona's behaviors and motivations.
 
 ![Empathy Map Linda](/EmpathyMaps_Page_1.jpg "Empathy Map Linda")
 
@@ -130,7 +130,7 @@ Empathy maps were developed to gain a more detailed view of each persona's behav
 
 
 
-# Additional Discovery: Card Sort and Site Map
+# Information Architechture: Card Sort and Site Map
 ## Card Sort
 With the user personas in mind, A card sort activity was engaged to evaluate how users would categorize information on a website. This activity evaluates the website’s content strategy by asking participants in a study to sort cards with tasks associated with the website into categories that make sense to the user. The results of the study including the categories, cards, and participant comments (during moderated sessions) are analyzed and evaluated. 
 
