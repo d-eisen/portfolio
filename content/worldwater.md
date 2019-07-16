@@ -122,22 +122,21 @@ The second persona, Shawn, valued personal connection as well. Shawn had less ti
 ![Persona Shawn](/PersonaShawn.jpg "Lean Persona Shawn")
 
 ## Empathy Maps
-I alsow wanted to begin to predict how users might behave when using the site. To extend the reach of the personas, I developed Empathy maps were to project a more detailed view of each persona's behaviors and motivations.
+I also wanted to begin to predict how users might behave when using the site. To extend the reach of the personas, I developed Empathy maps were to project a more detailed view of each persona's behaviors and motivations.
 
 ![Empathy Map Linda](/EmpathyMaps_Page_1.jpg "Empathy Map Linda")
 
 ![Empathy Map Shawn](/EmpathyMaps_Page_2.jpg "Empathy Map Shawn")
 
-
-
 # Information Architechture: Card Sort and Site Map
 ## Card Sort
-With the user personas in mind, A card sort activity was engaged to evaluate how users would categorize information on a website. This activity evaluates the website’s content strategy by asking participants in a study to sort cards with tasks associated with the website into categories that make sense to the user. The results of the study including the categories, cards, and participant comments (during moderated sessions) are analyzed and evaluated. 
-
+Based upon insight from research, the personas, and the empathy maps, I wanted to learn what would be the most intuitive way to organize the site from the user's perspective. I engaged a card sort activity to help answer this question. An open card sort evaluates a website’s content strategy by asking participants in study to sort cards with tasks associated with the website into categories that make sense to the user. The results of the study including the categories, cards, and participant comments were analyzed and evaluated. 
 <!-- ![Card Sort Report Cover](/MedWaterCardSortReportV1_Page_1.jpg "Card Sort Report Cover") -->
 
 The following similarity matrix (representing the combined participants) compares two cards and scores them based on how many participants agreed with the pair. Darker/higher numbers signify a stronger relationship between the card above the number and the card to the right of the number.  
-![Card Sort Similarity Index](/MedWaterCardSortSimilarityMatrixFinal.png "Site Map High Fidelity")
+![Card Sort Similarity Index](/MedWaterCardSortSimilarityMatrixFinal.png "Card Sort Similarity Index")
+
+There was some disagreement from the participants regarding the categorization of some cards. The type of sort used was an "open sort", meaning that participants were allowed to name the categories into which they placed the cards, rather than matching the card to a predetermined category. The participants came from a variety of backgrounds. Their different orientation to the activity was reflected in their varied responses. While some categories were not difficult to synthesize, others were more difficult to synthesize between responses.
 
 ## Site Map
 Informed by the categories that users selected during the card sort activity a site map was developed based on the results of the study. 
@@ -152,7 +151,7 @@ Additional review the results resulted in a second iteration of the site map.
 # Design: User Flows, Sketching, and Wire framing
 Based on the results of the research and discovery activities described above, some flows for typical user processes began to emerge.
 ## User Flows
-Sketches were made of the most fundamental processes of the site, including this example of a user flow from the landing page to the creation of a user account.
+I made sketches of the most fundamental processes of the site, including this example of a user flow from the landing page to the creation of a user account.
 
 ![User Flow Low Fidelity](/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity") *User flow sketch: Landing Page to Create Account*
 
