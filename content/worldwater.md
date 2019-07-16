@@ -105,12 +105,11 @@ One finding of the survey was potentially concerning. Survey participants report
 
 <!-- ![MedWater Interview Summary]("")*Users were only 50% favorable to involvement in new organizations* -->
 
-User interviews were conducted with a representative group of users.
-
-
+User interviews were conducted with a representative group of users. 
 
 # Discovery: Insights, Personas, Empathy Maps
 In the research phase I learned that users said that they were reluctant to develop new involvements with organizations. This presented as a potential barrier. When asked what would help users override this concern, users reported that personal connection was what would lead them to new involvements. 
+
 Through user research I learned that people using the site were likely to give financially to organizations with which they had a connection. Users would afford involvement with a new organization if referred by a personal connection. Therefore I redesigned the giving interface to integrate with social media platforms with options to challenge others to give through Facebook or Venmo.
 
 ## Persona
