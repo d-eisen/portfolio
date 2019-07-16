@@ -163,10 +163,10 @@ Following a LEAN methodology, I developed the content strategy based on users st
 
 
 ## Sketching
-With a clearer sense of how a user might interact with the site, some initial sketches could be made. Here are early sketches of screen flows from the Landing Page to creating an Account.
-![Sketch: Landing Page to Login1](/01MWLandingPagetoLogin_Page_1.jpg "Landing Page to Login 1")*Screen design sketch: Landing Page to Create Account 1*
+Having conceptualized the basic architecture of the the flow. I began hand sketching how the donation user flow would begin to look. 
+![Sketch: Landing Page to Donation](/medwater/img/WWDonate01v3.png "Landing Page to Donation")
 
-![Sketch: Landing Page to Login2](/01MWLandingPagetoLogin_Page_2.jpg "Landing Page to Login 2") *Screen design sketch: Landing Page to Create Account 2*
+<!-- ![Sketch: Landing Page to Login2](/01MWLandingPagetoLogin_Page_2.jpg "Landing Page to Login 2") *Screen design sketch: Landing Page to Create Account 2* -->
 
 ## Wireframing
 Based on user feedback on sketches a low fidelity wire frame was developed. This wire frame is an rendering of the Landing Page to Donation user flow. 
