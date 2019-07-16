@@ -93,19 +93,21 @@ represented in the design process. -->
 
 
 # Research: Survey and Interviews
-The solution began with user research. I performed primary research using survey and in person interviews. I wanted to speak with people who already had demonstrated interest in being involved with NGOs. An survey of was completed by 16 participants who reported being involved with an NGO’s as a supporter or volunteer in the last twelve months. 
+I began with user research. I performed primary research using an online survey and in person interviews. I wanted to speak with people who had already demonstrated interest in being involved with NGOs. An survey of was completed by 16 participants who reported being involved with an NGO’s as a supporter or volunteer in the last twelve months. 
 
-Interviews were conducted with a representative group of users.
+Market research showed that websites from similar organizations placed call to actions for giving very prominently on their sites.
 
-![MedWater Interview Summary]("")*Users were only 50% favorable to involvement in new organizations*
+<!-- Interviews were conducted with a representative group of users. -->
 
-
+<!-- ![MedWater Interview Summary]("")*Users were only 50% favorable to involvement in new organizations* -->
 
 # Discovery: Insights, Personas, Empathy Maps
 In the research phase I learned that users said that they were reluctant to develop new involvements with organizations. This presented as a potential barrier. When asked what would help users override this concern, users reported that personal connection was what would lead them to new invovlements. 
 Through user research I learned that people using the site were likely to give financially to organizations with which they had a connection. Users would afford involvement with a new organization if referred by a personal connection. Therefore I redesigned the giving interface to integrate with social media platforms with options to challenge others to give through Facebook or Venmo.
 
 ## Persona
+I wanted to better understand the research that had been done and begin to anticipate how users might behave when using the site. Two learn personas were developed on the survey and interview results. 
+
 Based on the survey and interviews user personas and empathy maps were developed to help synthesize research.The first persona, Linda, valued personal connection as a factor related to her involvement with organizations. Linda was generous with her time and was not a frequent user of mobile apps.
 ![Persona Linda](/PersonaLinda.jpg "Lean Persona Linda")
 
