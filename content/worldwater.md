@@ -140,20 +140,20 @@ There was some disagreement from the participants regarding the categorization o
 
 ## Site Map
 I designed a site map based on the results of the card sort activity. I completed an initial hand drawn sketch of the site map to begin the design process. Since my directive was to develop a minimally viable product, I knew that the prototype would not necessarily need to have each section fully developed, however a sound content strategy would include a comprehensive site map.
-![Site Map Low Fidelity](/MwSiteMapLoFiCropped.png"Site Map Low Fidelity")
+![Site Map Low Fidelity](/medwater/img/MwSiteMapLoFiCropped.png"Site Map Low Fidelity")
 
 I moved quickly to develop a higher fidelity site map that included some early rendering of the screen flows associated with particular actions on the site. 
 
-![Site Map High Fidelity](/MwSiteMap.jpg "Site Map High Fidelity")
+![Site Map High Fidelity](/medwater/img/WWSiteMapFINAL.svg "Site Map High Fidelity")
 
 # Design: User Flows, Sketching, and Wire framing
 
 ## User Stories and Flows
 Following a LEAN methodology, I developed the content strategy based on users stories. The primary user stories that the research and the initial design problems were related to making a gift to the organization and connecting with others on social media related to their activity on the site. Based on these user stories I developed a simple user flows to reflect these processes. For example, a key user story was:
 <ul>"As a user, I want to make a donation to the organization so that I can support the organization financially."</ul>
-Below is an example of a user flow based on this story. This flow takes the user from the landing page to a completed donation.
+<p>Below is an example of a user flow based on this story. This flow takes the user from the landing page to a completed donation.</p>
 
-![User Flow High Fidelity](/medwater/img/WWUserFlowsHiFi_Page_2V2.png "User flow: From landing page to donation.") *User flow high fidelity: Landing Page to Donation*
+![User Flow High Fidelity](/medwater/img/WWUserFlowsHiFi_Page_2V2.png "User flow: From landing page to donation.")
 
 <!-- ![User Flow Low Fidelity](/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity") *User flow sketch: Landing Page to Create Account* -->
 
