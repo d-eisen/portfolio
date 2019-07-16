@@ -147,17 +147,20 @@ I moved quickly to develop a higher fidelity site map that included some early r
 ![Site Map High Fidelity](/MwSiteMap.jpg "Site Map High Fidelity")
 
 # Design: User Flows, Sketching, and Wire framing
-Based on the results of the research and discovery activities described above, some flows for typical user processes began to emerge.
-## User Flows
-I made sketches of the most fundamental processes of the site, including this example of a user flow from the landing page to the creation of a user account.
 
-![User Flow Low Fidelity](/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity") *User flow sketch: Landing Page to Create Account*
+## User Stories and Flows
+Following a LEAN methodology, I developed the content strategy based on users stories. The primary user stories that the research and the initial design problems were related to making a gift to the organization and connecting with others on social media related to their activity on the site. Based on these user stories I developed a simple user flows to reflect these processes. For example, a key user story was:
+<ul>"As a user, I want to make a donation to the organization so that I can support the organization financially."</ul>
+Below is an example of a user flow based on this story. This flow takes the user from the landing page to a completed donation.
 
-Based on these sketches and additional study of the research material, higher fidelity renderings of the user flows were completed.
+![User Flow High Fidelity](/medwater/img/WWUserFlowsHiFi_Page_2V2.png "User flow: From landing page to donation.") *User flow high fidelity: Landing Page to Donation*
 
-![User Flow High Fidelity 1](/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1") *User flow high fidelity: Landing Page to Create Account*
+<!-- ![User Flow Low Fidelity](/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity") *User flow sketch: Landing Page to Create Account* -->
 
-![User Flow High Fidelity](/MedWaterUserFlowsHiFi_Page_2.jpg "User Flow High Fidelity 2") *User flow high fidelity: Landing Page to Donation*
+<!-- Based on these sketches and additional study of the research material, higher fidelity renderings of the user flows were completed. -->
+
+<!-- ![User Flow High Fidelity 1](/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1") *User flow high fidelity: Landing Page to Create Account* -->
+
 
 ## Sketching
 With a clearer sense of how a user might interact with the site, some initial sketches could be made. Here are early sketches of screen flows from the Landing Page to creating an Account.
