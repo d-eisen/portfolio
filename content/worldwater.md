@@ -128,7 +128,7 @@ I also wanted to begin to predict how users might behave when using the site. To
 
 ![Empathy Map Shawn](/EmpathyMaps_Page_2.jpg "Empathy Map Shawn")
 
-# Information Architechture: Card Sort and Site Map
+# Information Architecture: Card Sort and Site Map
 ## Card Sort
 Based upon insight from research, the personas, and the empathy maps, I wanted to learn what would be the most intuitive way to organize the site from the user's perspective. I engaged a card sort activity to help answer this question. An open card sort evaluates a website’s content strategy by asking participants in study to sort cards with tasks associated with the website into categories that make sense to the user. The results of the study including the categories, cards, and participant comments were analyzed and evaluated. 
 <!-- ![Card Sort Report Cover](/MedWaterCardSortReportV1_Page_1.jpg "Card Sort Report Cover") -->
@@ -139,14 +139,12 @@ The following similarity matrix (representing the combined participants) compare
 There was some disagreement from the participants regarding the categorization of some cards. The type of sort used was an "open sort", meaning that participants were allowed to name the categories into which they placed the cards, rather than matching the card to a predetermined category. The participants came from a variety of backgrounds. Their different orientation to the activity was reflected in their varied responses. While some categories were not difficult to synthesize, others were more difficult to synthesize between responses.
 
 ## Site Map
-Informed by the categories that users selected during the card sort activity a site map was developed based on the results of the study. 
-
+I designed a site map based on the results of the card sort activity. I completed an initial hand drawn sketch of the site map to begin the design process. Since my directive was to develop a minimally viable product, I knew that the prototype would not necessarily need to have each section fully developed, however a sound content strategy would include a comprehensive site map.
 ![Site Map Low Fidelity](/MwSiteMapLoFiCropped.png"Site Map Low Fidelity")
 
-Additional review the results resulted in a second iteration of the site map.
+I moved quickly to develop a higher fidelity site map that included some early rendering of the screen flows associated with particular actions on the site. 
 
 ![Site Map High Fidelity](/MwSiteMap.jpg "Site Map High Fidelity")
-
 
 # Design: User Flows, Sketching, and Wire framing
 Based on the results of the research and discovery activities described above, some flows for typical user processes began to emerge.
