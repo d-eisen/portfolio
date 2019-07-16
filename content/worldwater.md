@@ -75,11 +75,13 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 # The Problem
-A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization's goal was to leverage increased giving through the site and attract new users.  In the research phase, I learned that  users expressed reluctance to become involved with a new organization. This was a potential barrier. 
+A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization's goal was to increase giving and engagement through their site and attract new users.  
 
 
 # The Solution
-I developed a redesigned site as a minimal viable product utilizing mobile first design. Through user research I learned that people using the site were likey to give financially to organzations with which they had a connenction. Users would afford involvement with a new organization if referred by a personal connection. Therefore I redesigned the giving interface to integrat with social media platforms with options to challenge others to give through Facebook or Venmo.
+I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
+
+
 
 
 
@@ -104,6 +106,7 @@ I performed user research through survey and in person interviews. A screener su
 
 # Discovery: Insights, Personas, Empathy Maps
 
+Through user research I learned that people using the site were likely to give financially to organizations with which they had a connection. Users would afford involvement with a new organization if referred by a personal connection. Therefore I redesigned the giving interface to integrate with social media platforms with options to challenge others to give through Facebook or Venmo.
 
 ## Persona
 Based on the survey and interviews user personas and empathy maps were developed to help synthesize research.The first persona, Linda, valued personal connection as a factor related to her involvement with organizations. Linda was generous with her time and was not a frequent user of mobile apps.
