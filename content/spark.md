@@ -132,7 +132,4 @@ Some participants commented that the directions on module 2 were unclear regardi
 ![Spark PullQuote 1](/spark/img/SparkPullQuoteBV3.png "Spark Pull Quote 2")
 
 # Next Steps
-The executive leadership were pleased with the final product and assumed responsibility for its implemenation in the field.  
-
-# Suggestions for further development
-While this in person course format seemed to show some impact in bringing people into direct conversation with one another regarding the importance of diversity and inclusion, the continued integration of these values with the organization's service values would lead to greater leverage for the initiative.
+The executive leadership were pleased with the final product and assumed responsibility for its implemenation in the field.  While this in person course format seemed to show some impact in bringing people into direct conversation with one another regarding the importance of diversity and inclusion, the continued integration of these values with the organization's service values would lead to greater leverage for the initiative.

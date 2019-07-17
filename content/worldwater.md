@@ -195,7 +195,7 @@ I conducted in person usability tests using a prototype of the WorldWater site a
 <!-- ![Usability Report Cover Page](/MWUsabilityTestReport_Page_1.png "Usability Test Report") -->
 
 ## Feedback and Recommendations
-<!-- As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
+As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
 <ul>
 <li>Some users found the prototype’s Facebook login sequence to have too many steps.</li>
 <li>While making donations, some users missed the flow guidance that was offered by the alert window on the form.</li>
@@ -206,32 +206,18 @@ Based on the findings of the study, the the following recommendations were made 
 <li>Streamline the Facebook login process as part of fundraising challenges</li>
 <li>Improve the user guidance within the donation form using typography and color</li>
 <li>Create options for receiving updates without creating a full account</li>
-</ol> -->
+</ol>
 
-SECOND VERSION
-As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
-- Some users found the prototype’s Facebook login sequence to have too many steps.
-  - While making donations, some users missed the flow guidance that was offered by the alert window on the form.
-- Some users wanted to receive updates from the organization without creating a full account.
-
-Based on the findings of the study, the the following recommendations were made regarding the above issues.
-1. Streamline the Facebook login process as part of fundraising challenges</li>
-2. Improve the user guidance within the donation form using typography and color</li>
-  3. Create options for receiving updates without creating a full account</li>s
 
 # Style Guide
-In preparation for a higher fidelity prototype a [style guide](/MedWaterStyleGuide.pdf) was developed. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
-![Style Guide Cover Page](/MedWaterStyleGuide_Page_1.png "Style Guide")  
+In preparation for a higher fidelity prototype a [style guide](/#) was developed. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
+![Style Guide Cover Page](/# "Style Guide")  
 
 # Next Steps
 
-Build a high fidelity prototype to include other features of the site
-Get client feedback
-Test it with users
-Iterate on feedback
-Handoff for  development.
+The next steps are to build a high fidelity prototype in InViston to simulate the micro interactions. An additional round of user testing and rapid iteration will follow and the protoype will be ready for developer handoff. The site's blog content will be added as well as help section with faqs. 
 
-Based on the results of the usability study, an additional iteration of the design and further testing will have the design ready for beta development. 
+The most significant challenge so far has been the challenge integration with social. As Venmo had limited access to it's API, another challenge is found in selcting the right front end and back end framework for development.
 
-Additional areas for research and design are related to the updating the organizations blog structure and their use of mapping assets with the organization's partner communities in the Amazon basin.
+Additional areas for research and design are related to an update of the organizations blog structure and their map content with the organization's partner communities in the Amazon. basin.
 
