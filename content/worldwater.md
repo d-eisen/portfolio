@@ -195,7 +195,7 @@ I conducted in person usability tests using a prototype of the WorldWater site a
 <!-- ![Usability Report Cover Page](/MWUsabilityTestReport_Page_1.png "Usability Test Report") -->
 
 ## Feedback and Recommendations
-As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
+<!-- As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
 <ul>
 <li>Some users found the prototype’s Facebook login sequence to have too many steps.</li>
 <li>While making donations, some users missed the flow guidance that was offered by the alert window on the form.</li>
@@ -206,7 +206,7 @@ Based on the findings of the study, the the following recommendations were made 
 <li>Streamline the Facebook login process as part of fundraising challenges</li>
 <li>Improve the user guidance within the donation form using typography and color</li>
 <li>Create options for receiving updates without creating a full account</li>
-</ol>
+</ol> -->
 
 SECOND VERSION
 As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
