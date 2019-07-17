@@ -208,6 +208,16 @@ Based on the findings of the study, the the following recommendations were made 
 <li>Create options for receiving updates without creating a full account</li>
 </ol>
 
+SECOND VERSION
+As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
+- Some users found the prototype’s Facebook login sequence to have too many steps.
+  - While making donations, some users missed the flow guidance that was offered by the alert window on the form.
+- Some users wanted to receive updates from the organization without creating a full account.
+
+Based on the findings of the study, the the following recommendations were made regarding the above issues.
+1. Streamline the Facebook login process as part of fundraising challenges</li>
+2. Improve the user guidance within the donation form using typography and color</li>
+  3. Create options for receiving updates without creating a full account</li>s
 
 # Style Guide
 In preparation for a higher fidelity prototype a [style guide](/MedWaterStyleGuide.pdf) was developed. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
