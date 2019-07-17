@@ -189,17 +189,37 @@ I did some quick guerilla testing of the wireframes with a couple of users to sc
 [![Prototype](/medwater/img/LandingPg.png)](https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D)
 
 # Iteration: Usability Study
-I conducted in person usability test using a prototype of the WorldWater site accessed by the user on their laptop. Participants  were asked to complete four tasks using a clickable prototype of the MedWater site. They were instructed to work independently on the assigned tasks, moving as close to completion as possible. While completing the tasks user were asked to think aloud, sharing their process verbally. As participants completed the process, I recorded their comments and made note of their actions. Upon completion of the tests a report was completed and given to the client.
+## First Iteration
+I conducted in person usability tests using a prototype of the WorldWater site accessed by the user on their laptop or mine. Participants were asked to complete four tasks using the clickable prototype. They were instructed to work independently on the assigned tasks, moving as close to completion as possible. While completing the tasks, users were asked to think aloud, sharing their process verbally. As participants completed the process, I recorded their comments and made note of their actions. Upon completion of the tests a report was completed and given to the client.
 
 <!-- ![Usability Report Cover Page](/MWUsabilityTestReport_Page_1.png "Usability Test Report") -->
 
-## Style Guide
-In preparation for a prototype a [style guide](/MedWaterStyleGuide.pdf) was developed. The style guide reflects the color scheme and font choices and some basic aspects of the user interface. A color palette was selected based on the organization's current color scheme and their emphasis on water. Additional remaining colors reﬂect some of the tones found in the region of Ecuador where the organization's operations are based. The green shades for text reﬂect the mood of growth and optimism that the site coneys.
+## Second Iteration
+As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
+
+* Some users found the prototype’s Facebook login sequence to have too many steps. 
+* While making donations, some users missed the flow guidance that was offered by the alert window on the form.
+* Some users wanted to receive updates from the organization without creating a full account.
+s
+Based on the findings of the study, the the following recommendations were made regarding the above issues.
+1. Streamline of the Facebook login process as part of fundraising challenges
++ Improve the user guidance within the donation form using typography and color
++ Create options for receiving updates without creating a full account
+
+
+# Style Guide
+In preparation for a higher fidelity prototype a [style guide](/MedWaterStyleGuide.pdf) was developed. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
 ![Style Guide Cover Page](/MedWaterStyleGuide_Page_1.png "Style Guide")  
 
 # Next Steps
 
+Build a high fidelity prototype to include other features of the site
+Get client feedback
+Test it with users
+Iterate on feedback
+Handoff for  development.
+
 Based on the results of the usability study, an additional iteration of the design and further testing will have the design ready for beta development. 
 
-Additional areas for research and design are related to the updating the organizations blog structure and their use of mapping assets with the organization's partner communities in Ecuador.
+Additional areas for research and design are related to the updating the organizations blog structure and their use of mapping assets with the organization's partner communities in the Amazon basin.
 
