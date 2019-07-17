@@ -200,7 +200,7 @@ As I evaluated the results of the usability tests some the following issues emer
 * Some users found the prototype’s Facebook login sequence to have too many steps. 
 * While making donations, some users missed the flow guidance that was offered by the alert window on the form.
 * Some users wanted to receive updates from the organization without creating a full account.
-s
+<br>
 Based on the findings of the study, the the following recommendations were made regarding the above issues.
 1. Streamline of the Facebook login process as part of fundraising challenges
 + Improve the user guidance within the donation form using typography and color
