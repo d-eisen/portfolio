@@ -197,14 +197,16 @@ I conducted in person usability tests using a prototype of the WorldWater site a
 ## Feedback and Recommendations
 As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
 <ul>
-* Some users found the prototype’s Facebook login sequence to have too many steps. 
-* While making donations, some users missed the flow guidance that was offered by the alert window on the form.
-* Some users wanted to receive updates from the organization without creating a full account.
+<li>Some users found the prototype’s Facebook login sequence to have too many steps.</li>
+<li>While making donations, some users missed the flow guidance that was offered by the alert window on the form.</li>
+<li>Some users wanted to receive updates from the organization without creating a full account.</li>
 </ul>
 Based on the findings of the study, the the following recommendations were made regarding the above issues.
-1. Streamline the Facebook login process as part of fundraising challenges
-+ Improve the user guidance within the donation form using typography and color
-+ Create options for receiving updates without creating a full account
+<ol>
+<li>Streamline the Facebook login process as part of fundraising challenges</li>
+<li>Improve the user guidance within the donation form using typography and color</li>
+<li>Create options for receiving updates without creating a full account</li>
+</ol>
 
 
 # Style Guide
