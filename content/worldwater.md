@@ -31,16 +31,16 @@ case_description: "WorldWater.com is an informational website for a non governme
 case_feature_img: "WWLandingPgV3LG.png"
 
 # This is the case summary in the case itself
-case_summary: "This is an informational website for the WorldWater organization. The site is focused on allowing supporters to donate to the organization, raise funds via Venmo and Facebook and review updates from the field. I created a minimum viable product for this site."
+case_summary: "WorldWater.com is the home site for the WorldWater organization. WorldWater is a nongovernmental organization (NGO) that is focused on empowering communities to manage their public health infrastructure. Their primary operations are in the the Amazon Basin as well as in the United States. The site is focused on supporting its social media channels with information about the organization and features allowing users to donate as well as raise funds by challenging others using social media. The assets respresented here have had the original company name replaced with a placeholder, WorldWater."
 
 # Your team members
 team: ["David Eisenmenger"]
 
 # Roles of your team members
-roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
+roles: ["Researcher", "Information Architect", "User Interface Designer"]
 
 # Methods your team members used
-methods: ["Sketching", "Wireframing", "Usability Testing"]
+methods: ["Surveys and Interviewing" "Sketching", "Wireframing", "Prototyping", "Usability Testing"]
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
