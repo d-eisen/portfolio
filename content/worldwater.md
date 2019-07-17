@@ -189,9 +189,9 @@ I did some quick guerilla testing of the wireframes with a couple of users to sc
 ![prototype](/medwater/img/LandingPg.png "Low fidelity prototype")[https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D]
 
 # Iteration: Usability Study
-I . Users were asked to complete tasks related to creating an account, making a donation to the organization, and challenges others in a fundraising activity using the mobile site. 
+I conducted in person usability test using a prototype of the WorldWater site accessed by the user on their laptop. Participants  were asked to complete four tasks using a clickable prototype of the MedWater site. They were instructed to work independently on the assigned tasks, moving as close to completion as possible. While completing the tasks user were asked to think aloud, sharing their process verbally. As participants completed the process, I recorded their comments and made note of their actions. Upon completion of the tests a report was completed and given to the client.
 
-![Usability Report Cover Page](/MWUsabilityTestReport_Page_1.png "Usability Test Report")
+<!-- ![Usability Report Cover Page](/MWUsabilityTestReport_Page_1.png "Usability Test Report") -->
 
 ## Style Guide
 In preparation for a prototype a [style guide](/MedWaterStyleGuide.pdf) was developed. The style guide reflects the color scheme and font choices and some basic aspects of the user interface. A color palette was selected based on the organization's current color scheme and their emphasis on water. Additional remaining colors reﬂect some of the tones found in the region of Ecuador where the organization's operations are based. The green shades for text reﬂect the mood of growth and optimism that the site coneys.
