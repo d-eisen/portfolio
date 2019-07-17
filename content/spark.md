@@ -14,7 +14,7 @@ nav_heading: "Spark! Case Study"
 thumbnail: "SparkBoardMockupSqv2.png"
 
 # This is the title of the case study in the case studies section
-case_short_title: "Spark! Diversity and Inclusion"
+case_short_title: "Spark! Training Course"
 
 # This is the title of the case study in the case study page
 case_title: "Spark! Diversity and Inclusion"
