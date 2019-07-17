@@ -163,13 +163,14 @@ Following a LEAN methodology, I developed the content strategy based on users st
 
 
 ## Sketching
-Having conceptualized the basic architecture of the the flow. I began hand sketching how the donation user flow would begin to look. 
+Having conceptualized the basic architecture of the the flow. I began hand-sketching how the donation user flow would look. 
 ![Sketch: Landing Page to Donation](/medwater/img/WWDonate01v3.png "Landing Page to Donation")
 
 <!-- ![Sketch: Landing Page to Login2](/01MWLandingPagetoLogin_Page_2.jpg "Landing Page to Login 2") *Screen design sketch: Landing Page to Create Account 2* -->
 
 ## Wireframing
-Based on user feedback on sketches a low fidelity wire frame was developed. This wire frame is an rendering of the Landing Page to Donation user flow. 
+Based on my sketches I developed a low fidelity wireframe. Here is the screen flow from the landing page to making an individual donation.
+
 
 ![Wire Frame 1](/LandingPgToDonate.png "Wire Frame: Landing Page to Login 1") 
 
@@ -183,16 +184,18 @@ Based on user feedback on sketches a low fidelity wire frame was developed. This
 
 
 # Development: Low Fidelity Prototype
-A low fidelity clickable [prototype] (/MWMobilePrototype.pdf) was created in Balsamiq. The prototype primarily simulates the login and donation flows.
+I did some quick guerilla testing of the wireframes with a couple of users to screen for any major usability issues. Having received positive feedback from testers, I moved to developing a low fidelity prototype. The <a href="https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D">prototype</a> was developed in Balsamiq. It simulates the login process and various flows related to making donations and engaging the site's challenge features. Some areas of the site outside of the MVP have a placeholder that is clearly marked within the experience.
+
+![prototype](/medwater/img/LandingPg.png "Low fidelity prototype")
+
+# Iteration: Usability Study
+I . Users were asked to complete tasks related to creating an account, making a donation to the organization, and challenges others in a fundraising activity using the mobile site. 
+
+![Usability Report Cover Page](/MWUsabilityTestReport_Page_1.png "Style Guide")
 
 ## Style Guide
 In preparation for a prototype a [style guide](/MedWaterStyleGuide.pdf) was developed. The style guide reflects the color scheme and font choices and some basic aspects of the user interface. A color palette was selected based on the organization's current color scheme and their emphasis on water. Additional remaining colors reﬂect some of the tones found in the region of Ecuador where the organization's operations are based. The green shades for text reﬂect the mood of growth and optimism that the site coneys.
 ![Style Guide Cover Page](/MedWaterStyleGuide_Page_1.png "Style Guide")  
-
-# Iteration: Usability Study
-Based on the low fidelity prototype, a moderated usability study was completed. Users were asked to complete tasks related to creating an account, making a donation to the organization, and challenges others in a fundraising activity using the mobile site. 
-
-![Usability Report Cover Page](/MWUsabilityTestReport_Page_1.png "Style Guide")
 
 # Next Steps
 
