@@ -188,21 +188,21 @@ I did some quick guerilla testing of the wireframes with a couple of users to sc
 
 [![Prototype](/medwater/img/LandingPg.png)](https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D)
 
-# Iteration: Usability Study
-## First Iteration
+# Iteration: Usability Study and Feedback
+## Usability Study
 I conducted in person usability tests using a prototype of the WorldWater site accessed by the user on their laptop or mine. Participants were asked to complete four tasks using the clickable prototype. They were instructed to work independently on the assigned tasks, moving as close to completion as possible. While completing the tasks, users were asked to think aloud, sharing their process verbally. As participants completed the process, I recorded their comments and made note of their actions. Upon completion of the tests a report was completed and given to the client.
 
 <!-- ![Usability Report Cover Page](/MWUsabilityTestReport_Page_1.png "Usability Test Report") -->
 
-## Second Iteration
+## Feedback and Recommendations
 As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
-
+<ul>
 * Some users found the prototype’s Facebook login sequence to have too many steps. 
 * While making donations, some users missed the flow guidance that was offered by the alert window on the form.
 * Some users wanted to receive updates from the organization without creating a full account.
-<br>
+</ul>
 Based on the findings of the study, the the following recommendations were made regarding the above issues.
-1. Streamline of the Facebook login process as part of fundraising challenges
+1. Streamline the Facebook login process as part of fundraising challenges
 + Improve the user guidance within the donation form using typography and color
 + Create options for receiving updates without creating a full account
 
