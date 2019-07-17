@@ -186,8 +186,8 @@ Based on my sketches I developed a low fidelity wireframe. Here is the screen fl
 # Development: Low Fidelity Prototype
 I did some quick guerilla testing of the wireframes with a couple of users to screen for any major usability issues. Having received positive feedback from testers, I moved to developing a low fidelity prototype. The <a href="https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D">prototype</a> was developed in Balsamiq. It simulates the login process and various flows related to making donations and engaging the site's challenge features. Some areas of the site outside of the MVP have a placeholder that is clearly marked within the experience. The low fidelity version does not contain the full color pallette and styling of the site in order to allow users and testers to focus on the screen layout and process flow.
 
-![prototype](/medwater/img/LandingPg.png "Low fidelity prototype")[https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D]
-[![Proto-typo!](/medwater/img/LandingPg.png)](https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D)
+[![Prototype](/medwater/img/LandingPg.png)](https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D)
+
 # Iteration: Usability Study
 I conducted in person usability test using a prototype of the WorldWater site accessed by the user on their laptop. Participants  were asked to complete four tasks using a clickable prototype of the MedWater site. They were instructed to work independently on the assigned tasks, moving as close to completion as possible. While completing the tasks user were asked to think aloud, sharing their process verbally. As participants completed the process, I recorded their comments and made note of their actions. Upon completion of the tests a report was completed and given to the client.
 
