@@ -3,35 +3,35 @@
 weight: 1
 
 # This is what appears as the tab's title
-title: "WorldWater | David Eisenmenger"
+title: "testworld | David Eisenmenger"
 
 # This is the description in the <head> tag
 description: "I set a direction for the redesign of the product and crafted and tested a functioning prototype for development."
 
 # This the heading of the navigation at the top of the case study
-nav_heading: "WorldWater Case Study"
+nav_heading: "testworld Case Study"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
 thumbnail: "WWLandingPgV3LG.png"
 
 # This is the title of the case study in the case studies section
-case_short_title: "WorldWater Mobile Site"
+case_short_title: "testworld Mobile Site"
 
 # This is the title of the case study in the case study page
-case_title: "WorldWater Mobile Site"
+case_title: "testworld Mobile Site"
 
 # This is the subtitle of the case study in the case studies section and the case study page
 case_subtitle: "Mobile First Web Design"
 
 # This is the case description in the case studies section
-case_description: "WorldWater.com is an informational website for a non governmental organization focused on water, sanitation, and hygiene for communities in Ecuador."
+case_description: "testworld.com is an informational website for a non governmental organization focused on water, sanitation, and hygiene for communities in Ecuador."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
 case_feature_img: "WWLandingPgV3LG.png"
 
 # This is the case summary in the case itself
-case_summary: "WorldWater.com is the home site for the WorldWater organization. WorldWater is a nongovernmental organization (NGO) that is focused on empowering communities to manage their public health infrastructure. Their primary operations are in the the Amazon Basin as well as in the United States. The site is focused on supporting its social media channels with information about the organization and features allowing users to donate as well as raise funds by challenging others using social media. The assets represented here have had the original company name replaced with a placeholder, WorldWater."
+case_summary: "testworld.com is the home site for the testworld organization. testworld is a nongovernmental organization (NGO) that is focused on empowering communities to manage their public health infrastructure. Their primary operations are in the the Amazon Basin as well as in the United States. The site is focused on supporting its social media channels with information about the organization and features allowing users to donate as well as raise funds by challenging others using social media. The assets represented here have had the original company name replaced with a placeholder, testworld."
 
 # Your team members
 team: ["David Eisenmenger"]
@@ -67,14 +67,14 @@ testimonial: "David has helped us to realize our vision for this site. His work 
 testimonial_author: "Darrell Adams"
 
 # Testimonial subtitle, usually position of the testimonial author
-testimonial_subtitle: "Co-founder, WorldWater"
+testimonial_subtitle: "Co-founder, testworld"
 date: 2019-07-15T15:59:05-04:00
 draft: true
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 # The Problem
-A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization's goal was to increase giving and engagement through their site and attract new users.  
+A non governmental organization (NGO) named testworld asked me to redesign their current website. The organization's goal was to increase giving and engagement through their site and attract new users.  
 
 # The Solution
 I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
@@ -83,7 +83,7 @@ I designed a minimal viable product utilizing mobile first design that streamlin
 # Research: Survey and Interviews
 I began with user research. I performed primary research using an online survey and in person interviews. I wanted to speak with people who had already demonstrated interest in being involved with NGOs. A survey of was completed by 16 participants who reported being involved with an NGO’s as a supporter or volunteer in the last twelve months. 
 
-I performed some market research reviewing the website of some organization with a similar mission WorldWater. My review of competing sites showed that similar organizations placed call to actions for giving very prominently on their sites.
+I performed some market research reviewing the website of some organization with a similar mission testworld. My review of competing sites showed that similar organizations placed call to actions for giving very prominently on their sites.
 
 Some of the key findings of the survey were that most users were involved in few organizations (less than five), however their primary activities with NGOs were well aligned with the goals of the site.  The participants key activities were reported as follows
 
@@ -178,7 +178,7 @@ I did some quick guerilla testing of the wireframes with a couple of users to sc
 
 # Iteration: Usability Study and Feedback
 ## Usability Study
-I conducted in person usability tests using a prototype of the WorldWater site accessed by the user on their laptop or mine. Participants were asked to complete four tasks using the clickable prototype. They were instructed to work independently on the assigned tasks, moving as close to completion as possible. While completing the tasks, users were asked to think aloud, sharing their process verbally. As participants completed the process, I recorded their comments and made note of their actions. Upon completion of the tests a report was completed and given to the client.
+I conducted in person usability tests using a prototype of the testworld site accessed by the user on their laptop or mine. Participants were asked to complete four tasks using the clickable prototype. They were instructed to work independently on the assigned tasks, moving as close to completion as possible. While completing the tasks, users were asked to think aloud, sharing their process verbally. As participants completed the process, I recorded their comments and made note of their actions. Upon completion of the tests a report was completed and given to the client.
 
 <!-- ![Usability Report Cover Page](/MWUsabilityTestReport_Page_1.png "Usability Test Report") -->
 
