@@ -105,31 +105,31 @@ A key insight from the research was is that users would most likely afford invol
 
 ## Persona
 I wanted to further synthesize the research that had been done and begin to develop a profile of the kind of person for who I was designing. Two lean personas were developed based on the surveys and interviews. The first persona, Linda, valued personal connection as a factor related to her involvement with organizations. Linda was generous with her time and was not a frequent user of mobile technology.
-![Persona Linda](/PersonaLinda.jpg "Lean Persona Linda")
+![Persona Linda](/worldwater/img/PersonaLinda.jpg "Lean Persona Linda")
 
 The second persona, Shawn, valued personal connection as well. Shawn had less time to give than what he wanted. Shawn appreciated convenience as factor as it related to his interaction with an organization's website.
-![Persona Shawn](/PersonaShawn.jpg "Lean Persona Shawn")
+![Persona Shawn](/worldwater/img/PersonaShawn.jpg "Lean Persona Shawn")
 
 ## Empathy Maps
 I also wanted to begin to predict how users might behave when using the site. To extend the reach of the personas, I developed Empathy maps were to project a more detailed view of each persona's behaviors and motivations.
 
-![Empathy Map Linda](/EmpathyMaps_Page_1.jpg "Empathy Map Linda")
+![Empathy Map Linda](/worldwater/img/EmpathyMaps_Page_1.jpg "Empathy Map Linda")
 
-![Empathy Map Shawn](/EmpathyMaps_Page_2.jpg "Empathy Map Shawn")
+![Empathy Map Shawn](/worldwater/img/EmpathyMaps_Page_2.jpg "Empathy Map Shawn")
 
 # Information Architecture: Card Sort and Site Map
 ## Card Sort
 Based upon insight from research, the personas, and the empathy maps, I wanted to learn what would be the most intuitive way to organize the site from the user's perspective. I engaged a card sort activity to help answer this question. An open card sort evaluates a website’s content strategy by asking participants in study to sort cards with tasks associated with the website into categories that make sense to the user. The results of the study including the categories, cards, and participant comments were analyzed and evaluated. 
-<!-- ![Card Sort Report Cover](/MedWaterCardSortReportV1_Page_1.jpg "Card Sort Report Cover") -->
+<!-- ![Card Sort Report Cover](/worldwater/img/MedWaterCardSortReportV1_Page_1.jpg "Card Sort Report Cover") -->
 
 The following similarity matrix (representing the combined participants) compares two cards and scores them based on how many participants agreed with the pair. Darker/higher numbers signify a stronger relationship between the card above the number and the card to the right of the number.  
-![Card Sort Similarity Index](/MedWaterCardSortSimilarityMatrixFinal.png "Card Sort Similarity Index")
+![Card Sort Similarity Index](/worldwater/img/MedWaterCardSortSimilarityMatrixFinal.png "Card Sort Similarity Index")
 
 There was some disagreement from the participants regarding the categorization of some cards. The type of sort used was an "open sort", meaning that participants were allowed to name the categories into which they placed the cards, rather than matching the card to a predetermined category. The participants came from a variety of backgrounds. Their different orientation to the activity was reflected in their varied responses. While some categories were not difficult to synthesize, others were more difficult to synthesize between responses.
 
 ## Site Map
 I designed a site map based on the results of the card sort activity. I completed an initial hand drawn sketch of the site map to begin the design process. Since my directive was to develop a minimally viable product, I knew that the prototype would not necessarily need to have each section fully developed, however a sound content strategy would include a comprehensive site map.
-![Site Map Low Fidelity](/MwSiteMapLoFiCropped.png"Site Map Low Fidelity")
+![Site Map Low Fidelity](/worldwater/img/MwSiteMapLoFiCropped.png"Site Map Low Fidelity")
 
 I moved quickly to develop a higher fidelity site map that included some early rendering of the screen flows associated with particular actions on the site. 
 
@@ -144,32 +144,32 @@ Following a LEAN methodology, I developed the content strategy based on users st
 
 ![User Flow High Fidelity](/worldwater/img/WWUserFlowsHiFi_Page_2V2.png "User flow: From landing page to donation.")
 
-<!-- ![User Flow Low Fidelity](/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity") *User flow sketch: Landing Page to Create Account* -->
+<!-- ![User Flow Low Fidelity](/worldwater/img/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity") *User flow sketch: Landing Page to Create Account* -->
 
 <!-- Based on these sketches and additional study of the research material, higher fidelity renderings of the user flows were completed. -->
 
-<!-- ![User Flow High Fidelity 1](/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1") *User flow high fidelity: Landing Page to Create Account* -->
+<!-- ![User Flow High Fidelity 1](/worldwater/img/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1") *User flow high fidelity: Landing Page to Create Account* -->
 
 
 ## Sketching
 Having conceptualized the basic architecture of the the flow. I began hand-sketching how the donation user flow would look. 
 ![Sketch: Landing Page to Donation](/worldwater/img/WWDonate01v3.png "Landing Page to Donation")
 
-<!-- ![Sketch: Landing Page to Login2](/01MWLandingPagetoLogin_Page_2.jpg "Landing Page to Login 2") *Screen design sketch: Landing Page to Create Account 2* -->
+<!-- ![Sketch: Landing Page to Login2](/worldwater/img/01MWLandingPagetoLogin_Page_2.jpg "Landing Page to Login 2") *Screen design sketch: Landing Page to Create Account 2* -->
 
 ## Wireframing
 Based on my sketches I developed a low fidelity wireframe. Here is the screen flow from the landing page to making an individual donation.
 
 
-![Wire Frame 1](/LandingPgToDonate.png "Wire Frame: Landing Page to Login 1") 
+![Wire Frame 1](/worldwater/img/LandingPgToDonate.png "Wire Frame: Landing Page to Login 1") 
 
-![Wire Frame 2](/LandingPgToDonate2.png "Wire Frame: Landing Page to Login 2") 
+![Wire Frame 2](/worldwater/img/LandingPgToDonate2.png "Wire Frame: Landing Page to Login 2") 
 
-![Wire Frame 3](/LandingPgToDonate3.png "Wire Frame: Landing Page to Login 3") 
+![Wire Frame 3](/worldwater/img/LandingPgToDonate3.png "Wire Frame: Landing Page to Login 3") 
 
-![Wire Frame 4](/LandingPgToDonate4.png "Wire Frame: Landing Page to Login 4") 
+![Wire Frame 4](/worldwater/img/LandingPgToDonate4.png "Wire Frame: Landing Page to Login 4") 
 
-![Wire Frame 5](/LandingPgToDonate5.png "Wire Frame: Landing Page to Login 5") 
+![Wire Frame 5](/worldwater/img/LandingPgToDonate5.png "Wire Frame: Landing Page to Login 5") 
 
 
 # Development: Low Fidelity Prototype
@@ -181,7 +181,7 @@ I did some quick guerilla testing of the wireframes with a couple of users to sc
 ## Usability Study
 I conducted in person usability tests using a prototype of the WorldWater site accessed by the user on their laptop or mine. Participants were asked to complete four tasks using the clickable prototype. They were instructed to work independently on the assigned tasks, moving as close to completion as possible. While completing the tasks, users were asked to think aloud, sharing their process verbally. As participants completed the process, I recorded their comments and made note of their actions. Upon completion of the tests a report was completed and given to the client.
 
-<!-- ![Usability Report Cover Page](/MWUsabilityTestReport_Page_1.png "Usability Test Report") -->
+<!-- ![Usability Report Cover Page](/worldwater/img/MWUsabilityTestReport_Page_1.png "Usability Test Report") -->
 
 ## Feedback and Recommendations
 As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
