@@ -46,28 +46,28 @@ methods: ["Sketching", "Mockups", "Guerilla Testing"]
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
 # Place your custom svgs into /static/svg
 button_links:
-    - link: "https://marvelapp.com/g4b64e/screen/14364499"
+    - link: "https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D"
       img: "eyeball.svg"
-      text: "View Prototype"
-    - link: "http://copenow.co/"
-      img: "eyeball.svg"
-      text: "View Landing Page"
-    - link: "cope.pdf"
-      img: "download.svg"
-      text: "Download Feature Sets"
+      text: "View Lo Fi Prototype"
+    # - link: "http://copenow.co/"
+    #   img: "eyeball.svg"
+    #   text: "View Landing Page"
+    # - link: "cope.pdf"
+    #   img: "download.svg"
+    #   text: "Download Feature Sets"
 
 # Testimonial text
-testimonial: "Alexis designed everything for Cope from the ground up. What I really like about him is his true understanding and grasp of what makes a great UI great. He knows that the user experience needs a lot of refining from customers and he isn't shy to take feedback even if it's critical. Alexis is one of those rare people who just gets it."
+testimonial: "David has helped us to realize our vision for this site. His work has been valuable from the start."
 
 # Testimonial photo, place this at /post_title_here/img
 # e.g. /mypost/img
-testimonial_photo: "john.jpg"
+# testimonial_photo: "john.jpg"
 
 # Author of testimonial
-testimonial_author: "John Robert Palomo"
+testimonial_author: "Darrell Adams"
 
 # Testimonial subtitle, usually position of the testimonial author
-testimonial_subtitle: "Co-founder, Cope"
+testimonial_subtitle: "Co-founder, WorldWater"
 
 date: 2019-07-18T17:48:35-04:00
 draft: false
