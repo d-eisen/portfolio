@@ -203,9 +203,9 @@ In preparation for a higher fidelity prototype a style was developed. Font pairs
 
 # Next Steps
 
-The next steps are to build a high fidelity prototype in InViston to simulate the micro interactions. An additional round of user testing and rapid iteration will follow and the protoype will be ready for developer handoff. The site's blog content will be added as well as help section with faqs. 
+The next steps are to build a high fidelity prototype in InVision to simulate the micro interactions. An additional round of user testing and rapid iteration will follow and the prototype will be ready for developer handoff. The site's blog content will be added as well as help section with faqs. 
 
-The most significant challenge so far has been the challenge integration with social. As Venmo had limited access to it's API, another challenge is found in selcting the right front end and back end framework for development.
+The most significant challenge so far has been the challenge integration with social. As Venmo had limited access to it's API, another challenge is found in selecting the right front end and back end framework for development.
 
-Additional areas for research and design are related to an update of the organizations blog structure and their map content with the organization's partner communities in the Amazon. basin.
+Additional areas for research and design are related to an update of the organizations blog structure and their map content with the organization's partner communities in the Amazon basin.
 
