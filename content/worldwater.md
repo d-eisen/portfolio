@@ -68,7 +68,7 @@ testimonial_author: "Darrell Adams"
 
 # Testimonial subtitle, usually position of the testimonial author
 testimonial_subtitle: "Co-founder, WorldWater"
-date: 2019-06-11T22:59:05-04:00
+date: 2019-07-15T15:59:05-04:00
 draft: true
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
@@ -78,17 +78,6 @@ A non governmental organization (NGO) named WorldWater asked me to redesign thei
 
 # The Solution
 I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
-
-<!-- It was the first project
-where I handled mobile app design, and I was very excited to learn the
-intricacies of the iOS platform. -->
-
-<!-- My clients John and Kat have done some preliminary interviews
-with psychologists and psychiatrists to get their side of the picture.
-They have established a user persona, a business model canvas, and
-several startup prep work for the product to take off. My job was to
-actually create the experience for their users and make sure they are
-represented in the design process. -->
 
 
 # Research: Survey and Interviews
