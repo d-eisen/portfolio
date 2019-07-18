@@ -40,7 +40,7 @@ team: ["David Eisenmenger"]
 roles: ["Researcher", "Information Architect", "User Interface Designer"]
 
 # Methods your team members used
-methods: ["Sketching", "Mockups", "Guerilla Testing"]
+methods: ["Surveys and Interviewing", "Sketching", "Wireframing", "Prototyping"]
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
@@ -133,7 +133,7 @@ I designed a site map based on the results of the card sort activity. I complete
 
 I moved quickly to develop a higher fidelity site map that included some early rendering of the screen flows associated with particular actions on the site. 
 
-![Site Map High Fidelity](/medwater/img/WWSiteMapFINAL.gif "Site Map High Fidelity")
+![Site Map High Fidelity](/worldwater/img/WWSiteMapFINAL.gif "Site Map High Fidelity")
 
 # Design: User Flows, Sketching, and Wire framing
 
@@ -142,7 +142,7 @@ Following a LEAN methodology, I developed the content strategy based on users st
 <ul>"As a user, I want to make a donation to the organization so that I can support the organization financially."</ul>
 <p>Below is an example of a user flow based on this story. This flow takes the user from the landing page to a completed donation.</p>
 
-![User Flow High Fidelity](/medwater/img/WWUserFlowsHiFi_Page_2V2.png "User flow: From landing page to donation.")
+![User Flow High Fidelity](/worldwater/img/WWUserFlowsHiFi_Page_2V2.png "User flow: From landing page to donation.")
 
 <!-- ![User Flow Low Fidelity](/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity") *User flow sketch: Landing Page to Create Account* -->
 
@@ -153,7 +153,7 @@ Following a LEAN methodology, I developed the content strategy based on users st
 
 ## Sketching
 Having conceptualized the basic architecture of the the flow. I began hand-sketching how the donation user flow would look. 
-![Sketch: Landing Page to Donation](/medwater/img/WWDonate01v3.png "Landing Page to Donation")
+![Sketch: Landing Page to Donation](/worldwater/img/WWDonate01v3.png "Landing Page to Donation")
 
 <!-- ![Sketch: Landing Page to Login2](/01MWLandingPagetoLogin_Page_2.jpg "Landing Page to Login 2") *Screen design sketch: Landing Page to Create Account 2* -->
 
@@ -175,7 +175,7 @@ Based on my sketches I developed a low fidelity wireframe. Here is the screen fl
 # Development: Low Fidelity Prototype
 I did some quick guerilla testing of the wireframes with a couple of users to screen for any major usability issues. Having received positive feedback from testers, I moved to developing a low fidelity prototype. The <a href="https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D">prototype</a> was developed in Balsamiq. It simulates the login process and various flows related to making donations and engaging the site's challenge features. Some areas of the site outside of the MVP have a placeholder that is clearly marked within the experience. The low fidelity version does not contain the full color pallette and styling of the site in order to allow users and testers to focus on the screen layout and process flow.
 
-[![Prototype](/medwater/img/LandingPg.png)](https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D)
+[![Prototype](/worldwater/img/LandingPg.png)](https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D)
 
 # Iteration: Usability Study and Feedback
 ## Usability Study
