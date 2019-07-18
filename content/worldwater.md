@@ -91,7 +91,7 @@ Some of the key findings of the survey were that most users were involved in few
 
 One finding of the survey was potentially concerning. Survey participants reported being only 24% favorable to new involvements with organizations. This finding would be something to explore more deeply during user interviews.
 
-<!-- ![MedWater Interview Summary]("")*Users were only 50% favorable to involvement in new organizations* -->
+<!-- ![MedWater Interview Summary] *Users were only 50% favorable to involvement in new organizations* -->
 
 I conducted in person interviews with a set of users who were survey respondents. I wanted to dig more deeply on couple of important questions. What do organizations do that draw you in? What are the pain points associated with their experience of NGOS. From the survey, users said that they were reluctant to develop new involvements with organizations. This presented a potential barrier to the goals of the project. In the interviews, I asked users what motivates them to become involved with the organizations. 
 
@@ -198,8 +198,8 @@ Based on the findings of the study, the the following recommendations were made 
 
 
 # Style Guide
-In preparation for a higher fidelity prototype a [style guide](/#) was developed. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
-![Style Guide Cover Page](/# "Style Guide")  
+In preparation for a higher fidelity prototype a style was developed. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
+
 
 # Next Steps
 
