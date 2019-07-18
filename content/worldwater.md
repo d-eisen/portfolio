@@ -40,7 +40,7 @@ team: ["David Eisenmenger"]
 roles: ["Researcher", "Information Architect", "User Interface Designer"]
 
 # Methods your team members used
-methods: ["Surveys and Interviewing" "Sketching", "Wireframing", "Prototyping", "Usability Testing"]
+methods: ["Surveys and Interviewing", "Sketching", "Wireframing", "Prototyping", "Usability Testing"]
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
@@ -69,7 +69,7 @@ testimonial_author: "Darrell Adams"
 # Testimonial subtitle, usually position of the testimonial author
 testimonial_subtitle: "Co-founder, WorldWater"
 date: 2019-06-11T22:59:05-04:00
-draft: false
+draft: true
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
