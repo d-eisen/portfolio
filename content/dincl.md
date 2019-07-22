@@ -3,7 +3,7 @@
 weight: 1
 
 # This is what appears as the tab's title
-title: "Digital Inclusion | David Eisenneb"
+title: "Digital Inclusion | David Eisenmenger"
 
 # This is the description in the <head> tag
 description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
