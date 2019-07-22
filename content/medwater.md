@@ -70,7 +70,8 @@ testimonial_author: "Darrell Adams"
 testimonial_subtitle: "Co-founder, WorldWater"
 
 date: 2019-05-21T15:11:07-04:00
-draft: false
+draft: true
+
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
