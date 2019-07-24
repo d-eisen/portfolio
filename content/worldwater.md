@@ -6,7 +6,7 @@ weight: 1
 title: "WorldWater | David Eisenmenger"
 
 # This is the description in the <head> tag
-description: "I set a direction for the redesign of the product and crafted and tested a functioning prototype for development."
+description: "I set a direction for the re-design of the product and crafted and tested a functioning prototype for development."
 
 # This the heading of the navigation at the top of the case study
 nav_heading: "WorldWater Case Study"
