@@ -158,18 +158,20 @@ Having conceptualized the basic architecture of the the flow. I began hand-sketc
 <!-- ![Sketch: Landing Page to Login2](/worldwater/img/01MWLandingPagetoLogin_Page_2.jpg "Landing Page to Login 2") *Screen design sketch: Landing Page to Create Account 2* -->
 
 ## Wireframing
-Based on my sketches I developed a low fidelity wireframe. Here is the screen flow from the landing page to making an individual donation.
-
-
+Based on my sketches I developed a low fidelity wireframe. Here is the user flow from the landing page to making an individual donation.
 ![Wire Frame 1](/worldwater/img/Single1A.png "Wire Frame: Landing Page to Single Donation 1 of 3") 
 
 ![Wire Frame 2](/worldwater/img/Single1B.png  "Wire Frame: Landing Page to Single Donation 2 of 3") 
 
 ![Wire Frame 3](/worldwater/img/Single1C.png  "Wire Frame: Landing Page to Single Donation 3 of 3") 
 
-<!-- ![Wire Frame 4](/worldwater/img/LandingPgToDonate4.png "Wire Frame: Landing Page to Login 4") 
+Here is the user flow from the home menu to challenge others to give via Venmo.
 
-![Wire Frame 5](/worldwater/img/LandingPgToDonate5.png "Wire Frame: Landing Page to Login 5")  -->
+![Wire Frame 1](/worldwater/img/Venmo1A.png "Wire Frame: Home Menu to Venmo Challenge 1 of 3") 
+
+![Wire Frame 2](/worldwater/img/Venmo1B.png  "Wire Frame: Home Menu to Venmo Challenge 2 of 3") 
+
+![Wire Frame 3](/worldwater/img/Venmo1C.png  "Wire Frame: Home Menu to Venmo Challenge 3 of 3") 
 
 
 # Development: Low Fidelity Prototype
