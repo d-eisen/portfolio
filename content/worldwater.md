@@ -93,7 +93,8 @@ Some of the key findings of the survey were that most users were involved in few
 
 One finding of the survey was potentially concerning. Survey participants reported being only 24% favorable to new involvements with organizations. This finding would be something to explore more deeply during user interviews.
 
-![Types of volunteer involvement](/worldwater/img/Chart NGO InvolvementV2.png "Users were only 50% favorable to involvement in new organizations")
+![Chart NGO Involvement](/worldwater/img/ChartNGOInvolvementV2.png "Chart: NGO Involvement")
+
 
 <script async src="//jsfiddle.net/eisenda/te5wf38d/2/embed/"></script>
 
