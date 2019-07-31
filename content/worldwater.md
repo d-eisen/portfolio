@@ -93,7 +93,7 @@ Some of the key findings of the survey were that most users were involved in few
 
 One finding of the survey was potentially concerning. Survey participants reported being only 24% favorable to new involvements with organizations. This finding would be something to explore more deeply during user interviews.
 
-<!-- ![MedWater Interview Summary] *Users were only 50% favorable to involvement in new organizations* -->
+![Types of volunteer involvement](/worldwater/img/Chart NGO InvolvementV2.png "Users were only 50% favorable to involvement in new organizations")
 
 I conducted in person interviews with a set of users who were survey respondents. I wanted to dig more deeply on couple of important questions. What do organizations do that draw you in? What are the pain points associated with their experience of NGOS. From the survey, users said that they were reluctant to develop new involvements with organizations. This presented a potential barrier to the goals of the project. In the interviews, I asked users what motivates them to become involved with the organizations. 
 
