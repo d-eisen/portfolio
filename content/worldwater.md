@@ -95,6 +95,8 @@ One finding of the survey was potentially concerning. Survey participants report
 
 ![Types of volunteer involvement](/worldwater/img/Chart NGO InvolvementV2.png "Users were only 50% favorable to involvement in new organizations")
 
+<script async src="//jsfiddle.net/eisenda/te5wf38d/2/embed/"></script>
+
 I conducted in person interviews with a set of users who were survey respondents. I wanted to dig more deeply on couple of important questions. What do organizations do that draw you in? What are the pain points associated with their experience of NGOS. From the survey, users said that they were reluctant to develop new involvements with organizations. This presented a potential barrier to the goals of the project. In the interviews, I asked users what motivates them to become involved with the organizations. 
 
 Participants responded that they became involved with organizations through recommendations from people that they know. When I asked participants what organizations did that draws them in as volunteer or donors, they emphasized that alignment of their personal values with organization's values drew them in.
