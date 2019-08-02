@@ -80,23 +80,27 @@ A non governmental organization (NGO) named WorldWater asked me to redesign thei
 # The Solution
 I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
 
-
 # Research: Survey and Interviews
+##Survey: Participant involvement in organizations had mixed results
 I began with user research. Our hypothesis was that user giving and engagement could be increased by leveraging people's connection to the organization. I performed qualitative primary research using an online survey and in person interviews. 
 
 I wanted to interview people who were currently involved with NGOs. A survey was completed by 16 participants who reported being involved with at least one nonprofit organization as a supporter or volunteer at some time in the last twelve months.
 
 In the survey I asked people to indicate the ways that they have been involved with organizations over the last three to six months. Those survey reported that the top activities that they perform with an organization are to give financially, volunteer their time, share on social media, and to promote a campaign.
+
 ![Chart NGO Involvement Vector](/worldwater/img/ChartNGOInvolvementV5.svg "Chart: NGO Involvement")
+
 From these findings we were encouraged that included in the top three ways that people reported being involved with an organization were related to giving financially and sharing about the organization on social media.
 
 Based on these findings, the idea of attempting to grow giving by leveraging social media was one direction the research may be pointing.
 
 One finding of the survey that was potentially concerning was related to participants interest in developing new involvements with organizations. 
+
 ![Chart Likelihood](/worldwater/img/LikelihoodV3.svg "Chart: Likelihood")
 
 When asked the question, "In the next six months how likely are you to be involved in another organization?"  only 26% of survey participants gave a response that would be categorized as a favorable response of "Extremely Likely" or "Very Likely". This finding would be something to explore more deeply during user interviews. 
 
+##Interviews: Personal connection important to drawing new users
 I conducted in person interviews with a set of users who were survey respondents. I wanted to dig more deeply on couple of important questions. What do organizations do that draw you in? What are the pain points associated with their experience of NGOS. From the survey, users said that they were reluctant to develop new involvements with organizations. This presented a potential barrier to the goals of the project. In the interviews, I asked users what motivates them to become involved with the organizations. 
 
 Participants responded that they became involved with organizations through recommendations from people that they know. When I asked participants what organizations did that draws them in as volunteer or donors, they emphasized that alignment of their personal values with organization's values drew them in.
