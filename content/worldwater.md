@@ -31,7 +31,7 @@ case_description: "WorldWater.com is an informational website for a non governme
 case_feature_img: "WWLandingPgV3LG.png"
 
 # This is the case summary in the case itself
-case_summary: "WorldWater.com is the home site for the WorldWater organization. WorldWater is a nongovernmental organization (NGO) that is focused on empowering communities to manage their public health infrastructure. Their primary operations are in the the Amazon Basin as well as in the United States. The site is focused on supporting its social media channels with information about the organization and features allowing users to donate as well as raise funds by challenging others using social media. The assets represented here have had the original company name replaced with a placeholder, WorldWater."
+case_summary: "WorldWater.com is the home site for the WorldWater organization. WorldWater is a nongovernmental organization (NGO) that is focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and the United States. The site is focused on supporting its social media channels as a landing page for the organization. The resdign of the site's allow users to donate the organization in as steamlined process while adding funcationality to allow users to also raise funds for the organization by challenging other people using social media. The original name of of the organization has been replaced with a placeholder name: WorldWater"
 
 # Your team members
 team: ["David Eisenmenger"]
@@ -84,10 +84,10 @@ I designed a minimal viable product utilizing mobile first design that streamlin
 # Research: Survey and Interviews
 I began with user research. I performed primary research using an online survey and in person interviews. I wanted to speak with people who had already demonstrated interest in being involved with NGOs. A survey of was completed by 16 participants who reported being involved with an NGO’s as a supporter or volunteer in the last twelve months.
 
-Some of the key findings of the survey were that most users were involved in few organizations (less than five),however their primary activities with NGOs were well aligned with the goals of the site.  The participants key activities were reported as follows:
+Some of the key findings of the survey were that most users were involved in few organizations (less than five), however their primary activities with NGOs were well aligned with the goals of the site.  The participants key activities were reported as follows:
 ![Chart NGO Involvement Vector](/worldwater/img/ChartNGOInvolvementV5.svg "Chart: NGO Involvement")
 
-One finding of the survey was potentially concerning. Survey participants reported being only 24% favorable to new involvements with organizations. This finding would be something to explore more deeply during user interviews. 
+One finding of the survey was potentially concerning. Survey participants reported being only 26% of resonses being favorable to new involvements with organizations. This finding would be something to explore more deeply during user interviews. 
 ![Chart Likelihood](/worldwater/img/LikelihoodV3.svg "Chart: Likelihood")
 
 I conducted in person interviews with a set of users who were survey respondents. I wanted to dig more deeply on couple of important questions. What do organizations do that draw you in? What are the pain points associated with their experience of NGOS. From the survey, users said that they were reluctant to develop new involvements with organizations. This presented a potential barrier to the goals of the project. In the interviews, I asked users what motivates them to become involved with the organizations. 
