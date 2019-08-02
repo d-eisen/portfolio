@@ -101,7 +101,7 @@ One finding of the survey that was potentially concerning was related to partici
 When asked the question, "In the next six months how likely are you to be involved in another organization?"  only 26% of survey participants gave a response that would be categorized as a favorable response of "Extremely Likely" or "Very Likely". This finding would be something to explore more deeply during user interviews. 
 
 ## Interviews: Personal connection important to drawing new users
-I conducted in person interviews with a group of people who were also survey respondents. I wanted to dig more deeply on couple of important questions:
+I conducted in person interviews with a group of people who were also survey respondents. I wanted to dig more deeply on couple of important questions:<br>
 * What do organizations do that draw you in? 
 * What are the pain points associated with their experience of NGOS? 
 From the survey, users said that they were reluctant to develop new involvements with organizations. This presented a potential barrier to the goals of the project. In the interviews, I asked users what motivates them to become involved with the organizations. 
@@ -112,7 +112,7 @@ I also asked participants what are their pain points associated with being invol
 
 I performed some market research reviewing the website of some organization with a similar mission WorldWater. My review of competing sites showed that similar organizations placed call to actions for giving very prominently on their sites.
 # Discovery: Insights, Personas, Empathy Maps
-A key insight from the research was is that users would most likely afford involvement with a new organization if they were:
+A key insight from the research was is that users would most likely afford involvement with a new organization if they were:<br>
 1. referred by a **personal connection**  
 2. their experience with the organization's site would be as convenient and efficient in helping them meet their goals of supporting the organization.
 Based on these insights, the requirements for the design would be likely to include seamless user flows related to giving to the organization that integrated with social media platforms to allow users to challenge others to involvement.
