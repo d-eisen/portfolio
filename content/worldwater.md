@@ -24,14 +24,14 @@ case_title: "WorldWater Mobile Site"
 case_subtitle: "Mobile App Design"
 
 # This is the case description in the case studies section
-case_description: "WorldWater.com is the home site for a humanitarian organization focused on water, sanitation, and hygiene for communities in the Amazon Basin."
+case_description: "WorldWater.org is the home site for a humanitarian organization focused on water, sanitation, and hygiene for communities in the Amazon Basin."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
 case_feature_img: "WWLandingPgV3LG.png"
 
 # This is the case summary in the case itself
-case_summary: "WorldWater.com is the home site for the WorldWater organization. WorldWater is a humanitarian nongovernmental organization (NGO focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and the United States. The site is focused on supporting its social media channels as a landing page for the organization. The redesign of the site's allow users to donate the organization in a streamlined process while also adding functionality allowing users to raise funds for the organization by challenging other people using social media. The original name of of the organization has been replaced with a placeholder name: WorldWater"
+case_summary: "WorldWater.org is the home site for the WorldWater organization. WorldWater is a humanitarian nongovernmental organization (NGO focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and the United States. The site is focused on supporting the organization's social media channels as a landing page for the organization. The redesign of the site allows users to donate to the organization in a streamlined process while adding functionality allowing users to raise funds for the organization by challenging other people using social media. The organization's name has been replaced with a placeholder name: WorldWater"
 
 # Your team members
 team: ["David Eisenmenger"]
@@ -82,13 +82,20 @@ I designed a minimal viable product utilizing mobile first design that streamlin
 
 
 # Research: Survey and Interviews
-I began with user research. I performed primary research using an online survey and in person interviews. I wanted to speak with people who had already demonstrated interest in being involved with NGOs. A survey of was completed by 16 participants who reported being involved with an NGO’s as a supporter or volunteer in the last twelve months.
+I began with user research. Our hypothesis was that user giving and engagement could be increased by leveraging people's connection to the organization. I performed qualitative primary research using an online survey and in person interviews. 
 
-Some of the key findings of the survey were that most users were involved in few organizations (less than five), however their primary activities with NGOs were well aligned with the goals of the site.  The participants key activities were reported as follows:
+I wanted to interview people who were currently involved with NGOs. A survey was completed by 16 participants who reported being involved with at least one nonprofit organization as a supporter or volunteer at some time in the last twelve months.
+
+In the survey I asked people to indicate the ways that they have been involved with organizations over the last three to six months. Those survey reported that the top activities that they perform with an organization are to give financially, volunteer their time, share on social media, and to promote a campaign.
 ![Chart NGO Involvement Vector](/worldwater/img/ChartNGOInvolvementV5.svg "Chart: NGO Involvement")
+From these findings we were encouraged that included in the top three ways that people reported being involved with an organization were related to giving financially and sharing about the organization on social media.
 
-One finding of the survey was potentially concerning. Survey participants reported being only 26% of resonses being favorable to new involvements with organizations. This finding would be something to explore more deeply during user interviews. 
+Based on these findings, the idea of attempting to grow giving by leveraging social media was one direction the research may be pointing.
+
+One finding of the survey that was potentially concerning was related to participants interest in developing new involvements with organizations. 
 ![Chart Likelihood](/worldwater/img/LikelihoodV3.svg "Chart: Likelihood")
+
+When asked the question, "In the next six months how likely are you to be involved in another organization?"  only 26% of survey participants gave a response that would be categorized as a favorable response of "Extremely Likely" or "Very Likely". This finding would be something to explore more deeply during user interviews. 
 
 I conducted in person interviews with a set of users who were survey respondents. I wanted to dig more deeply on couple of important questions. What do organizations do that draw you in? What are the pain points associated with their experience of NGOS. From the survey, users said that they were reluctant to develop new involvements with organizations. This presented a potential barrier to the goals of the project. In the interviews, I asked users what motivates them to become involved with the organizations. 
 
