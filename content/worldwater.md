@@ -31,7 +31,7 @@ case_description: "WorldWater.com is the home site for a humanitarian organizati
 case_feature_img: "WWLandingPgV3LG.png"
 
 # This is the case summary in the case itself
-case_summary: "WorldWater.com is the home site for the WorldWater organization. WorldWater is a nongovernmental organization (NGO) that is focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and the United States. The site is focused on supporting its social media channels as a landing page for the organization. The redesign of the site's allow users to donate the organization in as streamlined process while adding functionality to allow users to also raise funds for the organization by challenging other people using social media. The original name of of the organization has been replaced with a placeholder name: WorldWater"
+case_summary: "WorldWater.com is the home site for the WorldWater organization. WorldWater is a humanitarian nongovernmental organization (NGO focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and the United States. The site is focused on supporting its social media channels as a landing page for the organization. The redesign of the site's allow users to donate the organization in a streamlined process while also adding functionality allowing users to raise funds for the organization by challenging other people using social media. The original name of of the organization has been replaced with a placeholder name: WorldWater"
 
 # Your team members
 team: ["David Eisenmenger"]
