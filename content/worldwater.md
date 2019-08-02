@@ -102,8 +102,8 @@ When asked the question, "In the next six months how likely are you to be involv
 
 ## Interviews: Personal connection important to drawing new users
 I conducted in person interviews with a group of people who were also survey respondents. I wanted to dig more deeply on couple of important questions:<br>
-* What do organizations do that draw you in? 
-* What are the pain points associated with their experience of NGOS? 
++ What do organizations do that draw you in? 
++ What are the pain points associated with their experience of NGOS? 
 From the survey, users said that they were reluctant to develop new involvements with organizations. This presented a potential barrier to the goals of the project. In the interviews, I asked users what motivates them to become involved with the organizations. 
 
 Participants responded that they became involved with organizations through recommendations from people that they know. When I asked participants what organizations did that draws them in as volunteer or donors, they emphasized that alignment of their personal values with organization's values drew them in.
