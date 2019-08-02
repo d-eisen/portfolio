@@ -83,17 +83,13 @@ I designed a minimal viable product utilizing mobile first design that streamlin
 
 # Research: Survey and Interviews
 I began with user research. I performed primary research using an online survey and in person interviews. I wanted to speak with people who had already demonstrated interest in being involved with NGOs. A survey of was completed by 16 participants who reported being involved with an NGO’s as a supporter or volunteer in the last twelve months. 
-
 I performed some market research reviewing the website of some organization with a similar mission WorldWater. My review of competing sites showed that similar organizations placed call to actions for giving very prominently on their sites.
-
-Some of the key findings of the survey were that most users were involved in few organizations (less than five), however their primary activities with NGOs were well aligned with the goals of the site.  The participants key activities were reported as follows
-
-One finding of the survey was potentially concerning. Survey participants reported being only 24% favorable to new involvements with organizations. This finding would be something to explore more deeply during user interviews.
+Some of the key findings of the survey were that most users were involved in few organizations (less than five),however their primary activities with NGOs were well aligned with the goals of the site.  The participants key activities were reported as follows
+One finding of the survey was potentially concerning. Survey participants reported being only 24% favorable to new involvements with organizations. This finding would be something to explore more deeply during user interviews. 
 ![Chart NGO Involvement PNG](/worldwater/img/ChartNGOInvolvementV2.png "Chart: NGO Involvement")
 ![Chart NGO Involvement Vector](/worldwater/img/ChartNGOInvolvementV5.svg "Chart: NGO Involvement")
 ![Chart NGO Invovlement Vector2](/worldwater/img/NonprofitInvolvmentV7.svg "Chart: NGO Involvement")
 ![Chart Likelihood](/worldwater/img/LikelihoodV2.svg "Chart: Likelihood")
-
 I conducted in person interviews with a set of users who were survey respondents. I wanted to dig more deeply on couple of important questions. What do organizations do that draw you in? What are the pain points associated with their experience of NGOS. From the survey, users said that they were reluctant to develop new involvements with organizations. This presented a potential barrier to the goals of the project. In the interviews, I asked users what motivates them to become involved with the organizations. 
 
 Participants responded that they became involved with organizations through recommendations from people that they know. When I asked participants what organizations did that draws them in as volunteer or donors, they emphasized that alignment of their personal values with organization's values drew them in.
