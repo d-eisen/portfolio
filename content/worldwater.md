@@ -6,7 +6,7 @@ weight: 1
 title: "WorldWater | David Eisenmenger"
 
 # This is the description in the <head> tag
-description: "I set a direction for the re-design of the product and crafted and tested a functioning prototype for development."
+description: "I set a direction for the re-design of the product, crafted, and tested a functioning prototype for development."
 
 # This the heading of the navigation at the top of the case study
 nav_heading: "WorldWater Case Study"
@@ -24,14 +24,14 @@ case_title: "WorldWater Mobile Site"
 case_subtitle: "Mobile App Design"
 
 # This is the case description in the case studies section
-case_description: "WorldWater.com is an informational website for a non governmental organization focused on water, sanitation, and hygiene for communities in Ecuador."
+case_description: "WorldWater.com is the home site for a humanitarian organization focused on water, sanitation, and hygiene for communities in the Amazon Basin."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
 case_feature_img: "WWLandingPgV3LG.png"
 
 # This is the case summary in the case itself
-case_summary: "WorldWater.com is the home site for the WorldWater organization. WorldWater is a nongovernmental organization (NGO) that is focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and the United States. The site is focused on supporting its social media channels as a landing page for the organization. The resdign of the site's allow users to donate the organization in as steamlined process while adding funcationality to allow users to also raise funds for the organization by challenging other people using social media. The original name of of the organization has been replaced with a placeholder name: WorldWater"
+case_summary: "WorldWater.com is the home site for the WorldWater organization. WorldWater is a nongovernmental organization (NGO) that is focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and the United States. The site is focused on supporting its social media channels as a landing page for the organization. The redesign of the site's allow users to donate the organization in as streamlined process while adding functionality to allow users to also raise funds for the organization by challenging other people using social media. The original name of of the organization has been replaced with a placeholder name: WorldWater"
 
 # Your team members
 team: ["David Eisenmenger"]
