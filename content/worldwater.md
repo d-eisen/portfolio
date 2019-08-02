@@ -102,8 +102,8 @@ When asked the question, "In the next six months how likely are you to be involv
 
 ## Interviews: Personal connection important to drawing new users
 I conducted in person interviews with a group of people who were also survey respondents. I wanted to dig more deeply on couple of important questions:
-    * What do organizations do that draw you in? 
-    * What are the pain points associated with their experience of NGOS? 
+  * What do organizations do that draw you in? 
+  * What are the pain points associated with their experience of NGOS? 
 From the survey, users said that they were reluctant to develop new involvements with organizations. This presented a potential barrier to the goals of the project. In the interviews, I asked users what motivates them to become involved with the organizations. 
 
 Participants responded that they became involved with organizations through recommendations from people that they know. When I asked participants what organizations did that draws them in as volunteer or donors, they emphasized that alignment of their personal values with organization's values drew them in.
@@ -112,7 +112,10 @@ I also asked participants what are their pain points associated with being invol
 
 I performed some market research reviewing the website of some organization with a similar mission WorldWater. My review of competing sites showed that similar organizations placed call to actions for giving very prominently on their sites.
 # Discovery: Insights, Personas, Empathy Maps
-A key insight from the research was is that users would most likely afford involvement with a new organization if they were 1.) referred by a personal connection and 2.) their experience with the organization's site would be as convenient and efficient in helping them meet their goals of supporting the organization. Based on these insignts, the requirements for the design would be likely to include seamless user flows related to giving to the organization that integrated with social media platforms to allow users to challenge others to involvement.
+A key insight from the research was is that users would most likely afford involvement with a new organization if they were:
+  1. referred by a **personal connection**  
+  2. their experience with the organization's site would be as convenient and efficient in helping them meet their goals of supporting the organization.
+Based on these insignts, the requirements for the design would be likely to include seamless user flows related to giving to the organization that integrated with social media platforms to allow users to challenge others to involvement.
 
 ## Persona
 I wanted to further synthesize the research that had been done and begin to develop a profile of the kind of person for who I was designing. Two lean personas were developed based on the surveys and interviews. The first persona, Linda, valued personal connection as a factor related to her involvement with organizations. Linda was generous with her time and was not a frequent user of mobile technology.
