@@ -132,7 +132,7 @@ The second persona, Shawn, valued personal connection as well. Shawn had less ti
 ![Persona Shawn](/worldwater/img/PersonaShawn.jpg "Lean Persona Shawn")
 
 ## Empathy Maps
-I also wanted to begin to predict how users might behave when using the site. To extend the reach of the personas, I developed Empathy maps were to project a more detailed view of each persona's behaviors and motivations.
+I also wanted to begin to predict how users might behave when using the site. To extend the reach of the personas, I developed empathy maps to project a more detailed view of each persona's behaviors and motivations.
 
 ![Empathy Map Linda](/worldwater/img/EmpathyMaps_Page_1.jpg "Empathy Map Linda")
 
@@ -140,7 +140,7 @@ I also wanted to begin to predict how users might behave when using the site. To
 
 # Information Architecture: Card Sort and Site Map
 ## Card Sort
-Based upon insight from research, the personas, and the empathy maps, I wanted to learn what would be the most intuitive way to organize the site from the user's perspective. I engaged a card sort activity to help answer this question. An open card sort evaluates a website’s content strategy by asking participants in study to sort cards with tasks associated with the website into categories that make sense to the user. The results of the study including the categories, cards, and participant comments were analyzed and evaluated. 
+Based upon insight from research, the personas, and the empathy maps, I wanted to learn what would be the most intuitive way to organize the site from the user's perspective. I engaged a card sort activity to help answer this question. An open card sort evaluates a website’s **content strategy** by asking participants in study to sort cards with tasks associated with the website into categories that make sense to the user. The results of the study including the categories, cards, and participant comments were analyzed and evaluated. 
 <!-- ![Card Sort Report Cover](/worldwater/img/MedWaterCardSortReportV1_Page_1.jpg "Card Sort Report Cover") -->
 
 The following similarity matrix (representing the combined participants) compares two cards and scores them based on how many participants agreed with the pair. Darker/higher numbers signify a stronger relationship between the card above the number and the card to the right of the number.  
@@ -159,7 +159,7 @@ I moved quickly to develop a higher fidelity site map that included some early r
 # Design: User Flows, Sketching, and Wire framing
 
 ## User Stories and Flows
-Following a LEAN methodology, I developed the content strategy based on users stories. The primary user stories that the research and the initial design problems were related to making a gift to the organization and connecting with others on social media related to their activity on the site. Based on these user stories I developed a simple user flows to reflect these processes. For example, a key user story was:
+Following a Lean methodology, I developed the content strategy based on users stories. The primary user stories that the research and the initial design problems were related to making a gift to the organization and connecting with others on social media related to their activity on the site. Based on these user stories I developed a simple user flows to reflect these processes. For example, a key user story was:
 <ul>"As a user, I want to make a donation to the organization so that I can support the organization financially."</ul>
 <p>Below is an example of a user flow based on this story. This flow takes the user from the landing page to a completed donation.</p>
 
