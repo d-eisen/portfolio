@@ -76,12 +76,10 @@ draft: false
 ---
 # The Problem
 A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization's goal was to increase giving and engagement through their site and attract new users.  
-
 # The Solution
 I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
 # Research: Survey and Interviews
 ## Survey: Participant involvement in organizations had mixed results
-
 I began with user research. Our hypothesis was that user giving and engagement could be increased by leveraging people's connection to the organization. I performed qualitative primary research using an online survey and in person interviews. 
 
 I wanted to interview people who were currently involved with NGOs. A survey was completed by 16 participants who reported being involved with at least one nonprofit organization as a supporter or volunteer at some time in the last twelve months.
@@ -114,7 +112,6 @@ I also asked participants what were their pain points associated with being invo
 
 ## Competitive Analysis
 I performed some brief competitive analysis reviewing the websites of some organizations with a similar mission to WorldWater. Keeping in mind the findings that users frequently *gave financially to organizations*, and that one of users paint points related to *use of time*, I observed how competing sites responded to these needs. For example, competitors often place a call to action to donate in accessible location on that was persistent across pages. This feature met the users need to donate and offered that opportunity with minimum cognitive load to find the feature.
-
 # Discovery: Insights, Personas, Empathy Maps
 As I reviewed the findings from the research as a whole, one of the key insights was that users may be likely to afford new involvement with a organization if: <br>
 1. they were referred by a **personal connection**  
@@ -144,10 +141,10 @@ Based upon insight from research, the personas, and the empathy maps, I wanted t
 The following similarity matrix (representing the combined participants) compares two cards and scores them based on how many participants agreed with the pair. Darker/higher numbers signify a stronger relationship between the card above the number and the card to the right of the number.  
 ![Card Sort Similarity Index](/worldwater/img/MedWaterCardSortSimilarityMatrixFinal.png "Card Sort Similarity Index")
 
-There was some disagreement from the participants regarding the categorization of some cards. The type of sort used was an "open sort", meaning that participants were allowed to name the categories into which they placed the cards, rather than matching the card to a predetermined category. The participants came from a variety of backgrounds. Their different orientation to the activity was reflected in their varied responses. While some categories were not difficult to synthesize, others were more difficult to synthesize between responses.
+There was some disagreement from the participants regarding the categorization of some cards. The type of sort activity used was called an "open sort", meaning that participants were allowed to name the categories into which they placed the cards, rather than matching the card to a predetermined category. The participants came from a variety of backgrounds. Their different orientation to the activity was reflected in their varied responses. While some categories were not difficult to synthesize, others were more difficult to synthesize between responses.
 
 ## Site Map
-I designed a site map based on the results of the card sort activity. I completed an initial hand drawn sketch of the site map to begin the design process. Since my directive was to develop a minimally viable product, I knew that the prototype would not necessarily need to have each section fully developed, however a sound content strategy would include a comprehensive site map.
+I designed a site map based on the results of the card sort activity. I completed an initial hand drawn sketch of the site map to begin the design process. Since my directive was to develop a minimally viable product, I knew that the prototype would not necessarily need to have each section of the site fully developed, however a sound content strategy would include a comprehensive site map.
 ![Site Map Low Fidelity](/worldwater/img/MwSiteMapLoFiCropped.png"Site Map Low Fidelity")
 
 I moved quickly to develop a higher fidelity site map that included some early rendering of the screen flows associated with particular actions on the site. 
