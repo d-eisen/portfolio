@@ -102,8 +102,8 @@ When asked the question, "In the next six months how likely are you to be involv
 
 ## Interviews: Personal Connections are Important to Users
 I conducted in person interviews with a group of people who were also survey respondents. I wanted to dig more deeply on couple of important questions:<br>
-+ What do organizations do that draw you in? 
-+ What are the pain points associated with their experience of NGOS? 
+1. What do organizations do that draw you in? 
+2. What are the pain points associated with their experience of NGOS? 
 From the survey, it was inferred that users may be reluctant to develop new involvements with organizations. In the interviews, I asked users what **draws** users to become involved with the organizations. I also asked users what were their **pain points** of being involved with organizations.
 
 ## Draws to Involvement
@@ -112,7 +112,11 @@ Participants responded that they became drawn initially to organizations through
 ## Pain Points
 I also asked participants what were their pain points associated with being involved with organizations. The two pain points that users identified were related to time. Users reported having difficulty being involved with organizations due to **having limited time to give**, others reported feeling that in the past **organizations had made poor use of their time**.
 
-I performed some market research reviewing the website of some organization with a similar mission WorldWater. My review of competing sites showed that similar organizations placed call to actions for giving very prominently on their sites.
+## Competitive Analysis
+I performed some brief competitive analysis reviewing the websites of some organization with a similar mission to WorldWater. Keeping in mind the findings that users frequently gave financially to organizations, and that one of users paint points related to use of time,I observed how competing sites responded to these needs. For example, competitors often place a call to action to donate in accessible location on that was persistent across pages. This feature met the users need to donate and offered that opportunity with minimum cognitive load to find the feature.
+
+users pain points related to time that were revealed during user research, I observed that one way that 
+My review showed that these organizations placed call to actions for giving very prominently on their sites.
 # Discovery: Insights, Personas, Empathy Maps
 A key insight from the research was is that users would most likely afford involvement with a new organization if they were:<br>
 1. referred by a **personal connection**  
