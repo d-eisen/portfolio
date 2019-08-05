@@ -178,6 +178,12 @@ Having conceptualized the basic architecture of the the flow. I began hand-sketc
 ## Wireframing
 Based on my sketches I developed a low fidelity wireframe. Here is the screen flow from the landing page to making an individual donation.
 
+Here is the screen flow from the landing page menu to challenging others to give a total of $200 via Venmo request.
+
+Here is the screen flow from the landing page menu to challenging others to give a total of $100 via Facebook post.
+
+
+
 
 ![Wire Frame 1](/worldwater/img/LandingPgToDonate.png "Wire Frame: Landing Page to Login 1") 
 
