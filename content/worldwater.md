@@ -100,14 +100,16 @@ One finding from the survey that was potentially concerning was related to parti
 
 When asked the question, "In the next six months how likely are you to be involved in another organization?"  only 26% of survey participants gave a response that would be categorized as a favorable response of "Extremely Likely" or "Very Likely". I was concerned that this could be a **potential barrier** to attracting new users. This finding would be something I would **explore** more deeply during **user interviews**. My thought process was that If there was some resistance to new involvements on the part of users, then perhaps something in the interviews would indicate what might afford users to override this perceived resistance and engage new involvements.
 
-## Interviews: Personal connection important to drawing new users
+## Interviews: Personal Connections are Important to Users
 I conducted in person interviews with a group of people who were also survey respondents. I wanted to dig more deeply on couple of important questions:<br>
 + What do organizations do that draw you in? 
 + What are the pain points associated with their experience of NGOS? 
-From the survey, users said that they were reluctant to develop new involvements with organizations. This presented a potential barrier to the goals of the project. In the interviews, I asked users what motivates them to become involved with the organizations. 
+From the survey, it was inferred that users may be reluctant to develop new involvements with organizations. In the interviews, I asked users what **draws** users to become involved with the organizations. I also asked users what were their **pain points** of being involved with organizations.
 
-Participants responded that they became involved with organizations through recommendations from people that they know. When I asked participants what organizations did that draws them in as volunteer or donors, they emphasized that alignment of their personal values with organization's values drew them in.
+## Draws to Involvement
+Participants responded that they became drawn initially to organizations through **recommendations from people that they know**. When I asked participants what organizations did to continue to draw them in as volunteer or donors, they emphasized that **alignment of their personal values** with **organization's values** drew them in.
 
+## Pain Points
 I also asked participants what are their pain points associated with being involved with organizations. The two pain points that users have were related to scheduling: users reported having difficulty being involved with organizations due to limited time, others reported feeling that organizations made poor use of their time.
 
 I performed some market research reviewing the website of some organization with a similar mission WorldWater. My review of competing sites showed that similar organizations placed call to actions for giving very prominently on their sites.
