@@ -21,7 +21,7 @@ case_short_title: "WorldWater Mobile Site"
 case_title: "WorldWater Mobile Site"
 
 # This is the subtitle of the case study in the case studies section and the case study page
-case_subtitle: "Mobile App Design"
+case_subtitle: "Mobile Web Design"
 
 # This is the case description in the case studies section
 case_description: "WorldWater.org is the home site for a humanitarian organization focused on water, sanitation, and hygiene for communities in the Amazon Basin."
