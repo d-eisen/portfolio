@@ -156,9 +156,9 @@ I moved quickly to develop a higher fidelity site map that included some early r
 ## User Stories and Flows
 Following a Lean methodology, I developed the content strategy based on **user stories**. The primary user stories that were identified by the initial design problem and further clarified by research and insight activities were related to making a gift to the organization and connecting with others on social media. 
 <ul>"As a user, I want to make a donation to the organization so that I can support the organization financially."</ul>
-Based on this user story I developed a few simple user flows to reflect this processes.
+<p>Based on this user story I developed a few simple user flows to reflect this process.
 
-<p>Below is an example of a user flow based on this story. This flow takes the user from the landing page to a completed donation.</p>
+Below is an example of a user flow based on this story. This flow takes the user from the landing page to a completed donation.
 
 ![User Flow High Fidelity](/worldwater/img/WWUserFlowsHiFi_Page_2V2.png "User flow: From landing page to donation.")
 
