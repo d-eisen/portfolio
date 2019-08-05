@@ -118,10 +118,11 @@ I performed some brief competitive analysis reviewing the websites of some organ
 users pain points related to time that were revealed during user research, I observed that one way that 
 My review showed that these organizations placed call to actions for giving very prominently on their sites.
 # Discovery: Insights, Personas, Empathy Maps
-A key insight from the research was is that users would most likely afford involvement with a new organization if they were:<br>
-1. referred by a **personal connection**  
-2. their experience with the organization's site would be as convenient and efficient in helping them meet their goals of supporting the organization.
-Based on these insights, the requirements for the design would be likely to include seamless user flows related to giving to the organization that integrated with social media platforms to allow users to challenge others to involvement.
+As I reviewed the findings from the research as a whole, one of the key insights was that users may be likely to afford new involvement with a organization if: <br>
+1. they were referred by a **personal connection**  
+2. their experience with the organization's site would be **convenient and efficient** in helping users meet their goals.
+<br>
+Based on these insights, the requirements for the design would be likely to include efficient user flows related to giving to the organization that integrated with social media platforms to allow users to challenge others to involvement.
 
 ## Persona
 I wanted to further synthesize the research that had been done and begin to develop a profile of the kind of person for who I was designing. Two lean personas were developed based on the surveys and interviews. The first persona, Linda, valued personal connection as a factor related to her involvement with organizations. Linda was generous with her time and was not a frequent user of mobile technology.
