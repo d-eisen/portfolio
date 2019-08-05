@@ -96,9 +96,9 @@ Based on these findings, the research seemed to signal that **leveraging social 
 
 One finding from the survey that was potentially concerning was related to participants' seeming **low interest** in developing **new involvements** with organizations. 
 
-![Chart Likelihood](/worldwater/img/LikelihoodV3.svg "Chart: Likelihood")
+![Chart Likelihood](/worldwater/img/LikelihoodV7.svg "Chart: Likelihood")
 
-When asked the question, "In the next six months how likely are you to be involved in another organization?"  only 26% of survey participants gave a response that would be categorized as a favorable response of "Extremely Likely" or "Very Likely". I was concerned that this could be a **potential barrier** to attracting new users. This finding would be something I would **explore** more deeply during **user interviews**. 
+When asked the question, "In the next six months how likely are you to be involved in another organization?"  only 26% of survey participants gave a response that would be categorized as a favorable response of "Extremely Likely" or "Very Likely". I was concerned that this could be a **potential barrier** to attracting new users. This finding would be something I would **explore** more deeply during **user interviews**. My thought process was that If there was some resistance to new involvements on the part of users, then perhaps something in the interviews would indicate what might afford users to override this perceived resistance and engage new involvements.
 
 ## Interviews: Personal connection important to drawing new users
 I conducted in person interviews with a group of people who were also survey respondents. I wanted to dig more deeply on couple of important questions:<br>
