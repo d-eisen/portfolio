@@ -110,7 +110,7 @@ From the survey, it was inferred that users may be reluctant to develop new invo
 Participants responded that they became drawn initially to organizations through **recommendations from people that they know**. When I asked participants what organizations did to continue to draw them in as volunteer or donors, they emphasized that **alignment of their personal values** with **organization's values** drew them in.
 
 ## Pain Points
-I also asked participants what are their pain points associated with being involved with organizations. The two pain points that users have were related to scheduling: users reported having difficulty being involved with organizations due to limited time, others reported feeling that organizations made poor use of their time.
+I also asked participants what were their pain points associated with being involved with organizations. The two pain points that users identified were related to time. Users reported having difficulty being involved with organizations due to **having limited time to give**, others reported feeling that in the past **organizations had made poor use of their time**.
 
 I performed some market research reviewing the website of some organization with a similar mission WorldWater. My review of competing sites showed that similar organizations placed call to actions for giving very prominently on their sites.
 # Discovery: Insights, Personas, Empathy Maps
