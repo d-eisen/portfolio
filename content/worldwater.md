@@ -31,7 +31,7 @@ case_description: "WorldWater.org is the home site for a humanitarian organizati
 case_feature_img: "WWLandingPgV3LG.png"
 
 # This is the case summary in the case itself
-case_summary: "WorldWater.org is the home site for the WorldWater organization. WorldWater is a humanitarian nongovernmental organization (NGO focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and the United States. The site is focused on supporting the organization's social media channels as a landing page for the organization. The redesign of the site allows users to donate to the organization in a streamlined process while adding functionality allowing users to raise funds for the organization by challenging other people using social media. The organization's name has been replaced with a placeholder name: WorldWater"
+case_summary: "WorldWater.org is the home site for the WorldWater organization. WorldWater is a humanitarian nongovernmental organization (NGO) focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and the United States. The site is focused on supporting the organization's social media channels as a landing page for the organization. The redesign of the site allows users to donate to the organization in a streamlined process while adding functionality allowing users to raise funds for the organization by challenging other people using social media. The organization's name has been replaced with a placeholder name: WorldWater"
 
 # Your team members
 team: ["David Eisenmenger"]
@@ -86,7 +86,7 @@ I began with user research. Our hypothesis was that user giving and engagement c
 
 I wanted to interview people who were currently involved with NGOs. A survey was completed by 16 participants who reported being involved with at least one nonprofit organization as a supporter or volunteer at some time in the last twelve months.
 
-In the survey I asked people to indicate the ways that they have been involved with organizations over the last three to six months. Those survey reported that the top activities that they perform with an organization are to give financially, volunteer their time, share on social media, and to promote a campaign.
+In the survey I asked people to indicate the particular ways that they have been involved with organizations over the last three to six months. Those survey reported that the top activities that they perform with an organization are: to **give financially**, **volunteer their time**, **share on social media**, and to **promote a campaign**.
 
 ![Chart NGO Involvement Vector](/worldwater/img/ChartNGOInvolvementV5.svg "Chart: NGO Involvement")
 
