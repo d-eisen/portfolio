@@ -197,7 +197,7 @@ Here is the screen flow from the landing page menu to challenging others to give
 
 
 # Development: Low Fidelity Prototype
-I did some quick guerilla testing of the wireframes with a couple of users to screen for any major usability issues. Having received positive feedback from testers, I moved to developing a low fidelity prototype. The <a href="https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D">prototype</a> was developed in Balsamiq. It simulates the login process and various flows related to making donations and engaging the site's challenge features. Some areas of the site outside of the MVP have a placeholder that is clearly marked within the experience. The low fidelity version does not contain the full color pallette and styling of the site in order to allow users and testers to focus on the screen layout and process flow.
+I did some quick guerilla testing of the wireframes with a couple of users to screen for any major usability issues. Having received positive feedback from testers, I moved to developing a low fidelity prototype. The <a href="https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D">prototype</a> was developed in Balsamiq and Sketch. It simulates the login process and various flows related to making donations and engaging the site's challenge features. Some areas of the site outside of the MVP have a placeholder that is clearly marked within the experience. The low fidelity version does not contain the full color pallette and styling of the site in order to allow users and testers to focus on the screen layout and process flow. 
 
 [![Prototype](/worldwater/img/LandingPg.png)](https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D)
 
@@ -212,9 +212,9 @@ As I evaluated the results of the usability tests some the following issues emer
 <ul>
 <li>Some users found the prototype’s Facebook login sequence to have too many steps.</li>
 <li>While making donations, some users missed the flow guidance that was offered by the alert window on the form.</li>
-<li>Some users wanted to receive updates from the organization without creating a full account.</li>
+<li>Some users wanted to receive updates from the organization without having to create a full account.</li>
 </ul>
-Based on the findings of the study, the the following recommendations were made regarding the above issues.
+Based on the findings of the study, the following recommendations were made regarding the above issues.
 <ol>
 <li>Streamline the Facebook login process as part of fundraising challenges</li>
 <li>Improve the user guidance within the donation form using typography and color</li>
@@ -223,13 +223,12 @@ Based on the findings of the study, the the following recommendations were made 
 
 
 # Style Guide
-In preparation for a higher fidelity prototype a style was developed. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
+In preparation for a higher fidelity prototype a style guide was developed. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon Basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
 
 
 # Next Steps
 
-The next steps are to build a high fidelity prototype in InVision to simulate the micro interactions. An additional round of user testing and rapid iteration will follow and the prototype will be ready for developer handoff. The site's blog content will be added as well as help section with faqs. 
+The next steps are to build a high fidelity prototype in InVision to simulate the micro interactions. An additional round of user testing and rapid iteration will follow and the prototype will be ready for developer handoff. The site's blog content will be added as well as a help section with frequently asked questions. 
 
-The most significant challenge so far has been the challenge integration with social. As Venmo had limited access to it's API, another challenge is found in selecting the right front end and back end framework for development.
-
-Additional areas for research and design are related to an update of the organizations blog structure and their map content with the organization's partner communities in the Amazon basin.
+The most significant challenge so far has been the integration with social media. Venmo currenlty provides limited access to its API, therefore seamless integration with the platform may be a challenge for development. 
+An additonal area for research and design would be focused on an update of the organization's blog structure as well as their map content with the organization's partner communities in the Amazon Basin. This content expresses the core of the organization's work. With the donation process streamlined, a next most significant area would be the blog content.
