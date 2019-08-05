@@ -88,7 +88,7 @@ I wanted to interview people who were currently involved with NGOs. A survey was
 
 In the survey I asked people to indicate the particular ways that they have been involved with organizations over the last three to six months. Those survey reported that the top activities that they perform with an organization are: **give financially**, **volunteer their time**, **share on social media**, and **promote a campaign**.
 
-![Chart NGO Involvement Vector](/worldwater/img/ChartNGOInvolvementV8.svg "Chart: NGO Involvement")
+![Chart NGO Involvement Vector](/worldwater/img/NonprofitInvolvmentV8.svg "Chart: NGO Involvement")
 
 From these findings we were observed that the results showed that among the top three ways that people reported being involved with an organization, were related to giving financially and sharing about the organization on social media.
 
