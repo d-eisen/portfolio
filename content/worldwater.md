@@ -177,24 +177,26 @@ Having conceptualized the basic architecture of the the flow. I began hand-sketc
 
 ## Wireframing
 Based on my sketches I developed a low fidelity wireframe. Here is the screen flow from the landing page to making an individual donation.
+![Wire Frame 1](/worldwater/img/Single1A.png "Wire Frame: Landing Page to Single Donation 1 of 3") 
+
+![Wire Frame 2](/worldwater/img/Single1B.png  "Wire Frame: Landing Page to Single Donation 2 of 3") 
+
+![Wire Frame 3](/worldwater/img/Single1C.png  "Wire Frame: Landing Page to Single Donation 3 of 3") 
 
 Here is the screen flow from the landing page menu to challenging others to give a total of $200 via Venmo request.
+![Wire Frame 1](/worldwater/img/Venmo1A.png "Wire Frame: Home Menu to Venmo Challenge 1 of 3") 
+
+![Wire Frame 2](/worldwater/img/Venmo1B.png  "Wire Frame: Home Menu to Venmo Challenge 2 of 3") 
+
+![Wire Frame 3](/worldwater/img/Venmo1C.png  "Wire Frame: Home Menu to Venmo Challenge 3 of 3") 
+
 
 Here is the screen flow from the landing page menu to challenging others to give a total of $100 via Facebook post.
+![Wire Frame 1](/worldwater/img/FB1A.png "Wire Frame: Home Menu to Facebook Challenge 1 of 3") 
 
+![Wire Frame 2](/worldwater/img/FB1B.png  "Wire Frame: Home Menu to Facebook Challenge 2 of 3") 
 
-
-
-![Wire Frame 1](/worldwater/img/LandingPgToDonate.png "Wire Frame: Landing Page to Login 1") 
-
-![Wire Frame 2](/worldwater/img/LandingPgToDonate2.png "Wire Frame: Landing Page to Login 2") 
-
-![Wire Frame 3](/worldwater/img/LandingPgToDonate3.png "Wire Frame: Landing Page to Login 3") 
-
-![Wire Frame 4](/worldwater/img/LandingPgToDonate4.png "Wire Frame: Landing Page to Login 4") 
-
-![Wire Frame 5](/worldwater/img/LandingPgToDonate5.png "Wire Frame: Landing Page to Login 5") 
-
+![Wire Frame 3](/worldwater/img/FB1C.png  "Wire Frame: Home Menu to Facebook Challenge 3 of 3") 
 
 # Development: Low Fidelity Prototype
 I did some quick guerilla testing of the wireframes with a couple of users to screen for any major usability issues. Having received positive feedback from testers, I moved to developing a low fidelity prototype. The <a href="https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D">prototype</a> was developed in Balsamiq and Sketch. It simulates the login process and various flows related to making donations and engaging the site's challenge features. Some areas of the site outside of the MVP have a placeholder that is clearly marked within the experience. The low fidelity version does not contain the full color pallette and styling of the site in order to allow users and testers to focus on the screen layout and process flow. 
