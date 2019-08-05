@@ -113,10 +113,8 @@ Participants responded that they became drawn initially to organizations through
 I also asked participants what were their pain points associated with being involved with organizations. The two pain points that users identified were related to time. Users reported having difficulty being involved with organizations due to **having limited time to give**, others reported feeling that in the past **organizations had made poor use of their time**.
 
 ## Competitive Analysis
-I performed some brief competitive analysis reviewing the websites of some organization with a similar mission to WorldWater. Keeping in mind the findings that users frequently gave financially to organizations, and that one of users paint points related to use of time,I observed how competing sites responded to these needs. For example, competitors often place a call to action to donate in accessible location on that was persistent across pages. This feature met the users need to donate and offered that opportunity with minimum cognitive load to find the feature.
+I performed some brief competitive analysis reviewing the websites of some organizations with a similar mission to WorldWater. Keeping in mind the findings that users frequently *gave financially to organizations*, and that one of users paint points related to *use of time*, I observed how competing sites responded to these needs. For example, competitors often place a call to action to donate in accessible location on that was persistent across pages. This feature met the users need to donate and offered that opportunity with minimum cognitive load to find the feature.
 
-users pain points related to time that were revealed during user research, I observed that one way that 
-My review showed that these organizations placed call to actions for giving very prominently on their sites.
 # Discovery: Insights, Personas, Empathy Maps
 As I reviewed the findings from the research as a whole, one of the key insights was that users may be likely to afford new involvement with a organization if: <br>
 1. they were referred by a **personal connection**  
