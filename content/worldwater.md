@@ -121,10 +121,10 @@ Based on these insights, the requirements for the design would be likely to incl
 
 ## Persona
 I wanted to further synthesize the research that had been done and begin to develop a profile of the kind of person for who I was designing. Two lean personas were developed based on the surveys and interviews. The first persona, Linda, valued personal connection as a factor related to her involvement with organizations. Linda was generous with her time and was not a frequent user of mobile technology.
-![Persona Linda](/worldwater/img/PersonaLinda.jpg "Lean Persona Linda")
+![Persona Linda](/worldwater/img/PersonaLinda01.svg "Lean Persona Linda")
 
 The second persona, Shawn, valued personal connection as well. Shawn had less time to give than what he wanted. Shawn appreciated convenience as factor as it related to his interaction with an organization's website.
-![Persona Shawn](/worldwater/img/PersonaShawn.jpg "Lean Persona Shawn")
+![Persona Shawn](/worldwater/img/PersonaShawn01.svg "Lean Persona Shawn")
 
 ## Empathy Maps
 I also wanted to begin to predict how users might behave when using the site. To extend the reach of the personas, I developed empathy maps to project a more detailed view of each persona's behaviors and motivations.
