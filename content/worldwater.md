@@ -185,6 +185,7 @@ Based on my sketches I developed a low fidelity wireframe. Here is the screen fl
 ![Wire Frame 3](/worldwater/img/Single1C.png  "Wire Frame: Landing Page to Single Donation 3 of 3") 
 
 Here is the screen flow from the landing page menu to challenging others to give a total of $200 via Venmo request.
+#### Home Menu to Giving Challenge Via Venmo
 ![Wire Frame 1](/worldwater/img/Venmo1A.png "Wire Frame: Home Menu to Venmo Challenge 1 of 3") 
 
 ![Wire Frame 2](/worldwater/img/Venmo1B.png  "Wire Frame: Home Menu to Venmo Challenge 2 of 3") 
@@ -193,6 +194,7 @@ Here is the screen flow from the landing page menu to challenging others to give
 
 
 Here is the screen flow from the landing page menu to challenging others to give a total of $100 via Facebook post.
+#### Home Menu to Giving Challenge Via Facebook
 ![Wire Frame 1](/worldwater/img/FB1A.png "Wire Frame: Home Menu to Facebook Challenge 1 of 3") 
 
 ![Wire Frame 2](/worldwater/img/FB1B.png  "Wire Frame: Home Menu to Facebook Challenge 2 of 3") 
