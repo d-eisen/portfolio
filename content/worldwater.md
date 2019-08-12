@@ -227,13 +227,13 @@ Based on the findings of the study, the following recommendations were made rega
 </ol>
 
 
-# Style Guide
-In preparation for a higher fidelity prototype a style guide was developed. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon Basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
+<!-- # Style Guide
+In preparation for a higher fidelity prototype a style guide was developed. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon Basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys. -->
 
 
 # Next Steps
 
 The next steps are to build a high fidelity prototype in InVision to simulate the micro interactions. An additional round of user testing and rapid iteration will follow and the prototype will be ready for developer handoff. The site's blog content will be added as well as a help section with frequently asked questions. 
 
-The most significant challenge so far has been the integration with social media. Venmo currenlty provides limited access to its API, therefore seamless integration with the platform may be a challenge for development. 
+The most significant challenge so far has been the integration with social media. Venmo currently provides limited access to its API, therefore seamless integration with the platform may be a challenge for development. 
 An additional area for research and design would be focused on an update of the organization's blog structure as well as their map content with the organization's partner communities in the Amazon Basin. This content expresses the core of the organization's work. With the donation process streamlined, a next most significant area would be the blog content.
