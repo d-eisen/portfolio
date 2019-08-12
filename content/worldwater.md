@@ -177,6 +177,7 @@ Having conceptualized the basic architecture of the the flow. I began hand-sketc
 
 ## Wireframing
 Based on my sketches I developed a low fidelity wireframe. Here is the screen flow from the landing page to making an individual donation.
+### Landing Page to Individual Donation
 ![Wire Frame 1](/worldwater/img/Single1A.png "Wire Frame: Landing Page to Single Donation 1 of 3") 
 
 ![Wire Frame 2](/worldwater/img/Single1B.png  "Wire Frame: Landing Page to Single Donation 2 of 3") 
