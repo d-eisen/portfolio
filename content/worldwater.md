@@ -129,14 +129,14 @@ The second persona, Shawn, valued personal connection as well. Shawn had less ti
 ## Empathy Maps
 I also wanted to begin to predict how users might behave when using the site. To extend the reach of the personas, I developed empathy maps to project a more detailed view of each persona's behaviors and motivations.
 
-![Empathy Map Linda](/worldwater/img/EmpathyMaps_Page_1.jpg "Empathy Map Linda")
+![Empathy Map Linda](/worldwater/img/EmpathyMap01V5.png "Empathy Map Linda")
 
-![Empathy Map Shawn](/worldwater/img/EmpathyMaps_Page_2.jpg "Empathy Map Shawn")
+![Empathy Map Shawn](/worldwater/img/EmpathyMap02V5.png "Empathy Map Shawn")
 
 # Information Architecture: Card Sort and Site Map
 ## Card Sort
 Based upon insight from research, the personas, and the empathy maps, I wanted to learn what would be the most intuitive way to organize the site from the user's perspective. I engaged a card sort activity to help answer this question. An open card sort evaluates a website’s **content strategy** by asking participants in study to sort cards with tasks associated with the website into categories that make sense to the user. The results of the study including the categories, cards, and participant comments were analyzed and evaluated. 
-<!-- ![Card Sort Report Cover](/worldwater/img/MedWaterCardSortReportV1_Page_1.jpg "Card Sort Report Cover") -->
+
 
 The following similarity matrix (representing the combined participants) compares two cards and scores them based on how many participants agreed with the pair. Darker/higher numbers signify a stronger relationship between the card above the number and the card to the right of the number.  
 ![Card Sort Similarity Index](/worldwater/img/MedWaterCardSortSimilarityMatrixFinal.png "Card Sort Similarity Index")
