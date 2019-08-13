@@ -25,9 +25,13 @@ googleAnalytics = "UA-138889713-1"
     avatar = "HeadshotFinal.jpg"
     subtitle = "Hello! I'm David, a User Experience Designer and Researcher"
     # subtitle2 = "Empathy Specialist"
-    hero_right = ["**A user experience designer and researcher with a diverse background in product design, social work, and healthcare management. My focus is to solve problems with solutions that create a seamless user experience, make people happy, and add value to process. My approach uses human centered design in eliciting user needs and goals, working creatively and collaboratively toward solutions.",
+    hero_right = ["**A user experience designer and researcher with a diverse background in product design, social work, and healthcare management. My focus is to solve problems with solutions that create a seamless user experience, make people happy, and add value to process. My approach uses human centered design in eliciting user needs and goals, working creatively and collaboratively toward solutions.**",
     
-    "Throughout my carrer my mission has been to add value to others. Beginning as a psychotherapist working with indivudals and families I developed a deep ability to listen and to help people find real world solutions to their problems. As a chaplain and a healthcare manager I scaled up my impact in adding value to professional teams and communities by designing programs and offering support to individuals to help better their lives. As a corporate director, I designed leadership development programs to help hundreds including corporate leaders, professionals, and patients served by an Inc. 2000 healthcare organization. Now as a user experience designer I make sure that that adding value to the end user remains at the center of what I do."
+    "Throughout my carrer my mission has been to add value to others. Beginning as a psychotherapist working with indivudals and families I developed a deep ability to listen and to help people find real world solutions to their problems.",
+    
+    "As a chaplain and a healthcare manager I scaled up my impact in adding value to professional teams and communities by designing programs and offering support to individuals to help better their lives. As a corporate director, I designed leadership development programs to help hundreds including corporate leaders, professionals, and patients served by an Inc. 2000 healthcare organization.",
+    
+    "Now as a user experience designer I make sure that that adding value to the end user remains at the center of what I do."
     ]
     
     resume = "Resume_Eisenmenger.pdf"
