@@ -232,12 +232,13 @@ Based on the findings of the study, the following recommendations were made rega
 
 
 # Style Guide
-In preparation for a higher fidelity prototype I developed a short <a href="/worldwater/img/WWStyleGuideV3.pdf">style guide</a>. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon Basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
+In preparation for a higher fidelity prototype I developed a short <a href="/worldwater/img/WWStyleGuideV4.pdf">style guide</a>. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon Basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
 
 
 # Next Steps
 
-The next steps are to build a high fidelity prototype in InVision to simulate the micro interactions. An additional round of user testing and rapid iteration will follow and the prototype will be ready for developer handoff. The site's blog content will be added as well as a help section with frequently asked questions. 
+The next steps are to build a high fidelity prototype in InVision to simulate the micro interactions. An additional round of user testing and rapid iteration will follow and the prototype will be ready for development. The next iteration will include the site's blog content as well as a help section including frequently asked questions. 
 
 The most significant challenge so far has been the integration with social media. Venmo currently provides limited access to its API, therefore seamless integration with the platform may be a challenge for development. 
-An additional area for research and design would be focused on an update of the organization's blog structure as well as their map content with the organization's partner communities in the Amazon Basin. This content expresses the core of the organization's work. With the donation process streamlined, a next most significant area would be the blog content.
+
+An additional area for research and design may be to focus on the organization's use of map content related to the organization's partner communities in the Amazon Basin. This content expresses the core of the organization's work. With the donation process streamlined, additional sections of the site can be quickly updated according the organization's goals. 
