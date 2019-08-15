@@ -15,7 +15,7 @@ nav_heading: "Digital Inclusion Design Jam"
 thumbnail: "cope.jpg"
 
 # This is the title of the case study in the case studies section
-case_short_title: "Digital Inclusion Design Jam"
+case_short_title: "Digital Inclusion"
 
 # This is the title of the case study in the case study page
 case_title: "Digital Inclusion Design Jam"
@@ -24,7 +24,7 @@ case_title: "Digital Inclusion Design Jam"
 case_subtitle: "User Experience Research"
 
 # This is the case description in the case studies section
-case_description: "A User Experience Research and Design project in partnership between the Interaction Design Association (IxDA) and Louisville Metro government to research and document stakeholders experience with the digital divide in Louisville and co-create potential solutions that could be implemented in the larger digital inclusion effort."
+case_description: "A User Experience Research and Design project in partnership between the Interaction Design Association (IxDA) and Louisville Metro government"
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
