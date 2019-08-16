@@ -76,13 +76,22 @@ draft: false
 ---
 # The Problem
 Dig divide map
+![Louisville Digital Divide](/dincl/img/DigitalDivideMap.png "Louisville's Digital Divide")
+![Louisville Digital Divide](/dincl/img/DigitalDivideMapV2.png "Louisville's Digital Divide")
 # The Solution
-Not sure
+We developed suggestions based upon research with stakeholders
 # Research
-Interview cards
+Adrienne suggested interviews be placed on 3X5 cards
+!Interview cards
+An interview script was distributed.
+Adrienne and I developed a behavior based script
 # Discovery
-Affinity grouping
-Persona
+Research was synthesized
+
+!Affinity grouping
+
+Content from the interviews contributed to the Personas
+!Persona
 # Design
 Slide from  presentation
 # Deliver
