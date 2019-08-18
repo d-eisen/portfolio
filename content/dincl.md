@@ -95,7 +95,7 @@ Content from the interviews contributed to the Personas
 
 # Design
 Working in a small group turned this opportunity area into an action plan
-![Design Session Slide](/dincl/img/SherpasSummary.png) "Design Session Slide")
+![Design Session Slide](/dincl/img/SherpasSummary.png "Design Session Slide")
 <!-- Quote from Grace Simrall -->
 # Next Steps
 Medium links to continued efforts
