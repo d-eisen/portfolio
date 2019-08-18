@@ -76,25 +76,26 @@ draft: false
 ---
 # The Problem
 Dig divide map
-![Louisville Digital Divide](/dincl/img/DigitalDivideMap.png "Louisville's Digital Divide")
-![Louisville Digital Divide](/dincl/img/DigitalDivideMapV2.png "Louisville's Digital Divide")
+![Louisville's Digital Divide](/dincl/img/DigitalDivideMap.png "Louisville's Digital Divide")
+![Louisville's Digital Divide](/dincl/img/DigitalDivideMapV2.png "Louisville's Digital Divide")
 # The Solution
 We developed suggestions based upon research with stakeholders
 # Research
 Adrienne suggested interviews be placed on 3X5 cards
-!Interview cards
+![Interview Summary Cards](/dincl/img/DiscoveryInterviewCards.png "Interview Summary Cards")
 An interview script was distributed.
 Adrienne and I developed a behavior based script
 # Discovery
 Research was synthesized
+![Persona Synthesis](/dincl/img/AffinityGrouping.png "Persona Synthesis")
 
-!Affinity grouping
 
 Content from the interviews contributed to the Personas
-!Persona
+![Lean Persona: Customer](/dincl/img/LeanPersonaCustomer.png "Lean Persona Customer")
+
 # Design
-Slide from  presentation
-# Deliver
-Quote from Grace Simrall
+Working in a small group turned this opportunity area into an action plan
+![Design Session Slide](/dincl/img/SherpasSummary.ong) "Design Session Slide")
+<!-- Quote from Grace Simrall -->
 # Next Steps
 Medium links to continued efforts
