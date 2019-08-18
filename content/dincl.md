@@ -77,7 +77,7 @@ draft: false
 # The Problem
 Dig divide map
 ![Louisville's Digital Divide](/dincl/img/DigitalDivideMap.png "Louisville's Digital Divide")
-![Louisville's Digital Divide](/dincl/img/DigitalDivideMapV2.png "Louisville's Digital Divide")
+<!-- ![Louisville's Digital Divide](/dincl/img/DigitalDivideMapV2.png "Louisville's Digital Divide") -->
 # The Solution
 We developed suggestions based upon research with stakeholders
 # Research
@@ -95,7 +95,7 @@ Content from the interviews contributed to the Personas
 
 # Design
 Working in a small group turned this opportunity area into an action plan
-![Design Session Slide](/dincl/img/SherpasSummary.ong) "Design Session Slide")
+![Design Session Slide](/dincl/img/SherpasSummary.png) "Design Session Slide")
 <!-- Quote from Grace Simrall -->
 # Next Steps
 Medium links to continued efforts
