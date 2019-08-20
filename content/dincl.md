@@ -75,12 +75,15 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 # The Problem
-Dig divide map
+The City of Louisville's Office of Performance Improvement & Innovation has focused its efforts in Digital Inclusion in the Louisville metro area.  The city has developed a formal Digital Inclusion Plan whose goals are to increase socioeconomic mobility and job attainment for residents and to attract strategic partners in support of the plan's goals. The objective of the plans are to to remove barriers for citizens who need digital access to citizens allowing them to great access to jobs, employment, and other economic activity.
+
 ![Louisville's Digital Divide](/dincl/img/DigitalDivideMap.png "Louisville's Digital Divide")
 <!-- ![Louisville's Digital Divide](/dincl/img/DigitalDivideMapV2.png "Louisville's Digital Divide") -->
 # The Solution
-We developed suggestions based upon research with stakeholders
+While the city had familiarity with challenges associated with digital inclusion, they lacked documentation or research on the specific issues that citizens faced in attempting to cross the digital divide in Louisville. The City Office of Performance Improvement & Innovation (OPI) engaged a partnership with the local chapter of the Interaction Design Association (IxDA) to create potential solutions to that could be implemented in support of the City's Digital Inclusion plan. The leaders chose a Design Jam format to leverage the skills of a large number of people to complete working in a short amount of time. I served as one of the volunteer researchers in support of the process.
+
 # Research
+
 Adrienne suggested interviews be placed on 3X5 cards
 ![Interview Summary Cards](/dincl/img/DiscoveryInterviewCards.png "Interview Summary Cards")
 An interview script was distributed.
