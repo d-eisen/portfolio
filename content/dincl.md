@@ -12,7 +12,7 @@ description: "I participated in a Design Jam for Digital Inclusion in a partners
 nav_heading: "Digital Inclusion Design Jam"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
-thumbnail: "AffinityGroupingSqr"
+thumbnail: "AffinityGroupingSqr.png"
 
 # This is the title of the case study in the case studies section
 case_short_title: "Digital Inclusion"
