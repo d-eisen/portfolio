@@ -20,7 +20,7 @@ case_short_title: "Spark! Training Course"
 case_title: "Spark! Diversity and Inclusion"
 
 # This is the subtitle of the case study in the case studies section and the case study page
-case_subtitle: "In person training module"
+case_subtitle: "Product Design"
 
 # This is the case description in the case studies section
 case_description: "Spark is an in person training module for diversity and inclusion that uses gamification and storytelling to encourage empathy building and inclusion."
