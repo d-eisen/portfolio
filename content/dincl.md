@@ -46,9 +46,9 @@ methods: ["Interviews", "Persona", "Journey Mapping"]
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
 # Place your custom svgs into /static/svg
 button_links:
-    - link: "https://marvelapp.com/g4b64e/screen/14364499"
-      img: "eyeball.svg"
-      text: "View Prototype"
+    # - link: "https://marvelapp.com/g4b64e/screen/14364499"
+    #   img: "eyeball.svg"
+    #   text: "View Prototype"
     # - link: "http://copenow.co/"
     #   img: "eyeball.svg"
     #   text: "View Landing Page"
@@ -75,12 +75,14 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 # The Problem
-The City of Louisville's Office of Performance Improvement & Innovation has focused its efforts in Digital Inclusion in the Louisville metro area.  The city has developed a formal Digital Inclusion Plan whose goals are to increase socioeconomic mobility and job attainment for residents and to attract strategic partners in support of the plan's goals. The objective of the plans are to to remove barriers for citizens who need digital access to citizens allowing them to great access to jobs, employment, and other economic activity.
+The City of Louisville's Office of Performance Improvement & Innovation has focused its efforts in Digital Inclusion in the Louisville metro area.  The city has developed a formal <a href="https://digitalinclusion.louisvilleky.gov/">Digital Inclusion Plan</a> whose goals are to increase socioeconomic mobility and job attainment for residents and to attract strategic partners in support of the plan's goals. The objective of the plans are to to remove barriers for citizens who need digital access to citizens allowing them to great access to jobs, employment, and other economic activity.
 
 ![Louisville's Digital Divide](/dincl/img/DigitalDivideMap.png "Louisville's Digital Divide")
 <!-- ![Louisville's Digital Divide](/dincl/img/DigitalDivideMapV2.png "Louisville's Digital Divide") -->
 # The Solution
-While the city had familiarity with challenges associated with digital inclusion, they lacked documentation or research on the specific issues that citizens faced in attempting to cross the digital divide in Louisville. The City Office of Performance Improvement & Innovation (OPI) engaged a partnership with the local chapter of the Interaction Design Association (IxDA) to create potential solutions to that could be implemented in support of the City's Digital Inclusion plan. The findings would also be presented to the National Digital Inclusion Alliance to spread the impact of the work. The leaders chose a Design Jam format to leverage the skills of a large number of people to complete working in a short amount of time. I served as one of the volunteer researchers in support of the process.
+While the City had familiarity with challenges associated with digital inclusion, they lacked documentation or research on the specific issues that citizens faced in attempting to cross the digital divide in Louisville. The City Office of Performance Improvement & Innovation (OPI) engaged a partnership with the local chapter of the Interaction Design Association (IxDA) to create potential solutions to that could be implemented in support of the City's Digital Inclusion plan. 
+
+The findings would also be <a href="https://twitter.com/Greendrv/status/1151616705803751425?s=20">presented</a> to the National Digital Inclusion Alliance to spread the impact of the work. The leaders chose a Design Jam format to leverage the skills of a large number of people to complete working in a short amount of time. I served as one of the volunteer researchers in support of the process.
 
 # Research
 A team of 20 researchers were dispatched to complete a total of 17 interviews with various stakeholders in the community. Our area of focus was on people's experience with low cost internet service programs offered by major service providers in the Louisville market. My research partner Adrienne Dye and I interviewed two people who were potential customers of low cost internet programs.
@@ -98,8 +100,10 @@ In addition to HMWs participants also shared insights based on what they observe
 ![Lean Persona: Customer](/dincl/img/LeanPersonaCustomer.png "Lean Persona Customer")
 
 # Design
-At a Design Jam event, participants collaborated turning insights into action.  The challenge statements from the discovery phase were distilled into Opportunity Areas. Participants formed small teams to address each opportunity.  Our group focused opportunities within the low cost internet sign up process. In our research it was clear that the low cost internet sign up process was unfamiliar and confusing. Social workers and other professionals were shown to have significant impact in helping to people to be successful in the sign up process. Properly supporting these "sherpas" would involve:
-  * More transparency during the sign-up process for residents that community workers could help them tap into</li>
+At a <a href="https://twitter.com/edblayney/status/1115244820442898433?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=https%3A%2F%2Fcdn.embedly.com%2Fwidgets%2Fmedia.html%3Ftype%3Dtext%252Fhtml%26key%3Da19fcc184b9711e1b4764040d3dc5c07%26schema%3Dtwitter%26url%3Dhttps%253A%2F%2Ftwitter.com%2Fedblayney%2Fstatus%2F1115244820442898433%26image%3Dhttps%253A%2F%2Fi.embed.ly%2F1%2Fimage%253Furl%253Dhttps%25253A%25252F%25252Fpbs.twimg.com%25252Fmedia%25252FD3olQAvW4AE5gpX.jpg%25253Alarge%2526key%253Da19fcc184b9711e1b4764040d3dc5c07">Design Jam event</a>, participants collaborated turning insights into action.  The challenge statements from the discovery phase were distilled into Opportunity Areas. Participants formed small teams to address each opportunity.  Our group focused opportunities within the low cost internet sign up process. 
+
+In our research it was clear that the low cost internet sign up process was unfamiliar and confusing. Social workers and other professionals were shown to have significant impact in helping to people to be successful in the sign up process. Properly supporting these "sherpas" would involve:
+<li>More transparency during the sign-up process for residents that community workers could help them tap into</li>
 <li> Eliminating common pitfalls with the program (i.e. re-qualification)</li>
 Some of the intended outcomes of these efforts that would have a significant positive impact on the digital divide are:
 <li> Increased home broadband adoption.</li>
@@ -114,4 +118,5 @@ The results of the Design Jam were presented at a meeting with representatives f
 
 Officials from the NDIA commented that the work being done in Louisville related to Digital Inclusion was "groundbreaking." Specifically the work was described as "the first of its kind" and that with regard to research "no other city was doing this".
 
-The work of Metro Louisville's Digital Inclusion Plan continues. 
+The work of Metro Louisville's Digital Inclusion Plan continues. The Office of Performance Improvement & Innovation recently posted two <a href= "https://medium.com/louisville-metro-opi2/digital-inclusion-design-jam-part-1-the-process-d1259443afb5">articles</a> on Medium summarizing the Digital Inclusion Design Jam process. The city has also announced that it is planning <a href="https://twitter.com/edblayney/status/1136276396341420032">grant funded challenges</a> to attract partners help develop the ideas from the Design Jam into realized programs.
+
