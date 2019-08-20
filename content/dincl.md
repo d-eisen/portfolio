@@ -87,15 +87,17 @@ The findings would also be <a href="https://twitter.com/Greendrv/status/11516167
 # Research
 A team of 20 researchers were dispatched to complete a total of 17 interviews with various stakeholders in the community. Our area of focus was on people's experience with low cost internet service programs offered by major service providers in the Louisville market. My research partner Adrienne Dye and I interviewed two people who were potential customers of low cost internet programs.
 
-A discussion guide was distributed to each team by the leaders of the Jam. Taking this guide, Adrienne and I developed a behavior based script that we hoped would reveal some of the specific activities that the participants had engaged as users. This updated script was offered to other members of the team to use as well. We recorded the interviews and took notes on the participants responses. We distilled our insights onto index cards. This data would be shared during the discovery phase of our work.
+A discussion guide was distributed to each team by the leaders of the Jam. Taking this guide, Adrienne and I developed a behavior based script that we hoped would reveal some of the specific activities that the participants had engaged as users. This updated script was offered to other members of the team to use as well. 
+
+We recorded the interviews and took notes on the participants responses. We distilled our insights onto index cards. This data would be shared during the discovery phase of our work.
 ![Interview Summary Cards](/dincl/img/DiscoveryInterviewCards.png "Interview Summary Cards")
 
 # Discovery
 The research teams came together for a synthesis and discovery event. In this session the data and insights from the interviews would be synthesized to facilitate discovery related to the research. The goal of the synthesis process was to develop user personas and challenge statements to identify ideas and opportunities that would be addressed at a design jam event. 
 
-During the synthesis, teams shared insights from their research. As teams shared, participants wrote challenge statements in the form of responses to the question "How might we?" (HMW). These (HMW)s would help to clarify questions that we needed to address in the design phase. Statements were organized in to groups of similar affinity in their content. 
+During the synthesis, teams shared insights from their research. As teams shared, participants wrote challenge statements in the form of responses to the question "How might we?" (HMW). These HMWs would help to clarify questions that we needed to address in the design phase. Statements were organized in to groups of similar affinity in their content. 
 
-In addition to HMWs participants also shared insights based on what they observed or perceived participants thinking, feeling, saying, doing. These insights were collected and synthesized by a smaller group as user personas. Content from the interviews I completed was incorporated most directly into the lean user persona "Customer" This persona was developed by a small pullout team that met separately.
+In addition to HMWs participants also shared insights based on what they observed or perceived participants thinking, feeling, saying, doing. These insights were collected and synthesized by a smaller group as user personas. Content from the interviews I completed was incorporated most directly into the lean user persona "Customer." This persona was developed by a small pullout team that met separately.
 ![Persona Synthesis](/dincl/img/AffinityGrouping.png "Persona Synthesis")
 ![Lean Persona: Customer](/dincl/img/LeanPersonaCustomer.png "Lean Persona Customer")
 
@@ -114,9 +116,9 @@ Some of the intended outcomes of these efforts that would have a significant pos
 <!-- ![Design Session Slide](/dincl/img/SherpasSummary.png "Design Session Slide") -->
 <!-- Quote from Grace Simrall -->
 # Next Steps
-The results of the Design Jam were presented at a meeting with representatives from the National Digital Inclusion Alliance as well as corporate stakeholders relevant to low cost internet services.
+The results of the Design Jam were presented at a meeting with representatives from the National Digital Inclusion Alliance (NDIA) as well as corporate stakeholders affiliated with low cost internet services.
 
-Officials from the NDIA commented that the work being done in Louisville related to Digital Inclusion was "groundbreaking." Specifically the work was described as "the first of its kind" and that with regard to research "no other city was doing this".
+Officials from the NDIA commented that the work being done in Louisville related to Digital Inclusion was "groundbreaking." Specifically, the work was described as "the first of its kind." Specifically the research efforts about which the NDIA remarked that "no other city was doing this".
 
 The work of Metro Louisville's Digital Inclusion Plan continues. The Office of Performance Improvement & Innovation recently posted two <a href= "https://medium.com/louisville-metro-opi2/digital-inclusion-design-jam-part-1-the-process-d1259443afb5">articles</a> on Medium summarizing the Digital Inclusion Design Jam process. The city has also announced that it is planning <a href="https://twitter.com/edblayney/status/1136276396341420032">grant funded challenges</a> to attract partners help develop the ideas from the Design Jam into realized programs.
 
