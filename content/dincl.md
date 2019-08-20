@@ -83,18 +83,18 @@ The City of Louisville's Office of Performance Improvement & Innovation has focu
 While the city had familiarity with challenges associated with digital inclusion, they lacked documentation or research on the specific issues that citizens faced in attempting to cross the digital divide in Louisville. The City Office of Performance Improvement & Innovation (OPI) engaged a partnership with the local chapter of the Interaction Design Association (IxDA) to create potential solutions to that could be implemented in support of the City's Digital Inclusion plan. The findings would also be presented to the National Digital Inclusion Alliance to spread the impact of the work. The leaders chose a Design Jam format to leverage the skills of a large number of people to complete working in a short amount of time. I served as one of the volunteer researchers in support of the process.
 
 # Research
-A team of twenty researchers were dispatched to complete a total of 17 interviews with various stakeholders in the community. Our area of focus was on people's experience with low cost internet service programs offered by major service providers in the Louisville market. My research partner Adrienne Dye and I interviewed two people who were potential customers of low cost internet programs.
+A team of 20 researchers were dispatched to complete a total of 17 interviews with various stakeholders in the community. Our area of focus was on people's experience with low cost internet service programs offered by major service providers in the Louisville market. My research partner Adrienne Dye and I interviewed two people who were potential customers of low cost internet programs.
 
 A discussion guide was distributed to each team by the leaders of the Jam. Taking this guide, Adrienne and I developed a behavior based script that we hoped would reveal some of the specific activities that the participants had engaged as users. This updated script was offered to other members of the team to use as well. We recorded the interviews and took notes on the participants responses. We distilled our insights onto index cards. This data would be shared during the discovery phase of our work.
 ![Interview Summary Cards](/dincl/img/DiscoveryInterviewCards.png "Interview Summary Cards")
 
 # Discovery
-The research teams came together for a synthesis event. In this session the data and insights from the interviews would be synthesized to facility discovery related to the research. 
-The goal of the synthesis process was to 
+The research teams came together for a synthesis and discovery event. In this session the data and insights from the interviews would be synthesized to facilitate discovery related to the research. The goal of the synthesis process was to develop user personas and challenge statements to identify ideas and opportunities that would be addressed at a design jam event. During the synthesis, teams shared insights from their research. 
+
+Participants wrote challenge statements in the form of responses to the question "How might we?". These how might we (HMW) statements were organized in to groups of similar affinity in their content. 
+
+Additionally participants submitted inights based on what they observed or perceived participants thinking, feeling, saying, doing. These insigts were collected and sysnthesized by a smaller group as user personas. Content from the interviews I completed was incorporated into the user persona developed by a small pullout team.
 ![Persona Synthesis](/dincl/img/AffinityGrouping.png "Persona Synthesis")
-
-
-Content from the interviews contributed to the Personas
 ![Lean Persona: Customer](/dincl/img/LeanPersonaCustomer.png "Lean Persona Customer")
 
 # Design
