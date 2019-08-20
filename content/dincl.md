@@ -89,16 +89,24 @@ A discussion guide was distributed to each team by the leaders of the Jam. Takin
 ![Interview Summary Cards](/dincl/img/DiscoveryInterviewCards.png "Interview Summary Cards")
 
 # Discovery
-The research teams came together for a synthesis and discovery event. In this session the data and insights from the interviews would be synthesized to facilitate discovery related to the research. The goal of the synthesis process was to develop user personas and challenge statements to identify ideas and opportunities that would be addressed at a design jam event. During the synthesis, teams shared insights from their research. 
+The research teams came together for a synthesis and discovery event. In this session the data and insights from the interviews would be synthesized to facilitate discovery related to the research. The goal of the synthesis process was to develop user personas and challenge statements to identify ideas and opportunities that would be addressed at a design jam event. 
 
-Participants wrote challenge statements in the form of responses to the question "How might we?". These how might we (HMW) statements were organized in to groups of similar affinity in their content. 
+During the synthesis, teams shared insights from their research. As teams shared, participants wrote challenge statements in the form of responses to the question "How might we?" (HMW). These (HMW)s would help to clarify questions that we needed to address in the design phase. Statements were organized in to groups of similar affinity in their content. 
 
-Additionally participants submitted inights based on what they observed or perceived participants thinking, feeling, saying, doing. These insigts were collected and sysnthesized by a smaller group as user personas. Content from the interviews I completed was incorporated into the user persona developed by a small pullout team.
+In addition to HMWs participants also shared insights based on what they observed or perceived participants thinking, feeling, saying, doing. These insights were collected and synthesized by a smaller group as user personas. Content from the interviews I completed was incorporated most directly into the lean user persona "Customer" This persona was developed by a small pullout team that met separately.
 ![Persona Synthesis](/dincl/img/AffinityGrouping.png "Persona Synthesis")
 ![Lean Persona: Customer](/dincl/img/LeanPersonaCustomer.png "Lean Persona Customer")
 
 # Design
-Working in a small group turned this opportunity area into an action plan
+At a Design Jam event, participants collaborated turning insights into action.  The challenge statements from the discovery phase were distilled into Opportunity Areas. Participants formed small teams to address each opportunity.  Our group focused opportunities within the low cost intneret sign up process. In our research it was clear that the low cost internet sign up process was unfamiliar and confusing. Social workers and other professionals were shown to have significant impact in helping to people to be successful in the sign up process. Properly supporting these professionals would involve:
+* More transparency during the sign-up process for residents that community workers could help them tap into
+* Eliminating common pitfalls with the program (i.e. re-qualification)
+Some of the intended outcomes of these efforts that would have a significant positive impact on the digital divide are:
+* Increased home broadband adoption
+* Higher rates of retainment for people in the program
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Low Cost Sign Up E-Wizard<br><br>* Too much is put on the customer to find info about low-cost plans<br>* There should be one place that comm could go to find out what’s available and complete eligibility for all plans<br>* Make it simple: one page, plain language, inclusive design <a href="https://t.co/RwOF3KSSo8">pic.twitter.com/RwOF3KSSo8</a></p>&mdash; Ed Blayney (@edblayney) <a href="https://twitter.com/edblayney/status/1115244806316396549?ref_src=twsrc%5Etfw">April 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![Design Session Slide](/dincl/img/SherpasSummary.png "Design Session Slide")
 <!-- Quote from Grace Simrall -->
 # Next Steps
