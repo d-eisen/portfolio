@@ -99,13 +99,13 @@ In addition to HMWs participants also shared insights based on what they observe
 
 # Design
 At a Design Jam event, participants collaborated turning insights into action.  The challenge statements from the discovery phase were distilled into Opportunity Areas. Participants formed small teams to address each opportunity.  Our group focused opportunities within the low cost intneret sign up process. In our research it was clear that the low cost internet sign up process was unfamiliar and confusing. Social workers and other professionals were shown to have significant impact in helping to people to be successful in the sign up process. Properly supporting these professionals would involve:
-* More transparency during the sign-up process for residents that community workers could help them tap into
-* Eliminating common pitfalls with the program (i.e. re-qualification)
+<li> More transparency during the sign-up process for residents that community workers could help them tap into.</li>
+<li> Eliminating common pitfalls with the program (i.e. re-qualification).</li>
 Some of the intended outcomes of these efforts that would have a significant positive impact on the digital divide are:
-* Increased home broadband adoption
-* Higher rates of retainment for people in the program
+<li> Increased home broadband adoption.</li>
+<li> Higher rates of retainment for people in the program.</li>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Low Cost Sign Up E-Wizard<br><br>* Too much is put on the customer to find info about low-cost plans<br>* There should be one place that comm could go to find out what’s available and complete eligibility for all plans<br>* Make it simple: one page, plain language, inclusive design <a href="https://t.co/RwOF3KSSo8">pic.twitter.com/RwOF3KSSo8</a></p>&mdash; Ed Blayney (@edblayney) <a href="https://twitter.com/edblayney/status/1115244806316396549?ref_src=twsrc%5Etfw">April 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Support the Sherpas<br><br>* Re: E-Wizard - Acknowledging the sign up process is awkward, make it easier for SME to support sign up<br>* Needs to be easier to monitor the process, communication from companies should be more clear, re-qualification easier, and fewer pitfalls in general <a href="https://t.co/8IJUDnk3IT">pic.twitter.com/8IJUDnk3IT</a></p>&mdash; Ed Blayney (@edblayney) <a href="https://twitter.com/edblayney/status/1115244820442898433?ref_src=twsrc%5Etfw">April 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![Design Session Slide](/dincl/img/SherpasSummary.png "Design Session Slide")
 <!-- Quote from Grace Simrall -->
