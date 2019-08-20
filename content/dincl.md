@@ -1,6 +1,6 @@
 ---
 # This determines what shows up first, lower weight = shows up first
-weight: 1
+weight: 2
 
 # This is what appears as the tab's title
 title: "Digital Inclusion Design Jam| David Eisenmenger"
