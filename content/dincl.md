@@ -12,7 +12,7 @@ description: "I participated in a Design Jam for Digital Inclusion in a partners
 nav_heading: "Digital Inclusion Design Jam"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
-thumbnail: "cope.jpg"
+thumbnail: "AffinityGroupingSqr"
 
 # This is the title of the case study in the case studies section
 case_short_title: "Digital Inclusion"
@@ -99,7 +99,7 @@ In addition to HMWs participants also shared insights based on what they observe
 
 # Design
 At a Design Jam event, participants collaborated turning insights into action.  The challenge statements from the discovery phase were distilled into Opportunity Areas. Participants formed small teams to address each opportunity.  Our group focused opportunities within the low cost internet sign up process. In our research it was clear that the low cost internet sign up process was unfamiliar and confusing. Social workers and other professionals were shown to have significant impact in helping to people to be successful in the sign up process. Properly supporting these "sherpas" would involve:
-* More transparency during the sign-up process for residents that community workers could help them tap into</li>
+  * More transparency during the sign-up process for residents that community workers could help them tap into</li>
 <li> Eliminating common pitfalls with the program (i.e. re-qualification)</li>
 Some of the intended outcomes of these efforts that would have a significant positive impact on the digital divide are:
 <li> Increased home broadband adoption.</li>
@@ -112,6 +112,6 @@ Some of the intended outcomes of these efforts that would have a significant pos
 # Next Steps
 The results of the Design Jam were presented at a meeting with representatives from the National Digital Inclusion Alliance as well as corporate stakeholders relevant to low cost internet services.
 
-Officials from the NDIA commmented that the work being done in Louisville related to Digital Inclusion was "groundbreaking." Specifically the work was described as "the first of its kind" and that with regard to research "no other city was doing this".
+Officials from the NDIA commented that the work being done in Louisville related to Digital Inclusion was "groundbreaking." Specifically the work was described as "the first of its kind" and that with regard to research "no other city was doing this".
 
 The work of Metro Louisville's Digital Inclusion Plan continues. 
