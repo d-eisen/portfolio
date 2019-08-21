@@ -30,7 +30,8 @@ case_description: "A User Experience Research and Design project in partnership 
 case_feature_img: "featured-cope.jpg"
 
 # This is the case summary in the case itself
-case_summary: "In support of a larger campaign by Metro Louisville focused on digital inclusion, a User Experience Research and Design project was initiated as part of a partnership between the Interaction Design Association (IxDA) and Louisville Metro government. Over an eight month period, the goal of the project was to research and document stakeholders experience with the digital divide in Louisville and co-create potential solutions that could be implemented in the larger digital inclusion effort."
+case_summary: "I served as part of a research team to create potential solutions to Louisville's problem with digital inclusion in its metropolitan area. The City of Louisville's Office of Performance Improvement & Innovation (OPI2) partnered with the local chapter of the Interaction Design Association (IxDA) to perform preliminary stakeholder research and analysis and to develop new ideas at a Design Jam event to address the specific issues that citizens face in attempting to cross the digital divide. The results of this work were presented before the National Digital Inclusion Alliance as well as corporate stakeholders. The ideas have been incorporated into the city's formal <a href="https://digitalinclusion.louisvilleky.gov/">Digital Inclusion Plan</a>." 
+
 
 # Your team members
 team: ["David Eisenmenger", "Adrienne Dye", "Kevin Morrison", "Matt Dobson", "Becky Hyde",]
@@ -74,38 +75,41 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 # The Problem
-The City of Louisville's Office of Performance Improvement & Innovation has focused its efforts in Digital Inclusion in the Louisville metro area.  The city has developed a formal <a href="https://digitalinclusion.louisvilleky.gov/">Digital Inclusion Plan</a> whose goals are to increase socioeconomic mobility and job attainment for residents and to attract strategic partners in support of the plan's goals. The objective of the plans are to to remove barriers for citizens who need digital access to citizens allowing them to great access to jobs, employment, and other economic activity.
+The City of Louisville's Office of Performance Improvement & Innovation has focused its efforts ion addressing the <a href="https://medium.com/louisville-metro-opi2/digital-inclusion-impact-year-1-recap-b082131731f9">digital divide</a> in the Louisville metro area.  The city has developed a formal <a href="https://digitalinclusion.louisvilleky.gov/">Digital Inclusion Plan</a> whose goals are to increase socioeconomic mobility and job attainment for residents and to attract strategic partners in support of the plan's goals. The main objective of the plan is to remove barriers to needed digital access, allowing citizens greater access to jobs, employment, and other economic activity.
 
 ![Louisville's Digital Divide](/dincl/img/DigitalDivideMap.png "Louisville's Digital Divide")
 <!-- ![Louisville's Digital Divide](/dincl/img/DigitalDivideMapV2.png "Louisville's Digital Divide") -->
 # The Solution
-While the City had familiarity with challenges associated with digital inclusion, they lacked documentation or research on the specific issues that citizens faced in attempting to cross the digital divide in Louisville. The City Office of Performance Improvement & Innovation (OPI) engaged a partnership with the local chapter of the Interaction Design Association (IxDA) to create potential solutions to that could be implemented in support of the City's Digital Inclusion plan. 
+While the City had familiarity with challenges associated with digital inclusion, they lacked documentation or research on the specific issues that citizens faced in attempting to cross the digital divide in Louisville. The City Office of Performance Improvement & Innovation (OPI2) engaged a partnership with the local chapter of the Interaction Design Association (IxDA) to create potential solutions to that could be implemented in support of the City's Digital Inclusion plan. 
 
-The findings would also be <a href="https://twitter.com/Greendrv/status/1151616705803751425?s=20">presented</a> to the National Digital Inclusion Alliance to spread the impact of the work. The leaders chose a Design Jam format to leverage the skills of a large number of people to complete working in a short amount of time. I served as one of the volunteer researchers in support of the process.
+The findings would also be <a href="https://twitter.com/Greendrv/status/1151616705803751425?s=20">presented</a> to the National Digital Inclusion Alliance to spread the impact of the work. The leaders chose a Design Jam format to leverage the skills of a large number of people to complete work in a short amount of time. I served with other volunteers as a researcher and designer.
 
 # Research
-A team of 20 researchers were dispatched to complete a total of 17 interviews with various stakeholders in the community. Our area of focus was on people's experience with low cost internet service programs offered by major service providers in the Louisville market. My research partner Adrienne Dye and I interviewed two people who were potential customers of low cost internet programs.
+A team of 20 researchers were dispatched to complete a total of 17 interviews with various stakeholders in the community. Our area of research was related to people's experience with low cost internet service programs offered by major service providers in the Louisville market. My research partner Adrienne Dye and I interviewed two people who were potential customers of low cost internet programs.
 
-A discussion guide was distributed to each team by the leaders of the Jam. Taking this guide, Adrienne and I developed a behavior based script that we hoped would reveal some of the specific activities that the participants had engaged as users. This updated script was offered to other members of the team to use as well. 
+A discussion guide was distributed to each team by the leaders of the Jam. Taking this guide, Adrienne and I developed a behavior based script that we hoped would reveal some of the specific activities that the participants had engaged as users. This updated script was offered to other teams as well. 
 
-We recorded the interviews and took notes on the participants responses. We distilled our insights onto index cards. This data would be shared during the discovery phase of our work.
+We recorded the interviews and took notes on the participants' responses. We distilled our insights onto index cards. We shared this data during the discovery phase of our work.
 ![Interview Summary Cards](/dincl/img/DiscoveryInterviewCards.png "Interview Summary Cards")
 
 # Discovery
-The research teams came together for a synthesis and discovery event. In this session the data and insights from the interviews would be synthesized to facilitate discovery related to the research. The goal of the synthesis process was to develop user personas and challenge statements to identify ideas and opportunities that would be addressed at a design jam event. 
+After all interviews were complete, the research teams came together for a synthesis and discovery event. In this session the data and insights from the interviews were be synthesized to facilitate discovery from the research. The goal of the synthesis process was to develop user personas and challenge statements to identify ideas and opportunities that would be addressed at a subsequent Design Jam event. 
 
-During the synthesis, teams shared insights from their research. As teams shared, participants wrote challenge statements in the form of responses to the question "How might we?" (HMW). These HMWs would help to clarify questions that we needed to address in the design phase. Statements were organized in to groups of similar affinity in their content. 
+During the synthesis, teams shared insights from their research. As teams shared, participants wrote challenge statements in the form of responses to the question "How might we?" (HMW). These HMWs would help to clarify questions that we needed to address in the next phase of the process, the design phase. Statements were organized in groups of similar affinity based on their content. 
 
-In addition to HMWs participants also shared insights based on what they observed or perceived participants thinking, feeling, saying, doing. These insights were collected and synthesized by a smaller group as user personas. Content from the interviews I completed was incorporated most directly into the lean user persona "Customer." This persona was developed by a small pullout team that met separately.
+To emphasis this process as a human centered design process we also focused on the interview participants as people and users of the service. In addition to HMWs participants also shared insights based on what they observed of the participants as people and users of the low cost internet service product. Researchers reported what they perceived participants to be thinking, feeling, saying, doing. 
+
+These insights were collected and synthesized as lean user personas. The personas developed were: Customer, Advocate, and Student. Content from the interviews I completed was incorporated most directly into the lean user persona "Customer." This persona was developed by a small pullout team that met separately.
 ![Persona Synthesis](/dincl/img/AffinityGrouping.png "Persona Synthesis")
 ![Lean Persona: Customer](/dincl/img/LeanPersonaCustomer.png "Lean Persona Customer")
 
 # Design
-At a <a href="https://twitter.com/edblayney/status/1115244820442898433?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=https%3A%2F%2Fcdn.embedly.com%2Fwidgets%2Fmedia.html%3Ftype%3Dtext%252Fhtml%26key%3Da19fcc184b9711e1b4764040d3dc5c07%26schema%3Dtwitter%26url%3Dhttps%253A%2F%2Ftwitter.com%2Fedblayney%2Fstatus%2F1115244820442898433%26image%3Dhttps%253A%2F%2Fi.embed.ly%2F1%2Fimage%253Furl%253Dhttps%25253A%25252F%25252Fpbs.twimg.com%25252Fmedia%25252FD3olQAvW4AE5gpX.jpg%25253Alarge%2526key%253Da19fcc184b9711e1b4764040d3dc5c07">Design Jam event</a>, participants collaborated turning insights into action.  The challenge statements from the discovery phase were distilled into Opportunity Areas. Participants formed small teams to address each opportunity.  Our group focused opportunities within the low cost internet sign up process. 
+At a <a href="https://twitter.com/edblayney/status/1115244820442898433?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=https%3A%2F%2Fcdn.embedly.com%2Fwidgets%2Fmedia.html%3Ftype%3Dtext%252Fhtml%26key%3Da19fcc184b9711e1b4764040d3dc5c07%26schema%3Dtwitter%26url%3Dhttps%253A%2F%2Ftwitter.com%2Fedblayney%2Fstatus%2F1115244820442898433%26image%3Dhttps%253A%2F%2Fi.embed.ly%2F1%2Fimage%253Furl%253Dhttps%25253A%25252F%25252Fpbs.twimg.com%25252Fmedia%25252FD3olQAvW4AE5gpX.jpg%25253Alarge%2526key%253Da19fcc184b9711e1b4764040d3dc5c07">Design Jam event</a>, participants collaborated turning insights into action.  The challenge statements from the discovery phase were distilled into Opportunity Areas. Participants formed small teams to address each opportunity.  I served as part of a design group focused on opportunities within the low cost internet sign up process. 
 
-In our research it was clear that the low cost internet sign up process was unfamiliar and confusing. Social workers and other professionals were shown to have significant impact in helping to people to be successful in the sign up process. Properly supporting these "sherpas" would involve:
+In our research it was clear that the low cost internet sign up process was unfamiliar and confusing. Social workers and other professionals were shown to have significant impact in helping to people to be successful in the sign up process. Our idea is that properly supporting these "sherpas" or guides, would involve:
 <li>More transparency during the sign-up process for residents that community workers could help them tap into</li>
 <li> Eliminating common pitfalls with the program (i.e. re-qualification)</li>
+
 Some of the intended outcomes of these efforts that would have a significant positive impact on the digital divide are:
 <li> Increased home broadband adoption.</li>
 <li> Higher rates of retainment for people in the program.</li>
@@ -115,9 +119,9 @@ Some of the intended outcomes of these efforts that would have a significant pos
 <!-- ![Design Session Slide](/dincl/img/SherpasSummary.png "Design Session Slide") -->
 <!-- Quote from Grace Simrall -->
 # Next Steps
-The results of the Design Jam were presented at a meeting with representatives from the National Digital Inclusion Alliance (NDIA) as well as corporate stakeholders affiliated with low cost internet services.
+The results of the Design Jam were presented at a meeting with representatives from the National Digital Inclusion Alliance (NDIA) as well as corporate stakeholders affiliated with low cost internet services. The meeting was open the the community and was attended by members of the IxDA community, city officials, and others.
 
-Officials from the NDIA commented that the work being done in Louisville related to Digital Inclusion was "groundbreaking." Specifically, the work was described as "the first of its kind." Specifically the research efforts about which the NDIA remarked that "no other city was doing this".
+Officials from the NDIA commented that the work being done in Louisville related to Digital Inclusion was "groundbreaking." Specifically, the process of performing deep stakeholder research regarding people specific issues in attempting to cross the divide was described as "the first of its kind." The NDIA remarked that "no other city was doing this". The research work was being described as having national significance.
 
-The work of Metro Louisville's Digital Inclusion Plan continues. The Office of Performance Improvement & Innovation recently posted two <a href= "https://medium.com/louisville-metro-opi2/digital-inclusion-design-jam-part-1-the-process-d1259443afb5">articles</a> on Medium summarizing the Digital Inclusion Design Jam process. The city has also announced that it is planning <a href="https://twitter.com/edblayney/status/1136276396341420032">grant funded challenges</a> to attract partners help develop the ideas from the Design Jam into realized programs.
+The work of Metro Louisville's Digital Inclusion Plan continues. The Office of Performance Improvement & Innovation recently posted two <a href= "https://medium.com/louisville-metro-opi2/digital-inclusion-design-jam-part-1-the-process-d1259443afb5">articles</a> on Medium summarizing the Digital Inclusion Design Jam process. The city has also announced that it will <a href="https://twitter.com/edblayney/status/1136276396341420032">to offer grant funded challenges</a> to attract partners help develop the ideas from the Design Jam into realized programs.
 
