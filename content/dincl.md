@@ -37,7 +37,7 @@ case_summary: "I served as part of a research team to create potential solutions
 team: ["David Eisenmenger", "Adrienne Dye", "Kevin Morrison", "Matt Dobson", "Becki Hyde",]
 
 # Roles of your team members
-roles: ["User Research"]
+roles: ["UX Researcher"]
 
 # Methods your team members used
 methods: ["Interviewing", "Persona", "Journey Mapping"]

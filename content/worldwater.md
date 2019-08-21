@@ -37,7 +37,7 @@ case_summary: "WorldWater.org is the home site for the WorldWater organization. 
 team: ["David Eisenmenger"]
 
 # Roles of your team members
-roles: ["Researcher", "Information Architect", "User Interface Designer"]
+roles: ["UX Researcher", "Information Architect", "UI Designer"]
 
 # Methods your team members used
 methods: ["Surveying and Interviewing", "Sketching", "Wireframing", "Prototyping"]
