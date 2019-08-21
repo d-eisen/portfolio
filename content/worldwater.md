@@ -3,7 +3,7 @@
 weight: 1
 
 # This is what appears as the tab's title
-title: "WorldWater | David Eisenmenger"git m
+title: "WorldWater | David Eisenmenger"
 
 # This is the description in the <head> tag
 description: "I set a direction for the re-design of the product and crafted and tested a functioning prototype for development."
