@@ -40,7 +40,7 @@ team: ["David Eisenmenger"]
 roles: ["Researcher", "Information Architect", "User Interface Designer"]
 
 # Methods your team members used
-methods: ["Surveys and Interviewing", "Sketching", "Wireframing", "Prototyping"]
+methods: ["Surveying and Interviewing", "Sketching", "Wireframing", "Prototyping"]
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg

@@ -34,13 +34,13 @@ case_summary: "I served as part of a research team to create potential solutions
 
 
 # Your team members
-team: ["David Eisenmenger", "Adrienne Dye", "Kevin Morrison", "Matt Dobson", "Becky Hyde",]
+team: ["David Eisenmenger", "Adrienne Dye", "Kevin Morrison", "Matt Dobson", "Becki Hyde",]
 
 # Roles of your team members
 roles: ["User Research"]
 
 # Methods your team members used
-methods: ["Interviews", "Persona", "Journey Mapping"]
+methods: ["Interviewing", "Persona", "Journey Mapping"]
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
