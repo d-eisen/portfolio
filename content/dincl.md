@@ -5,7 +5,7 @@ weight: 3
 title: "Digital Inclusion Design Jam| David Eisenmenger"
 
 # This is the description in the <head> tag
-description: "I participated in a Design Jam for Digital Inclusion in a partnership between IxDA and the Louisville Metro Government ."
+description: "I served as part of a research and design team providing voluntary service to the community to address issues that users faced regarding access to low cost internet service."
 
 # This the heading of the navigation at the top of the case study
 nav_heading: "Digital Inclusion Design Jam"
