@@ -1,6 +1,6 @@
 ---
 # This determines what shows up first, lower weight = shows up first
-weight: 3
+weight: 2
 # This is what appears as the tab's title
 title: "Spark | David Eisenmenger"
 
