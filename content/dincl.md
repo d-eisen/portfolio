@@ -30,7 +30,7 @@ case_description: "A User Experience Research project in partnership with the In
 case_feature_img: "featured-cope.jpg"
 
 # This is the case summary in the case itself
-case_summary: "I served as part of a research team to create potential solutions to Louisville's problem with digital inclusion in its metropolitan area. The City of Louisville's Office of Performance Improvement & Innovation (OPI2) partnered with the local chapter of the Interaction Design Association (IxDA) to perform preliminary stakeholder research and analysis and to develop new ideas at a Design Jam event to address the specific issues that citizens face in attempting to cross the digital divide. The results of this work were presented before the National Digital Inclusion Alliance as well as corporate stakeholders. The ideas have been incorporated into the city's formal <a href="https://digitalinclusion.louisvilleky.gov/">Digital Inclusion Plan</a>." 
+case_summary: "I served as part of a research team to create potential solutions to Louisville's problem with digital inclusion in its metropolitan area. The City of Louisville's Office of Performance Improvement & Innovation (OPI2) partnered with the local chapter of the Interaction Design Association (IxDA) to perform preliminary stakeholder research and analysis and to develop new ideas at a Design Jam event to address the specific issues that citizens face in attempting to cross the digital divide. The results of this work were presented before the National Digital Inclusion Alliance as well as corporate stakeholders. The ideas have been incorporated into the city's formal Digital Inclusion Plan." 
 
 
 # Your team members
