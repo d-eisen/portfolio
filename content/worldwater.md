@@ -232,7 +232,7 @@ Based on the findings of the study, the following recommendations were made rega
 
 
 # Style Guide
-In preparation for a higher fidelity prototype I developed a short <a href="/worldwater/img/WWStyleGuideV4.pdf">style guide</a>. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon Basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
+In preparation for a higher fidelity prototype I developed a short <a href="/worldwater/img/WWStyleGuideV5.pdf">style guide</a>. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon Basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
 
 
 # Next Steps
