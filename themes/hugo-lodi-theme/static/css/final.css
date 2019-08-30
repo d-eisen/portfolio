@@ -175,7 +175,7 @@ section {
 
 .subtitle {
   font-size: 28px;
-  /* color: #1B7BFF; */
+  color: #2F468A;
   font-weight: 300;
 }
 
@@ -201,7 +201,7 @@ section {
 }
 
 .hero-right p a {
-  /* color: #1B7BFF; */
+  color: #2F468A;
   text-decoration: underline;
 }
 
@@ -220,7 +220,7 @@ section {
   display: inline-block;
   margin-top: 20px;
   /* background: #003dff; */
-  /* background: #1B7BFF; */
+  background: #2F468A;
   /* Download Resume: */
   font-family: Roboto;
   font-size: 15px;
@@ -289,7 +289,7 @@ section {
 .process-item h3 {
   /* Discover: */
   font-size: 28px;
-  /* color: #1B7BFF; */
+  color: #2F468A;
   letter-spacing: 0;
 }
 
@@ -341,7 +341,7 @@ section {
   border: solid 2px #E1E1E1;
   padding: 18px 0;
   text-align: center;
-  /* color: #1B7BFF; */
+  color: #2F468A;
   font-weight: 500;
   -webkit-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
@@ -392,7 +392,7 @@ section {
 
 .results-content hr {
   width: 30px;
-  /* border: 3px solid #1B7BFF; */
+  border: 3px solid #2F468A;
 }
 
 .main-case-study img {
@@ -409,7 +409,7 @@ section {
   font-family: Roboto;
   font-weight: bold;
   font-size: 22px;
-  /* color: #1B7BFF; */
+  color: #2F468A;
   letter-spacing: 0;
 }
 
