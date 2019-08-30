@@ -8,16 +8,16 @@
             <g transform="translate(560.000000, 777.000000)">
                 <g id="design-64px-outline-2_ruler-pencil" transform="translate(6.000000, 4.000000)">
                     <g id="Group">
-                        <path d="M26.2857143,5.71428571 L26.2857143,26.2857143" id="Shape" stroke="#00CEDB"></path>
+                        <path d="M26.2857143,5.71428571 L26.2857143,26.2857143" id="Shape" stroke="#4161BF"></path>
                         <path d="M20.5714286,5.71428571 L32,5.71428571" id="Shape" stroke="#505050"></path>
                         <path d="M20.5714286,26.2857143 L32,26.2857143" id="Shape" stroke="#505050"></path>
                         <polygon id="Shape" stroke="#505050" points="32 26.2857143 26.2857143 33.1428571 20.5714286 26.2857143 20.5714286 0 32 0"></polygon>
-                        <path d="M0,16 L5.14285714,16" id="Shape" stroke="#00CEDB"></path>
-                        <path d="M0,20.5714286 L4,20.5714286" id="Shape" stroke="#00CEDB"></path>
-                        <path d="M0,29.7142857 L4,29.7142857" id="Shape" stroke="#00CEDB"></path>
-                        <path d="M0,6.85714286 L5.14285714,6.85714286" id="Shape" stroke="#00CEDB"></path>
-                        <path d="M0,11.4285714 L4,11.4285714" id="Shape" stroke="#00CEDB"></path>
-                        <path d="M0,25.1428571 L5.14285714,25.1428571" id="Shape" stroke="#00CEDB"></path>
+                        <path d="M0,16 L5.14285714,16" id="Shape" stroke="#4161BF"></path>
+                        <path d="M0,20.5714286 L4,20.5714286" id="Shape" stroke="#4161BF"></path>
+                        <path d="M0,29.7142857 L4,29.7142857" id="Shape" stroke="#4161BF"></path>
+                        <path d="M0,6.85714286 L5.14285714,6.85714286" id="Shape" stroke="#4161BF"></path>
+                        <path d="M0,11.4285714 L4,11.4285714" id="Shape" stroke="#4161BF"></path>
+                        <path d="M0,25.1428571 L5.14285714,25.1428571" id="Shape" stroke="#4161BF"></path>
                         <rect id="Rectangle-path" stroke="#505050" x="0" y="0" width="13.7142857" height="34.2857143"></rect>
                     </g>
                 </g>

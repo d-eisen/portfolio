@@ -11,7 +11,7 @@
                         <g id="Group">
                             <polyline id="Shape" stroke="#505050" points="6.85714286 5.71428571 0 12.5714286 6.85714286 19.4285714"></polyline>
                             <polyline id="Shape" stroke="#505050" points="25.1428571 5.71428571 32 12.5714286 25.1428571 19.4285714"></polyline>
-                            <path d="M11.4285714,25.1428571 L20.5714286,0" id="Shape" stroke="#00CEDB"></path>
+                            <path d="M11.4285714,25.1428571 L20.5714286,0" id="Shape" stroke="#4161BF"></path>
                         </g>
                     </g>
                 </g>
