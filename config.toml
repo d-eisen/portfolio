@@ -23,7 +23,7 @@ googleAnalytics = "UA-138889713-1"
 [params.hero]
     enable = true
     avatar = "HeadshotFinal.jpg"
-    subtitle = "I am David, a User Experience Designer and Researcher"
+    subtitle = "My name is David, a User Experience Designer and Researcher"
     # subtitle2 = "Empathy Specialist"
     hero_right = ["A **user experience designer** and **researcher** with a diverse background in **product design** and **healthcare management**.",
     
