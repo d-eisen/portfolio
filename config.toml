@@ -5,7 +5,7 @@ theme = "hugo-lodi-theme"
 googleAnalytics = "UA-138889713-1"
 
 [params]
-    theme_color = "#4ca2ff"
+    theme_color = "#4561BF"
     description = "David Eisenmenger, UX Design Portfolio"
     description_photo = "portfolio.png"
     favicon = "logo.png"
