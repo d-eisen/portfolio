@@ -38,7 +38,7 @@ googleAnalytics = "UA-138889713-1"
    "As a **user experience** designer I make sure that **adding value** to the end user remains at **the center** of what I do."
     ]
     
-    resume = "Resume_Eisenmenger.pdf"
+    # resume = "Resume_Eisenmenger.pdf"
 
 [params.process]
     enable = true
