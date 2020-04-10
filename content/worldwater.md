@@ -84,7 +84,7 @@ I began with user research. Our hypothesis was that user giving and engagement c
 
 I wanted to interview people who were currently involved with NGOs. A survey was completed by 16 participants who reported being involved with at least one nonprofit organization as a supporter or volunteer at some time in the last twelve months.
 
-In the survey I asked people to indicate the particular ways that they have been involved with organizations over the last three to six months. Those survey reported that the top activities that they perform with an organization are: **give financially**, **volunteer their time**, **share on social media**, and **promote a campaign**.
+In the survey I asked people to indicate the particular ways that they have been involved with organizations over the last three to six months. Those surveyed reported that the top activities that they perform with an organization are: **give financially**, **volunteer their time**, **share on social media**, and **promote a campaign**.
 
 ![Chart NGO Involvement Vector](/worldwater/img/NonprofitInvolvmentV8.svg "Chart: NGO Involvement")
 
