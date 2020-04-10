@@ -25,9 +25,9 @@ googleAnalytics = "UA-138889713-1"
     avatar = "HeadshotFinal.jpg"
     subtitle = "I am David, a User Experience Designer and Researcher"
     # subtitle2 = "Empathy Specialist"
-    hero_right = ["A **user experience designer** and **researcher** with a background in **program development** and **healthcare management**.",
+    hero_right = ["A user experience designer and researcher with a background in program development and healthcare management.",,
 
-    "My **mission** is to **add value to others**. I am passionate about improving services that support other people. My approach uses human centered design in eliciting user needs and goals, working creatively and collaboratively toward solutions."
+    "My mission is to add value to others. I am passionate about improving services that support other people. My approach uses human centered design in eliciting user needs and goals, working creatively and collaboratively toward solutions.",
     ]
     
     # resume = "Resume_Eisenmenger.pdf"
