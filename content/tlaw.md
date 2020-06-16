@@ -70,7 +70,8 @@ testimonial_author: "John Robert Palomo"
 testimonial_subtitle: "Co-founder, Cope"
 
 date: 2020-06-16T14:18:19-04:00
-draft: true
+draft: false
+
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
