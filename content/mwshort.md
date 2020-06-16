@@ -78,13 +78,13 @@ draft: false
 A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization's goal was to increase giving and engagement through their site and attract new users.  
 # The Solution
 I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
-# Research: Survey and Interviews
+<!-- # Research: Survey and Interviews
 ## Survey: Participant involvement in organizations had mixed results
 I began with user research. Our hypothesis was that user giving and engagement could be increased by leveraging people's connection to the organization. I performed qualitative primary research using an online survey and in person interviews. 
 
 I wanted to interview people who were currently involved with NGOs. A survey was completed by 16 participants who reported being involved with at least one nonprofit organization as a supporter or volunteer at some time in the last twelve months.
 
-In the survey I asked people to indicate the particular ways that they have been involved with organizations over the last three to six months. Those surveyed reported that the top activities that they perform with an organization are: **give financially**, **volunteer their time**, **share on social media**, and **promote a campaign**.
+In the survey I asked people to indicate the particular ways that they have been involved with organizations over the last three to six months. Those surveyed reported that the top activities that they perform with an organization are: **give financially**, **volunteer their time**, **share on social media**, and **promote a campaign**. -->
 
 ![Chart NGO Involvement Vector](/worldwater/img/NonprofitInvolvmentV8.svg "Chart: NGO Involvement")
 
@@ -94,11 +94,11 @@ Based on these findings, the research seemed to signal that **leveraging social 
 
 One finding from the survey that was potentially concerning was related to participants' seeming **low interest** in developing **new involvements** with organizations. 
 
-![Chart Likelihood](/worldwater/img/LikelihoodV7.svg "Chart: Likelihood")
+<!-- ![Chart Likelihood](/worldwater/img/LikelihoodV7.svg "Chart: Likelihood")
 
-When asked the question, "In the next six months how likely are you to be involved in another organization?"  only 26% of survey participants gave a response that would be categorized as a favorable response of "Extremely Likely" or "Very Likely". I was concerned that this could be a **potential barrier** to attracting new users. This finding would be something I would **explore** more deeply during **user interviews**. My thought process was that If there was some resistance to new involvements on the part of users, then perhaps something in the interviews would indicate what might afford users to override this perceived resistance and engage new involvements.
+When asked the question, "In the next six months how likely are you to be involved in another organization?"  only 26% of survey participants gave a response that would be categorized as a favorable response of "Extremely Likely" or "Very Likely". I was concerned that this could be a **potential barrier** to attracting new users. This finding would be something I would **explore** more deeply during **user interviews**. My thought process was that If there was some resistance to new involvements on the part of users, then perhaps something in the interviews would indicate what might afford users to override this perceived resistance and engage new involvements. -->
 
-## Interviews: Personal Connections are Important to Users
+<!-- ## Interviews: Personal Connections are Important to Users
 I conducted in person interviews with a group of people who were also survey respondents. I wanted to dig more deeply on couple of important questions:<br>
 1. What do organizations do that draw you in? 
 2. What are the pain points associated with their experience of NGOS? 
@@ -169,13 +169,13 @@ Following a Lean methodology, I developed the content strategy based on **user s
 <!-- ![User Flow High Fidelity 1](/worldwater/img/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1") *User flow high fidelity: Landing Page to Create Account* -->
 
 
-## Sketching
+<!-- ## Sketching
 Having conceptualized the basic architecture of the the flow. I began hand-sketching how the donation user flow would look. 
-![Sketch: Landing Page to Donation](/worldwater/img/WWDonate01v3.png "Landing Page to Donation")
+![Sketch: Landing Page to Donation](/worldwater/img/WWDonate01v3.png "Landing Page to Donation") -->
 
 <!-- ![Sketch: Landing Page to Login2](/worldwater/img/01MWLandingPagetoLogin_Page_2.jpg "Landing Page to Login 2") *Screen design sketch: Landing Page to Create Account 2* -->
 
-## Wireframing
+<!-- ## Wireframing
 Based on my sketches I developed a low fidelity wireframe of the site. Using the Sketch application I began to sequence the screens into a few different flows based on the user story "As a user, I want to make a donation to the organization so that I can support the organization financially."
 <br>
 <br>
@@ -208,15 +208,15 @@ Here is the screen flow from the landing page menu to challenging others to give
 # Development: Low Fidelity Prototype
 I did some quick guerilla testing of the wireframes with a couple of users to screen for any major usability issues. Having received positive feedback from testers, I moved to developing a low fidelity prototype. The <a href="https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D">prototype</a> was developed in Balsamiq and Sketch. It simulates the login process and various flows related to making donations and engaging the site's challenge features. Some areas of the site outside of the MVP have a placeholder that is clearly marked within the experience. The low fidelity version does not contain the full color pallette and styling of the site in order to allow users and testers to focus on the screen layout and process flow. 
 
-[![Prototype](/worldwater/img/LandingPg.png)](https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D)
+[![Prototype](/worldwater/img/LandingPg.png)](https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D) -->
 
-# Iteration: Usability Study and Feedback
+<!-- # Iteration: Usability Study and Feedback
 ## Usability Study
-I conducted in person usability tests using a prototype of the WorldWater site accessed by the user on their laptop or mine. Participants were asked to complete four tasks using the clickable prototype. They were instructed to work independently on the assigned tasks, moving as close to completion as possible. While completing the tasks, users were asked to think aloud, sharing their process verbally. As participants completed the process, I recorded their comments and made note of their actions. Upon completion of the tests a report was completed and given to the client.
+I conducted in person usability tests using a prototype of the WorldWater site accessed by the user on their laptop or mine. Participants were asked to complete four tasks using the clickable prototype. They were instructed to work independently on the assigned tasks, moving as close to completion as possible. While completing the tasks, users were asked to think aloud, sharing their process verbally. As participants completed the process, I recorded their comments and made note of their actions. Upon completion of the tests a report was completed and given to the client. -->
 
 <!-- ![Usability Report Cover Page](/worldwater/img/MWUsabilityTestReport_Page_1.png "Usability Test Report") -->
 
-## Feedback and Recommendations
+<!-- ## Feedback and Recommendations
 As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
 <ul>
 <li>Some users found the prototype’s Facebook login sequence to have too many steps.</li>
@@ -228,11 +228,11 @@ Based on the findings of the study, the following recommendations were made rega
 <li>Streamline the Facebook login process as part of fundraising challenges</li>
 <li>Improve the user guidance within the donation form using typography and color</li>
 <li>Create options for receiving updates without creating a full account</li>
-</ol>
+</ol> -->
+ 
 
-
-# Style Guide
-In preparation for a higher fidelity prototype I developed a short <a href="/worldwater/img/WWStyleGuideV5.pdf">style guide</a>. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon Basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys.
+<!-- # Style Guide
+In preparation for a higher fidelity prototype I developed a short <a href="/worldwater/img/WWStyleGuideV5.pdf">style guide</a>. Font pairs were selected that reflect the values of integrity and community that were significant themes in the initial user research. A color palette was selected based on the organization's current color scheme with additional colors added to reﬂect some of the tones found in the region of Amazon Basin where the organization's operations are based. The green shades in particular reﬂect the mood of growth and optimism that the site conveys. -->
 
 
 # Next Steps
