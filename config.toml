@@ -34,12 +34,12 @@ googleAnalytics = "UA-138889713-1"
 
 [params.process]
     enable = true
-    title = "My Process"
+    title = "Process"
     # subtitle = "Full Process Design"
 
 [params.case_studies]
     enable = true
-    title = "Case Studies"
+    title = "Work"
     # subtitle = "User Experience Design"
 
 [params.footer]
