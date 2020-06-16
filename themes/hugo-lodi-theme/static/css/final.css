@@ -424,6 +424,7 @@ section {
 }
 
 .case-study-item img {
+  border-radius: 12 px;
   max-width: 100%;
 }
 
