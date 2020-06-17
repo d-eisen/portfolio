@@ -70,7 +70,7 @@ theme = "hugo-lodi-theme"
 
 [params.case_studies]
     enable = true
-    title = "Case Studies"
+    title = "Work"
     subtitle = "Selected Works"
 
 [params.footer]
