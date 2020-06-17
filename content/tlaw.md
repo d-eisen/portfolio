@@ -3,7 +3,7 @@
 weight: 2
 
 # This is what appears as the tab's title
-title: "Cope | Alexis Collado"
+title: "Web Development"
 
 # This is the description in the <head> tag
 description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
@@ -11,7 +11,7 @@ description: "I set a direction for the branding and identity of the product and
 # This the heading of the navigation at the top of the case study
 nav_heading: "Cope Case Study"
 
-# This is what appears in the case studies section, place this image at the /static/img folder
+# This is what appears in the case studies section, place this image at the //img folder
 thumbnail: "cope.jpg"
 
 # This is the title of the case study in the case studies section
@@ -44,7 +44,7 @@ methods: ["Sketching", "Mockups", "Guerilla Testing"]
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
-# Place your custom svgs into /static/svg
+# Place your custom svgs into //svg
 button_links:
     - link: "https://marvelapp.com/g4b64e/screen/14364499"
       img: "eyeball.svg"
@@ -75,3 +75,12 @@ draft: false
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
+# The Problem
+A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization's goal was to increase giving and engagement through their site and attract new users.  
+# The Solution
+I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
+![TLawFrontCH](/tlaw/TLawFrontCH.jpg "Hero Image Courthouse")
+![TLawFrontJeff](/tlaw/TLawFrontJeff.jpg "Hero Image with Jefferson")
+![TLawInnerAbout](/tlaw/TLawInnerAbout.jpg "About Mason")
+![TLAWThumb03](/tlaw/TLAWThumb03@0.75x.jpg "Hero Image Medium")
+![TLAWThumb04](/tlaw/TLAWThumb04@0.75x.jpg "Hero Image Medium")
