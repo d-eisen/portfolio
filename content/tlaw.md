@@ -79,8 +79,8 @@ draft: false
 A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization's goal was to increase giving and engagement through their site and attract new users.  
 # The Solution
 I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
-![TLawFrontCH](/tlaw/TLawFrontCH.jpg "Hero Image Courthouse")
-![TLawFrontJeff](/tlaw/TLawFrontJeff.jpg "Hero Image with Jefferson")
-![TLawInnerAbout](/tlaw/TLawInnerAbout.jpg "About Mason")
-![TLAWThumb03](/tlaw/TLAWThumb03@0.75x.jpg "Hero Image Medium")
-![TLAWThumb04](/tlaw/TLAWThumb04@0.75x.jpg "Hero Image Medium")
+![TLawFrontCH](/tlaw/img/TLawFrontCH.jpg "Hero Image Courthouse")
+![TLawFrontJeff](/tlaw/img/TLawFrontJeff.jpg "Hero Image with Jefferson")
+![TLawInnerAbout](/tlaw/img/TLawInnerAbout.jpg "About Mason")
+![TLAWThumb03](/tlaw/img/TLAWThumb03@0.75x.jpg "Hero Image Medium")
+![TLAWThumb04](/tlaw/img/TLAWThumb04@0.75x.jpg "Hero Image Medium")
