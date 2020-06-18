@@ -509,6 +509,10 @@ section {
 
 }
 
+#JhHeadBl {
+  max-width: 33%;
+}
+
 .content-case-study a {
   color: #574CDD;
   text-decoration: underline;
