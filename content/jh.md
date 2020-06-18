@@ -84,5 +84,6 @@ A non governmental organization (NGO) named WorldWater asked me to redesign thei
 
 I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
 
-![JhPriority](/jh/img/Priorities@2x@0.5x.jpg "Priority Example")
-![JhHeading](/jh/img/MeetJhSq.jpg "Heading Style Sample")
+![Priority Example](/jh/img/Priorities@2x@0.5x.jpg "Priority Example")
+![Heading Title Sample](/jh/img/MeetJhSq.jpg "Heading Style Sample")
+<img src="/jh/img/MeetJhSq.jpg" alt="JhHeading" title="Heading Style Sample" id=JhHeadBl>
