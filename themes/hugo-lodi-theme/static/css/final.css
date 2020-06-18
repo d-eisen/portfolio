@@ -397,6 +397,7 @@ section {
 
 .main-case-study img {
   max-width: 100%;
+  border-radius: 12px;
 }
 
 .main-case-study .title {
