@@ -12,7 +12,7 @@ description: "I set a direction for the branding and identity of the product and
 nav_heading: "Cope Case Study"
 
 # This is what appears in the case studies section, place this image at the //img folder
-thumbnail: "TLawFrontJeff.jpg"
+thumbnail: "TLawJefSq.jpg"
 
 # This is the title of the case study in the case studies section
 case_short_title: "Web Development"
