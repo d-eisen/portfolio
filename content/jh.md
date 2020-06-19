@@ -57,17 +57,17 @@ button_links:
       text: "Download Feature Sets"
 
 # Testimonial text
-testimonial: "Alexis designed everything for Cope from the ground up. What I really like about him is his true understanding and grasp of what makes a great UI great. He knows that the user experience needs a lot of refining from customers and he isn't shy to take feedback even if it's critical. Alexis is one of those rare people who just gets it."
+# testimonial: "Alexis designed everything for Cope from the ground up. What I really like about him is his true understanding and grasp of what makes a great UI great. He knows that the user experience needs a lot of refining from customers and he isn't shy to take feedback even if it's critical. Alexis is one of those rare people who just gets it."
 
 # Testimonial photo, place this at /post_title_here/img
 # e.g. /mypost/img
-testimonial_photo: "john.jpg"
+# testimonial_photo: "john.jpg"
 
 # Author of testimonial
-testimonial_author: "John Robert Palomo"
+# testimonial_author: "John Robert Palomo"
 
 # Testimonial subtitle, usually position of the testimonial author
-testimonial_subtitle: "Co-founder, Cope"
+# testimonial_subtitle: "Co-founder, Cope"
 
 date: 2020-06-16T14:17:43-04:00
 draft: false
