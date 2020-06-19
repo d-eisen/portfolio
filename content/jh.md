@@ -34,13 +34,13 @@ case_feature_img: "JHTopBanner.jpg"
 case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
 
 # Your team members
-team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
+# team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
 
 # Roles of your team members
-roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
+# roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
 
 # Methods your team members used
-methods: ["Sketching", "Mockups", "Guerilla Testing"]
+# methods: ["Sketching", "Mockups", "Guerilla Testing"]
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
@@ -76,14 +76,36 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 
-# The Problem
+# The Design Challenge
 
-A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization's goal was to increase giving and engagement through their site and attract new users.  
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
 
-# The Solution
+# Users and Audience
 
-I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+
+# Roles and Responsibilities
+
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+
+# Scope and Constraints
+
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+
+# Process
+
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
 
 ![Priority Example](/jh/img/Priorities@2x@0.5x.jpg "Priority Example")
-![Heading Title Sample](/jh/img/MeetJhSq.jpg "Heading Style Sample")
+
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+
+<!-- ![Heading Title Sample](/jh/img/MeetJhSq.jpg "Heading Style Sample") -->
 <img src="/jh/img/MeetJhSq.jpg" alt="JhHeading" title="Heading Style Sample" id=JhHeadBl>
+
+# Outcomes and Lessons
+
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+
+
+

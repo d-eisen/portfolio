@@ -9,7 +9,7 @@ title: "Web Development"
 description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
 
 # This the heading of the navigation at the top of the case study
-nav_heading: "Cope Case Study"
+nav_heading: "Web Development"
 
 # This is what appears in the case studies section, place this image at the //img folder
 thumbnail: "TLawJefSq.jpg"
@@ -34,13 +34,13 @@ case_feature_img: "TLawFrontCH.jpg"
 case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
 
 # Your team members
-team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
+# team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
 
 # Roles of your team members
-roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
+# roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
 
 # Methods your team members used
-methods: ["Sketching", "Mockups", "Guerilla Testing"]
+# methods: ["Sketching", "Mockups", "Guerilla Testing"]
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
@@ -57,17 +57,17 @@ button_links:
       text: "Download Feature Sets"
 
 # Testimonial text
-testimonial: "Alexis designed everything for Cope from the ground up. What I really like about him is his true understanding and grasp of what makes a great UI great. He knows that the user experience needs a lot of refining from customers and he isn't shy to take feedback even if it's critical. Alexis is one of those rare people who just gets it."
+# testimonial: "Alexis designed everything for Cope from the ground up. What I really like about him is his true understanding and grasp of what makes a great UI great. He knows that the user experience needs a lot of refining from customers and he isn't shy to take feedback even if it's critical. Alexis is one of those rare people who just gets it."
 
 # Testimonial photo, place this at /post_title_here/img
 # e.g. /mypost/img
-testimonial_photo: "john.jpg"
+# testimonial_photo: "john.jpg"
 
 # Author of testimonial
-testimonial_author: "John Robert Palomo"
+# testimonial_author: "John Robert Palomo"
 
 # Testimonial subtitle, usually position of the testimonial author
-testimonial_subtitle: "Co-founder, Cope"
+# testimonial_subtitle: "Co-founder, Cope"
 
 date: 2020-06-16T14:18:19-04:00
 draft: false
@@ -75,12 +75,41 @@ draft: false
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
-# The Problem
-A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization's goal was to increase giving and engagement through their site and attract new users.  
-# The Solution
-I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
+# The Design Challenge
+
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+
+
+# Users and Audience
+
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+
 ![TLawFrontCH](/tlaw/img/TLawFrontCH.jpg "Hero Image Courthouse")
-![TLawFrontJeff](/tlaw/img/TLawFrontJeff.jpg "Hero Image with Jefferson")
+
+# Roles and Responsibilities
+
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+
+# Scope and Constraints
+
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+
+# Process
+
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+
 ![TLawInnerAbout](/tlaw/img/TLawInnerAbout.jpg "About Mason")
+
+
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+
+
+![TLawFrontJeff](/tlaw/img/TLawFrontJeff.jpg "Hero Image with Jefferson")
+
+# Outcomes and Lessons
+
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+
+
 ![TLAWThumb03](/tlaw/img/TLAWThumb03@0.75x.jpg "Hero Image Medium")
 ![TLAWThumb04](/tlaw/img/TLAWThumb04@0.75x.jpg "Hero Image Medium")
