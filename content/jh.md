@@ -21,7 +21,7 @@ case_short_title: "Web Design"
 case_title: "Web Design"
 
 # This is the subtitle of the case study in the case studies section and the case study page
-case_subtitle: "Committee to Elect Jim Haadsma"
+case_subtitle: "Tech for Campaigns"
 
 # This is the case description in the case studies section
 case_description: "Mollit non aute et qui exercitation Lorem culpa ea culpa laboris."
