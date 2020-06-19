@@ -24,14 +24,14 @@ case_title: "Web Development"
 case_subtitle: "Trenaman Law"
 
 # This is the case description in the case studies section
-case_description: "Cope is a mobile app that allows mental health help seekers track their symptoms and medication. I helped them create a minimum viable product for testing."
+case_description: "Proident dolor occaecat eiusmod ea ea. Quis sint excepteur anim excepteur aliqua velit qui velit. Est ea irure amet sunt nulla in commodo ut culpa mollit."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
 case_feature_img: "TLawFrontCH.jpg"
 
 # This is the case summary in the case itself
-case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
+case_summary: "Excepteur deserunt ea velit sunt elit et eu sint magna aliqua. Non occaecat sunt sunt minim eu aliquip cillum nisi. Exercitation dolor reprehenderit deserunt consequat occaecat. Mollit ea proident sit labore fugiat non non Lorem eu laboris laboris minim."
 
 # Your team members
 # team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
