@@ -6,7 +6,7 @@ weight: 2
 title: "Web Design"
 
 # This is the description in the <head> tag
-description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
+description: "Officia quis exercitation dolor proident consequat et ullamco eu aliquip eiusmod commodo officia."
 
 # This the heading of the navigation at the top of the case study
 nav_heading: "Web Design"
@@ -24,14 +24,14 @@ case_title: "Web Design"
 case_subtitle: "Committee to Elect Jim Haadsma"
 
 # This is the case description in the case studies section
-case_description: "This is a case description"
+case_description: "Mollit non aute et qui exercitation Lorem culpa ea culpa laboris."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
 case_feature_img: "JHTopBanner.jpg"
 
 # This is the case summary in the case itself
-case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
+case_summary: "Ullamco est sunt nulla consectetur enim ut. Ipsum magna incididunt irure deserunt sint fugiat adipisicing sunt reprehenderit mollit consequat ea non adipisicing. Consequat duis cillum amet excepteur pariatur ex. Veniam nulla id in eiusmod elit. Lorem elit ex ex exercitation ex et deserunt."
 
 # Your team members
 # team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
@@ -105,7 +105,4 @@ Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse
 
 # Outcomes and Lessons
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-
-
+Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur.
