@@ -71,47 +71,10 @@ testimonial_author: "Tiffany Hoback"
 testimonial_subtitle: "Executive Sponsor"
 
 date: 2019-06-11T22:59:05-04:00
-draft: true
+draft: false
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
-# The Design Challenge
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-
-# Users and Audience
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-
-# Roles and Responsibilities
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-# Scope and Constraints
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-# Process
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-# Outcomes and Lessons
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-![Homestead, Florida Demographics](/spark/img/HomeFlaFBPopBLV3.png "Foreign Born Population Homestead")
-![Spark PullQuote](/spark/img/SparkPullQuoteV5.png "Spark Pull Quote")
-![Spark Full Page Excerpt](/spark/img/SpLearnerGuideFullPgExcerptv3.png "Spark Full Page Excerpt")
-![Game Board](/spark/img/ProviderSparkGameBoardFINALv2.png "Spark Game Board")
-![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerptv6.png "Spark Page Excerpt Detail")
-![Spark PullQuote 1](/spark/img/SparkPullQuoteBV3.png "Spark Pull Quote 2")
-
-
 # Problem
 I was challenged by the executive leadership of my company at the time to develop a new product that would promote diversity and inclusion amongst staff members working in front line roles in long term care facilities. The leaders of the organization were concerned about staff engagement and service delivery in a region with significant racial, ethnic, and economic diversity.
 
@@ -122,10 +85,14 @@ The final design for the product was a facilitator led training course that inco
 # Selecting the Market
 I obtaining business requirements for the project from the executive team including budget and delivery delivery. Working with the executive team, we selected a market in south Florida for the product pilot. The regional and local leaders in this area were concerned about low staff engagement and its impact on service delivery in these facilities.
 
+![Homestead, Florida Demographics](/spark/img/HomeFlaFBPopBLV3.png "Foreign Born Population Homestead")
+
 This market had a significant level of cultural and ethnic diversity. For example, one community in the region in Homestead, Florida had a foreign born population just over 35%. This proportion sits evenly between Miami-Dade County (53%) and the state of Florida (21%) as a whole. 
 
 # User Research and Discovery
 I performed site visits with managers and front line staff at a few facilities in the area to learn more about the needs of the staff as end users. Based on my discussions with staff members, some of the most frequent pain points were related to poor communication and misunderstanding between staff members. Staff members on one shift came from five different nationalities and spoke several languages.
+
+![Spark PullQuote](/spark/img/SparkPullQuoteV5.png "Spark Pull Quote")
 
 Front line staff work long hours often juggling a second job at another company. In their work there is little down time. When staff members did take down time it was often with people who were part of their same cultural group. This created a silo effect within the teams.  
 
@@ -134,15 +101,20 @@ Front line staff work long hours often juggling a second job at another company.
 # Design the Materials
 I had contracted with a design consultant to develop the materials. A design session was convened with the consultant, members of the company's learning team, and the executive sponsor. Insights from my visits with staff were incorporated as data for the design. 
 
+![Spark Full Page Excerpt](/spark/img/SpLearnerGuideFullPgExcerptv3.png "Spark Full Page Excerpt")
+
 From this session the following requirements emerged:
 <li>Training should be instructor led and delivered in the staff work area.</li>
 <li>Given the staff's time constraints course units should be modular and free standing allowing new users to join anywhere in the sequence.</li>
 <li>To encourage interaction the modules should utilize gamification and group activities.</li>
 
+![Game Board](/spark/img/ProviderSparkGameBoardFINALv2.png "Spark Game Board")
 <br>
 Additional requiements:
 <li>Tie in  the organization's current service values with the teaching points on diversity and inclusion.</li>
 <li>Simple materials that are easily reproducible</li>
+
+![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerptv6.png "Spark Page Excerpt Detail")
 
 # Developing a Prototype
 A blue line of the facilitator guide, learner guide, and game board were developed.
@@ -156,6 +128,8 @@ We were pleased to observe that the participants use of the product seemed to be
 Some of the specific feedback from the tests was as follows. Facilitators would like to have sample images available for assisting the participants in their group project. Participants indicated that they would like more time to talk with one another during the session than what was scheduled. 
 <br><br>
 Some participants commented that the directions on module 2 were unclear regarding how to use the rating scale included in the self assessment. This feedback was addressed in the next iteration of the product.
+
+![Spark PullQuote 1](/spark/img/SparkPullQuoteBV3.png "Spark Pull Quote 2")
 
 # Next Steps
 The executive leadership were pleased with the final product and assumed responsibility for its implementation in the field.  While this in person course format seemed to show some impact in bringing people into direct conversation with one another regarding the importance of diversity and inclusion, the continued integration of these values with the organization's service values would lead to greater leverage for the initiative.
