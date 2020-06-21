@@ -9,16 +9,16 @@ title: "WorldWater | David Eisenmenger"
 description: "I set a direction for the re-design of the product and crafted and tested a functioning prototype for development."
 
 # This the heading of the navigation at the top of the case study
-nav_heading: "WorldWater Case Study"
+nav_heading: "WorldWater SHORT"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
 thumbnail: "WWLandingPgV3LG.png"
 
 # This is the title of the case study in the case studies section
-case_short_title: "WorldWater Mobile Site"
+case_short_title: "WorldWater SHORT"
 
 # This is the title of the case study in the case study page
-case_title: "WorldWater Mobile Site"
+case_title: "WorldWater SHORT"
 
 # This is the subtitle of the case study in the case studies section and the case study page
 case_subtitle: "User Experience Design"
