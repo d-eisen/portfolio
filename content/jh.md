@@ -1,6 +1,6 @@
 ---
 # This determines what shows up first, lower weight = shows up first
-weight: 2
+weight: 1
 
 # This is what appears as the tab's title
 title: "Web Design"
