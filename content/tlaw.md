@@ -77,38 +77,42 @@ draft: false
 ---
 # The Design Challenge
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+The client, Trenaman Law, wanted a new website that would present the organization as  a speciailized firm. The client sought updated branding that reflected his history as a judge, his connection to the community, and focused on his two areas of focus as a private practice attorney: personal injury and family. We outfitted the site with specific calls to action and features that allowed users to contact the firm to request consultation. 
 
 
 # Users and Audience
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+The primary users of the site are current and potential legal clients. The primary audience for the site are clients and members of the legal community.
 
 ![TLawFrontCH](/tlaw/img/TLawFrontCH.jpg "Hero Image Courthouse")
 
 # Roles and Responsibilities
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+I served as a freelance designer and Wordpress developer on a team that included a project manager and a logo designer. I participated in client meetings and design sessions.   
 
 # Scope and Constraints
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+The client had a specific vision for the site which was shared through sketches and copy. The client sought a single page site that provided specific information about his areas of pracitice and conveyed a sese of tradition and connection to the community. My role as designer  was to work within that vision seeking to maximate the effectiveness of the site while conveying the desired look and feel. 
 
 # Process
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+I met with the client and the the project manager for an initial creative session to gather requirements for the site. The client shared an initial sketch as well as his vision for the site. Based on these requirments the logo designer created logo assets approved by the client. With the logo and the client’s vision in mindm, I developed a hand sketch of the site which I shared with the team. I moved quickly to a mockup of the site laid out in Wordpress. We shared the mockup with the client and hosted a feedback session to gather final changes. 
+
+A sense of the client’s professional history was captured by adding a clickable gallery of photos from across the client’s professional career. 
 
 ![TLawInnerAbout](/tlaw/img/TLawInnerAbout.jpg "About Mason")
 
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+Aware that most clients will acces the information on a phone or tablet, design element were made responsive. 
+
+Practice areas were summarized and include a call to action to contact the attorney’s office. 
 
 
 ![TLawFrontJeff](/tlaw/img/TLawFrontJeff.jpg "Hero Image with Jefferson")
 
 # Outcomes and Lessons
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+The client was pleased with the design’s fulfillment of their vision for the site. As the the court system begins to recover from the disruption of COVID-19 clearing its’ backlog of cases the client anticipates that increased traffic to the site as new clients are able to have cases heard. 
 
 
 ![TLAWThumb03](/tlaw/img/TLAWThumb03@0.75x.jpg "Hero Image Medium")
