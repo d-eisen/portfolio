@@ -76,62 +76,33 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 # The Design Challenge
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-
-# Users and Audience
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-
-# Roles and Responsibilities
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-# Scope and Constraints
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-# Process
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-# Outcomes and Lessons
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
-![Homestead, Florida Demographics](/spark/img/HomeFlaFBPopBLV3.png "Foreign Born Population Homestead")
-![Spark PullQuote](/spark/img/SparkPullQuoteV5.png "Spark Pull Quote")
-![Spark Full Page Excerpt](/spark/img/SpLearnerGuideFullPgExcerptv3.png "Spark Full Page Excerpt")
-![Game Board](/spark/img/ProviderSparkGameBoardFINALv2.png "Spark Game Board")
-![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerptv6.png "Spark Page Excerpt Detail")
-![Spark PullQuote 1](/spark/img/SparkPullQuoteBV3.png "Spark Pull Quote 2")
-
-
-# Problem
 I was challenged by the executive leadership of my company at the time to develop a new product that would promote diversity and inclusion amongst staff members working in front line roles in long term care facilities. The leaders of the organization were concerned about staff engagement and service delivery in a region with significant racial, ethnic, and economic diversity.
 
-# Solution
-The final design for the product was a facilitator led training course that incorporates empathy building, diversity, and inclusion through gamification and interpersonal interaction. The program is structured in six free standing training modules and can be delivered directly in the staff members' working environment. <br>
-<br>Modules last fifteen minutes each. Each module is designed from the perspective of healthcare workers and encourages discussion and storytelling. Program assets include: facilitator guide, learner guide, game board, and cards.
+# Users and Audience
+## Selecting the Community
+ Working with the executive team, we selected a market in south Florida for the product pilot. The regional and local leaders in this area were concerned about low staff engagement and its impact on service delivery in these facilities.
 
-# Selecting the Market
-I obtaining business requirements for the project from the executive team including budget and delivery delivery. Working with the executive team, we selected a market in south Florida for the product pilot. The regional and local leaders in this area were concerned about low staff engagement and its impact on service delivery in these facilities.
+For example, according to US Census Data, one of the communities we included in our pilot Homestead Florida, had more than one third of its people lived there identified themselves as having been born in a country outside of the United States. This proportion sits between Miami-Dade County (53%) and the state of Florida (21%) as a whole. Given such a diverse community, the leadership felt compelled to assist the community in whatever way that they could with regard to diversity and inclusion.
 
-This market had a significant level of cultural and ethnic diversity. For example, one community in the region in Homestead, Florida had a foreign born population just over 35%. This proportion sits evenly between Miami-Dade County (53%) and the state of Florida (21%) as a whole. 
+![Homestead, Florida Demographics](/spark/img/HomeFlaFBPopBLV3.png "Foreign Born Population Homestead")
 
-# User Research and Discovery
+# Roles and Responsibilities
+I served as the de facto product designer for the project. I contracted with an outside consultanting group which included a product manager and a visual designer. I worked with other internat stakeholders including the company's executive team on a regular cadence.
+
+# Scope and Constraint
+The executive team set the development budget for the project. During preliminary research before the project begain, I learned internal subject matter experts that the most effective training programs for the company's front line staff were delivered in an in person learning format. The operations team required that this program be delivered in a maximum of 15 minute segments--minimizing time away from job duties.
+
+# Process
+## User Research and Discovery
 I performed site visits with managers and front line staff at a few facilities in the area to learn more about the needs of the staff as end users. Based on my discussions with staff members, some of the most frequent pain points were related to poor communication and misunderstanding between staff members. Staff members on one shift came from five different nationalities and spoke several languages.
+
+![Spark PullQuote](/spark/img/SparkPullQuoteV5.png "Spark Pull Quote")
 
 Front line staff work long hours often juggling a second job at another company. In their work there is little down time. When staff members did take down time it was often with people who were part of their same cultural group. This created a silo effect within the teams.  
 
 <br>As one staff member commented, "it's not that we don't like one another, it's that we don't know one another." My hypothesis was that a lack both informal time spent together as a team as well as few spaces to have intentional conversation about people's differences contributed to the team's difficulty in communicating.
 
-# Design the Materials
+## Designing the Materials
 I had contracted with a design consultant to develop the materials. A design session was convened with the consultant, members of the company's learning team, and the executive sponsor. Insights from my visits with staff were incorporated as data for the design. 
 
 From this session the following requirements emerged:
@@ -139,10 +110,14 @@ From this session the following requirements emerged:
 <li>Given the staff's time constraints course units should be modular and free standing allowing new users to join anywhere in the sequence.</li>
 <li>To encourage interaction the modules should utilize gamification and group activities.</li>
 
+![Game Board](/spark/img/ProviderSparkGameBoardFINALv2.png "Spark Game Board")
+
 <br>
 Additional requiements:
 <li>Tie in  the organization's current service values with the teaching points on diversity and inclusion.</li>
 <li>Simple materials that are easily reproducible</li>
+
+![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerptv6.png "Spark Page Excerpt Detail")
 
 # Developing a Prototype
 A blue line of the facilitator guide, learner guide, and game board were developed.
@@ -157,5 +132,11 @@ Some of the specific feedback from the tests was as follows. Facilitators would 
 <br><br>
 Some participants commented that the directions on module 2 were unclear regarding how to use the rating scale included in the self assessment. This feedback was addressed in the next iteration of the product.
 
-# Next Steps
+![Spark PullQuote 1](/spark/img/SparkPullQuoteBV3.png "Spark Pull Quote 2")
+
+## Solution
+The final design for the product was a facilitator led training course that incorporates empathy building, diversity, and inclusion through gamification and interpersonal interaction. The program is structured in six free standing training modules and can be delivered directly in the staff members' working environment. <br>
+<br>Modules last fifteen minutes each. Each module is designed from the perspective of healthcare workers and encourages discussion and storytelling. Program assets include: facilitator guide, learner guide, game board, and cards.
+
+# Outcomes and Lessons 
 The executive leadership were pleased with the final product and assumed responsibility for its implementation in the field.  While this in person course format seemed to show some impact in bringing people into direct conversation with one another regarding the importance of diversity and inclusion, the continued integration of these values with the organization's service values would lead to greater leverage for the initiative.
