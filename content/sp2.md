@@ -2,25 +2,25 @@
 # This determines what shows up first, lower weight = shows up first
 weight: 4
 # This is what appears as the tab's title
-title: "Spark | David Eisenmenger"
+title: "Product Design"
 
 # This is the description in the <head> tag
-description: "I served as the product designer and process owner for the project. I guided the product from initial concept to development."
+description: "I served as the product designer and process owner for the project. I guided the product from initial concept to delivery."
 
 # This the heading of the navigation at the top of the case study
-nav_heading: "Spark! Case Study"
+nav_heading: "Product Design"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
 thumbnail: "SparkBoardMockupSqv2.png"
 
 # This is the title of the case study in the case studies section
-case_short_title: "Spark! Training Course"
+case_short_title: "Product Design"
 
 # This is the title of the case study in the case study page
-case_title: "Spark! Diversity and Inclusion"
+case_title: "Product Design"
 
 # This is the subtitle of the case study in the case studies section and the case study page
-case_subtitle: "Product Design"
+case_subtitle: "Provider LTC"
 
 # This is the case description in the case studies section
 case_description: "Spark is an in person training module for diversity and inclusion that uses gamification and storytelling to encourage empathy building and inclusion."
@@ -58,17 +58,17 @@ button_links:
     #   text: "Download Feature Sets"
 
 # Testimonial text
-testimonial: "Our organization had talked about developing a diversity and inclusion program for a long time. David took the entire project from concept to implementation. He partnered both internally and externally and delivered a great product to our team."
+# testimonial: "Our organization had talked about developing a diversity and inclusion program for a long time. David took the entire project from concept to implementation. He partnered both internally and externally and delivered a great product to our team."
 
 # Testimonial photo, place this at /post_title_here/img
 # e.g. /mypost/img
 # testimonial_photo: ""
 
 # Author of testimonial
-testimonial_author: "Tiffany Hoback"
+# testimonial_author: "Tiffany Hoback"
 
 # Testimonial subtitle, usually position of the testimonial author
-testimonial_subtitle: "Executive Sponsor"
+# testimonial_subtitle: "Executive Sponsor"
 
 date: 2019-06-11T22:59:05-04:00
 draft: false
@@ -89,7 +89,7 @@ For example, according to US Census Data, one of the communities we included in 
 # Roles and Responsibilities
 I served as the de facto product designer for the project. I contracted with an outside consultanting group which included a product manager and a visual designer. I worked with other internat stakeholders including the company's executive team on a regular cadence.
 
-# Scope and Constraint
+# Scope and Constraints
 The executive team set the development budget for the project. During preliminary research before the project begain, I learned internal subject matter experts that the most effective training programs for the company's front line staff were delivered in an in person learning format. The operations team required that this program be delivered in a maximum of 15 minute segments--minimizing time away from job duties.
 
 # Process
@@ -119,11 +119,11 @@ Additional requiements:
 
 ![Page Excerpt Detail](/spark/img/SpLearnerGuideExcerptv6.png "Spark Page Excerpt Detail")
 
-# Developing a Prototype
+## Developing a Prototype
 A blue line of the facilitator guide, learner guide, and game board were developed.
 Drafts were circulated for feedback and markup by all stakeholder groups. 
 
-# Usability Testing and Iteration
+## Usability Testing and Iteration
 A prototype was developed for testing with users. A usability test was convene in one of the target facilities. All materials were tested live with a group of users from one of the facilities including participants. The design consultants and I captured user feedback on the materials.
 <br><br>
 We were pleased to observe that the participants use of the product seemed to be developing new connections between the users as co-workers. One user commented after completing the course, "We were having conversations that we didn't think we could have with one another."
