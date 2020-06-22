@@ -6,7 +6,7 @@ weight: 1
 title: "Web Design"
 
 # This is the description in the <head> tag
-description: "Officia quis exercitation dolor proident consequat et ullamco eu aliquip eiusmod commodo officia."
+description: "I gave the site a clean and professional look supported with a simple and effective UI."
 
 # This the heading of the navigation at the top of the case study
 nav_heading: "Web Design"
@@ -24,50 +24,50 @@ case_title: "Web Design"
 case_subtitle: "Tech for Campaigns"
 
 # This is the case description in the case studies section
-case_description: "Mollit non aute et qui exercitation Lorem culpa ea culpa laboris."
+case_description: "Campaign website for a state representative showcasing his story and track record for re-election, creating a space for volunteers and donors to support his campaign."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
 case_feature_img: "JHTopBanner.jpg"
 
 # This is the case summary in the case itself
-case_summary: "Ullamco est sunt nulla consectetur enim ut. Ipsum magna incididunt irure deserunt sint fugiat adipisicing sunt reprehenderit mollit consequat ea non adipisicing. Consequat duis cillum amet excepteur pariatur ex. Veniam nulla id in eiusmod elit. Lorem elit ex ex exercitation ex et deserunt."
+case_summary: "The Committe to Elect Jim Haadsma engaged Tech for Campaigns to redesign the website for Rep Haadsma as part of his campaign for re-election to the Michigan House of Representatives 62nd District. I served as the Designer on a team of volunteers contracted with Tech for Campaigns. Working in collaboration with the candidate and staff, our team developed a new website upgraded to showcase Jim’s story and track record for re-election as well as to create a space for volunteers and donors to support his campaign. We created a new website to support a full set of campaign tools including a donation form, volunteer sign up, and information related to COVID-19 in a way that  presents a professional and inviting look for potential volunteers, donors, and voters in his district."
 
 # Your team members
-# team: ["Alexis Collado", "Carlos Arcenas", "Kat Uytiepo", "John Palomo"]
+team: ["David Eisenmenger", "Jenny Marshall", "Laura Leebove", "Kenneth Lee"]
 
 # Roles of your team members
-# roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
+roles: ["Designer", "Product Manager", "Copywriter", "Engineer"]
 
 # Methods your team members used
-# methods: ["Sketching", "Mockups", "Guerilla Testing"]
+methods: ["Design", "Mockups", "Prototyping"]
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
 # Place your custom svgs into /static/svg
 button_links:
-    - link: "https://marvelapp.com/g4b64e/screen/14364499"
+    - link: "https://www.jimhaadsma.com"
       img: "eyeball.svg"
-      text: "View Prototype"
-    - link: "http://copenow.co/"
-      img: "eyeball.svg"
-      text: "View Landing Page"
-    - link: "cope.pdf"
-      img: "download.svg"
-      text: "Download Feature Sets"
+      text: "View Website"
+    # - link: "http://copenow.co/"
+    #   img: "eyeball.svg"
+    #   text: "View Landing Page"
+    # - link: "cope.pdf"
+    #   img: "download.svg"
+    #   text: "Download Feature Sets"
 
 # Testimonial text
-# testimonial: "Alexis designed everything for Cope from the ground up. What I really like about him is his true understanding and grasp of what makes a great UI great. He knows that the user experience needs a lot of refining from customers and he isn't shy to take feedback even if it's critical. Alexis is one of those rare people who just gets it."
+testimonial: "The site looks great. It was great to work with you all [on the team]."
 
 # Testimonial photo, place this at /post_title_here/img
 # e.g. /mypost/img
 # testimonial_photo: "john.jpg"
 
 # Author of testimonial
-# testimonial_author: "John Robert Palomo"
+testimonial_author: "Erin Lodes"
 
 # Testimonial subtitle, usually position of the testimonial author
-# testimonial_subtitle: "Co-founder, Cope"
+testimonial_subtitle: "Haadsma Campaign Manager"
 
 date: 2020-06-16T14:17:43-04:00
 draft: false
