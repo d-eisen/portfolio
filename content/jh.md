@@ -78,31 +78,31 @@ draft: false
 
 # The Design Challenge
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+The committee to elect Jim Haadsma wanted a new website for Jim’s upcoming campain for re-election to the Mighichan State House of Representatives 62nd District. The client was interested in a site the presented a professional and inviting look that emphasized Jim’s strengths as a candiate. The client also wanted to make available a full set of campain tools including a donation form and volunteer sign up.
 
 # Users and Audience
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+The primary audience for the site are voters in the 62nd Congressional District of Michigan which includes the cities of Battle Creek and Albion. Our primary audience of users to the site were potential volunteers, donors, or voters. A secondary user audience was the client, mainly campaign staff who would be updating the site after delivery.
 
 # Roles and Responsibilities
-
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
+I served as the Designer for the site leveraging my skills in user experience design and visual design.
 # Scope and Constraints
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
-
+One of the objectives of the project was to deliver a site that would allow for busy staff to update the site quickly and easily throughout the campaign. In order to accomplish this the team utilized a WordPress template that added minimal complexity to the existing WordPress content management system. As a designer I had to work with the design capabilities of the content management system that we would be delivering to the client.  
 # Process
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+The team lead collected very detailed requirements from the campain. In a kickoff meeting with the campain we heard from the candidate himeself and asked follow up questions of the campaign.
+I began began wireframing with paper and ink and moved quickly to a mockup using Sketch. I uploaded the mockup into InVision for a clickable prototype. From there the campain and all team members made two rounds of edits collected y by comments on the proptype. We moved to the development site from there, the engineer took the lead in devleping the site. I partnered with the engineer interpreting design specs  making edits in CSS.
+
+One of the client’s strengths as a candidate is his connection and credibility in the local community. 
+On the legislative Priorities page, I set each of the candidate’s five individual priority areas in context with images of the candidate that include people in the community.
 
 ![Priority Example](/jh/img/Priorities@2x@0.5x.jpg "Priority Example")
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur. 
+The updated Get Involved interface includes a clear call to action supported by buttons for making a donation as well as a form to contact the candidate’s office.
 
-<!-- ![Heading Title Sample](/jh/img/MeetJhSq.jpg "Heading Style Sample") -->
-<img src="/jh/img/MeetJhSq.jpg" alt="JhHeading" title="Heading Style Sample" id=JhHeadBl>
+*donation image here*
 
 # Outcomes and Lessons
 
-Et irure sunt quis do dolor sit id incididunt eiusmod exercitation. Sint ex esse elit ex aliqua. Dolore laboris sunt aute fugiat ipsum non quis est. Quis esse enim occaecat voluptate adipisicing minim reprehenderit do eiusmod minim. Occaecat et id esse officia deserunt non ullamco anim mollit amet excepteur.
+One of the strengths of the site is the way in which the photographs tell a clear story about the candidate. Working with such great images of the candidate meant that my role as the designer was to keep the UI and other design elements in balance with these images. Knowing that the site we ship must put a minimal burden on the staff to update meant utilizing a minimal plugin structure as the site was developed. Futhermore respecting the tight timeline and a smooth development process meant designing with the constraints of the development technology in mind. The campaign staff reported reporting being quite pleased with the staff. The site is live and has been celebrated with a kickoff event.
