@@ -87,10 +87,10 @@ For example, according to US Census Data, one of the communities we included in 
 ![Homestead, Florida Demographics](/spark/img/HomeFlaFBPopBLV3.png "Foreign Born Population Homestead")
 
 # Roles and Responsibilities
-I served as the de facto product designer for the project. I contracted with an outside consultanting group which included a product manager and a visual designer. I worked with other internat stakeholders including the company's executive team on a regular cadence.
+I served as the de facto product designer for the project. I contracted with an outside consulting group which included a product manager and a visual designer. I worked with other internat stakeholders including the company's executive team on a regular cadence.
 
 # Scope and Constraints
-The executive team set the development budget for the project. During preliminary research before the project begain, I learned internal subject matter experts that the most effective training programs for the company's front line staff were delivered in an in person learning format. The operations team required that this program be delivered in a maximum of 15 minute segments--minimizing time away from job duties.
+The executive team set the development budget for the project. During preliminary research before the project began, I learned internal subject matter experts that the most effective training programs for the company's front line staff were delivered in an in person learning format. The operations team required that this program be delivered in a maximum of 15 minute segments--minimizing time away from job duties.
 
 # Process
 ## User Research and Discovery
@@ -113,7 +113,7 @@ From this session the following requirements emerged:
 ![Game Board](/spark/img/ProviderSparkGameBoardFINALv2.png "Spark Game Board")
 
 <br>
-Additional requiements:
+Additional requirements:
 <li>Tie in  the organization's current service values with the teaching points on diversity and inclusion.</li>
 <li>Simple materials that are easily reproducible</li>
 
