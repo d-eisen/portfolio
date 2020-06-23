@@ -24,7 +24,7 @@ case_title: "User Experience Design"
 case_subtitle: "MedWater"
 
 # This is the case description in the case studies section
-case_description: "User experience research and design focused on developing a streamlined process for donations while adding functionality allowing users challenging other giving using social media."
+case_description: "User experience research and design focused on developing a streamlined process for user to donate while adding functionality for challenging others to give using social media."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
