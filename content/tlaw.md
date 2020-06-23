@@ -77,7 +77,7 @@ draft: false
 ---
 # The Design Challenge
 
-The client, Trenaman Law, wanted a new website that would present the organization as  a speciailized firm. The client sought updated branding that reflected his history as a judge, his connection to the community, and focused on his two areas of focus as a private practice attorney: personal injury and family. We outfitted the site with specific calls to action and features that allowed users to contact the firm to request consultation. 
+The client, Trenaman Law, wanted a new website that would present the organization as a specialized firm. The client sought updated branding that reflected his history as a judge, his connection to the community, and focused on his two areas of focus as a private practice attorney: personal injury and family. We outfitted the site with specific calls to action and features that allowed users to contact the firm to request consultation. 
 
 
 # Users and Audience
@@ -88,15 +88,15 @@ The primary users of the site are current and potential legal clients. The prima
 
 # Roles and Responsibilities
 
-I served as a freelance designer and Wordpress developer on a team that included a project manager and a logo designer. I participated in client meetings and design sessions.   
+I served as a freelance designer and WordPress developer on a team that included a project manager and a logo designer. I participated in client meetings and design sessions.   
 
 # Scope and Constraints
 
-The client had a specific vision for the site which was shared through sketches and copy. The client sought a single page site that provided specific information about his areas of pracitice and conveyed a sese of tradition and connection to the community. My role as designer  was to work within that vision seeking to maximate the effectiveness of the site while conveying the desired look and feel. 
+The client had a specific vision for the site which was shared through sketches and copy. The client sought a single page site that provided specific information about his areas of practice and conveyed a sense of tradition and connection to the community. My role as designer  was to work within that vision seeking to maximize the effectiveness of the site while conveying the desired look and feel. 
 
 # Process
 
-I met with the client and the the project manager for an initial creative session to gather requirements for the site. The client shared an initial sketch as well as his vision for the site. Based on these requirments the logo designer created logo assets approved by the client. With the logo and the client’s vision in mindm, I developed a hand sketch of the site which I shared with the team. I moved quickly to a mockup of the site laid out in Wordpress. We shared the mockup with the client and hosted a feedback session to gather final changes. 
+I met with the client and the the project manager for an initial creative session to gather requirements for the site. The client shared an initial sketch as well as his vision for the site. Based on these requirements the logo designer created logo assets approved by the client. With the logo and the client’s vision in mind, I developed a hand sketch of the site which I shared with the team. I moved quickly to a mockup of the site laid out in WordPress. We shared the mockup with the client and hosted a feedback session to gather final changes. 
 
 A sense of the client’s professional history was captured by adding a clickable gallery of photos from across the client’s professional career. 
 

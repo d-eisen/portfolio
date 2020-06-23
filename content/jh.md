@@ -31,7 +31,7 @@ case_description: "Campaign website for a state representative showcasing his st
 case_feature_img: "JHTopBanner.jpg"
 
 # This is the case summary in the case itself
-case_summary: "The Committe to Elect Jim Haadsma engaged Tech for Campaigns to redesign the website for Rep. Haadsma as part of his campaign for re-election to the Michigan House of Representatives, 62nd District. I served as the Designer on a team of volunteers contracted by Tech for Campaigns. Working in collaboration with the candidate and staff, our team developed an upgraded website to showcase Jim’s story and track record for re-election. This site also created a space for volunteers and donors to support his campaign. We developed a new website to support a full set of campaign tools including a donation form, volunteer sign up, and information related to COVID-19 in a way that presented a professional and inviting look for potential volunteers, donors, and voters in his district."
+case_summary: "The Committee to Elect Jim Haadsma engaged Tech for Campaigns to redesign the website for Rep. Haadsma as part of his campaign for re-election to the Michigan House of Representatives, 62nd District. I served as the Designer on a team of volunteers contracted by Tech for Campaigns. Working in collaboration with the candidate and staff, our team developed an upgraded website to showcase Jim’s story and track record for re-election. This site also created a space for volunteers and donors to support his campaign. We developed a new website to support a full set of campaign tools including a donation form, volunteer sign up, and information related to COVID-19 in a way that presented a professional and inviting look for potential volunteers, donors, and voters in his district."
 
 # Your team members
 team: ["David Eisenmenger", "Jenny Marshall", "Laura Leebove", "Kenneth Lee"]
@@ -78,7 +78,7 @@ draft: false
 
 # The Design Challenge
 
-The committee to elect Jim Haadsma wanted a new website for Jim’s upcoming campain for re-election to the Mighichan State House of Representatives 62nd District. The client was interested in a site the presented a professional and inviting look that emphasized Jim’s strengths as a candiate. The client also wanted to make available a full set of campain tools including a donation form and volunteer sign up.
+The committee to elect Jim Haadsma wanted a new website for Jim’s upcoming campaign for re-election to the Michigan State House of Representatives, 62nd District. The client was interested in a site the presented a professional and inviting look that emphasized Jim’s strengths as a candidate. The client also wanted to make available a full set of campaign tools including a donation form and volunteer sign up.
 
 # Users and Audience
 
@@ -91,8 +91,8 @@ I served as the Designer for the site leveraging my skills in user experience de
 One of the objectives of the project was to deliver a site that would allow for busy staff to update the site quickly and easily throughout the campaign. In order to accomplish this the team utilized a WordPress template that added minimal complexity to the existing WordPress content management system. As a designer I had to work with the design capabilities of the content management system that we would be delivering to the client.  
 # Process
 
-The team lead collected very detailed requirements from the campain. In a kickoff meeting with the campain we heard from the candidate himeself and asked follow up questions of the campaign.
-I began began wireframing with paper and ink and moved quickly to a mockup using Sketch. I uploaded the mockup into InVision for a clickable prototype. From there the campain and all team members made two rounds of edits collected y by comments on the proptype. We moved to the development site from there, the engineer took the lead in devleping the site. I partnered with the engineer interpreting design specs  making edits in CSS.
+The team lead collected very detailed requirements from the campaign. In a kickoff meeting with the campaign we heard from the candidate himself and asked follow up questions of the campaign.
+I began began wireframing with paper and ink and moved quickly to a mockup using Sketch. I uploaded the mockup into InVision for a clickable prototype. From there the campaign and all team members made two rounds of edits collected y by comments on the prototype. We moved to the development site from there, the engineer took the lead in developing the site. I partnered with the engineer interpreting design specs  making edits in CSS.
 
 One of the client’s strengths as a candidate is his connection and credibility in the local community. 
 On the legislative Priorities page, I set each of the candidate’s five individual priority areas in context with images of the candidate that include people in the community.
