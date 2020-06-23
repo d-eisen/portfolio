@@ -84,7 +84,7 @@ The client, Trenaman Law, wanted a new website that would present the organizati
 
 The primary users of the site are current and potential legal clients. The primary audience for the site are clients and members of the legal community.
 
-![TLawFrontCH](/tlaw/img/TLawFrontCH.jpg "Hero Image Courthouse")
+![TLawFrontJeff](/tlaw/img/TLawFrontJeff.jpg "Hero Image with Jefferson")
 
 # Roles and Responsibilities
 
@@ -106,10 +106,10 @@ A sense of the client’s professional history was captured by adding a clickabl
 Aware that most clients will access the information on a phone or tablet, design element were made responsive. Here is an example of the About Us section viewed at a width of 375 pixels, which the normal width of an iPhone 6: 
 
 ![About Us Responsive](/tlaw/img/AboutUsResponsive.jpg "About Us Responsive")
-<br>Practice areas were summarized and include a call to action to contact the attorney’s office. 
+<!-- <br>Practice areas were summarized and include a call to action to contact the attorney’s office.  -->
 
 
-![TLawFrontJeff](/tlaw/img/TLawFrontJeff.jpg "Hero Image with Jefferson")
+
 
 # Outcomes and Lessons
 
