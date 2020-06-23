@@ -24,14 +24,14 @@ case_title: "User Experience Design"
 case_subtitle: "MedWater"
 
 # This is the case description in the case studies section
-case_description: "MedWater is a humanitarian organization focused on water, sanitation, and hygiene for communities in the Amazon Basin."
+case_description: "User experience research and design focused on developing a streamlined process for donations while adding functionality allowing users challenging other giving using social media."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
 case_feature_img: "WWLandingPgV3LG.png"
 
 # This is the case summary in the case itself
-case_summary: "MedWater is a humanitarian nongovernmental organization (NGO) focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and the United States. The site is focused on supporting the organization's social media channels as a landing page for the organization. The redesign of the site allows users to donate to the organization in a streamlined process while adding functionality allowing users to raise funds for the organization by challenging other people using social media. "
+case_summary: "MedWater is a humanitarian nongovernmental organization (NGO) focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and in the United States. The site is focused on supporting the organization's social media channels as well as serving as a landing page for the organization. I developed a prototype that allows users to donate to the organization in a streamlined process while adding functionality allowing users to raise funds for the organization by challenging other people using social media."
 
 # Your team members
 team: ["David Eisenmenger"]
