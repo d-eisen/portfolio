@@ -24,14 +24,14 @@ case_title: "WordPress Development"
 case_subtitle: "Trenaman Law"
 
 # This is the case description in the case studies section
-case_description: "This delivered updated branding that reflected the client's judicial career, his connection to the community, and focused on his two areas of private practice."
+case_description: "A site designed with fresh branding emphasizing the client's judicial career in service to the community and highlighting his areas of specialized practice. 
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
 case_feature_img: "TLawFrontCH.jpg"
 
 # This is the case summary in the case itself
-case_summary: "The client, Trenaman Law, sought a freelancer to design and develop a new website that would help position the organization as a specialized firm. The new website was an update from the client’s previous site developed for his campaign for re-election as District Court Judge. A new site was developed that included fresh branding and a focus on the client’s two areas of private practice. The look and feel of the site emphasizes the clien’t history as a judge and his connection to the community. The design includes elements that make make clear the firm’s ares of practice and provide tools for users to more easily contact the firm ."
+case_summary: "The client, Trenaman Law, sought a freelancer to design and develop a new website that would help position the organization as a specialized firm. The new website was an update from the client’s previous site developed for his campaign for re-election as District Court Judge. A new site was developed that included fresh branding and a focus on the client’s two areas of private practice. The look and feel of the site emphasizes the client's history as a judge and his connection to the community. The design includes elements that make make clear the firm’s ares of practice and provide tools for users to more easily contact the firm ."
 
 # Your team members
 team: ["David Eisenmenger", "Kyle Thatch", "Raffi Tarpinian"]
