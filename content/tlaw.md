@@ -3,22 +3,22 @@
 weight: 2
 
 # This is what appears as the tab's title
-title: "Web Design & Development"
+title: "WordPress Development"
 
 # This is the description in the <head> tag
 description: "Being empathetic to the client’s vision, I led the design and development of the new website."
 
 # This the heading of the navigation at the top of the case study
-nav_heading: "Web Design & Development"
+nav_heading: "WordPress Development"
 
 # This is what appears in the case studies section, place this image at the //img folder
 thumbnail: "TLawJefSq.jpg"
 
 # This is the title of the case study in the case studies section
-case_short_title: "Web Design & Development"
+case_short_title: "WordPress Development"
 
 # This is the title of the case study in the case study page
-case_title: "Web Design & Development"
+case_title: "WordPress Development"
 
 # This is the subtitle of the case study in the case studies section and the case study page
 case_subtitle: "Trenaman Law"
