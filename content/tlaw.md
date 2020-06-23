@@ -115,5 +115,5 @@ Practice areas were summarized and include a call to action to contact the attor
 The client was pleased with the design’s fulfillment of their vision for the site. As the the court system begins to recover from the disruption of COVID-19 clearing its’ backlog of cases the client anticipates that increased traffic to the site as new clients are able to have cases heard. 
 
 
-![TLAWThumb03](/tlaw/img/TLAWThumb03@0.75x.jpg "Hero Image Medium")
-![TLAWThumb04](/tlaw/img/TLAWThumb04@0.75x.jpg "Hero Image Medium")
+<!-- ![TLAWThumb03](/tlaw/img/TLAWThumb03@0.75x.jpg "Hero Image Medium")
+![TLAWThumb04](/tlaw/img/TLAWThumb04@0.75x.jpg "Hero Image Medium") -->
