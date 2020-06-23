@@ -12,7 +12,7 @@ description: "I set a direction for the re-design of the product and crafted and
 nav_heading: "User Experience Design"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
-thumbnail: "WWLandingPgV3LG.png"
+thumbnail: "MWMobileMockup.jpg"
 
 # This is the title of the case study in the case studies section
 case_short_title: "User Experience Design"
@@ -28,7 +28,7 @@ case_description: "User experience research and design focused on developing a s
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
-case_feature_img: "WWLandingPgV3LG.png"
+case_feature_img: "MWMobileMockup@2x.jpg"
 
 # This is the case summary in the case itself
 case_summary: "MedWater is a humanitarian nongovernmental organization (NGO) focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and in the United States. The site is focused on supporting the organization's social media channels as well as serving as a landing page for the organization. I developed a prototype that allows users to donate to the organization in a streamlined process while adding functionality allowing users to raise funds for the organization by challenging other people using social media."
@@ -158,9 +158,9 @@ Following a Lean methodology, I developed the content strategy based on **user s
 
 <p>Below is an example a user flow based on this story. This flow takes the user from the site's landing page to a completed donation.
 
-![User Flow High Fidelity](/mw/img/WWUserFlowsHiFi_Page_2V2.png "User flow: From landing page to donation.")
+![User Flow High Fidelity](/mw/img/MedWaterUserFlowsHiFi_Page_2.jpg "User flow: From landing page to donation.")
 
-![User Flow High Fidelity 1](/mw/img/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1") *User flow high fidelity: Landing Page to Create Account*
+<!-- ![User Flow High Fidelity 1](/mw/img/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1") *User flow high fidelity: Landing Page to Create Account* -->
 
 ### Wireframing
 Based on my sketches I developed a low fidelity wireframe of the site. Using the Sketch application I began to sequence the screens into a few different flows based on the user story "As a user, I want to make a donation to the organization so that I can support the organization financially."
