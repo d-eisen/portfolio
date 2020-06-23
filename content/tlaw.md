@@ -24,7 +24,7 @@ case_title: "WordPress Development"
 case_subtitle: "Trenaman Law"
 
 # This is the case description in the case studies section
-case_description: "Design and development of a new website for an established law practice. The site includes fresh branding and new tools for current and  potential clients" 
+case_description: "Design and WordPress development of a new website for client with an established law practice. The updated site includes fresh branding and new tools useful for current and  potential clients." 
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
