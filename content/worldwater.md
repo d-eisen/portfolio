@@ -9,7 +9,7 @@ title: "WorldWater | David Eisenmenger"
 description: "I set a direction for the re-design of the product and crafted and tested a functioning prototype for development."
 
 # This the heading of the navigation at the top of the case study
-nav_heading: "WorldWater SHORT"
+nav_heading: "WorldWater LONG"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
 thumbnail: "WWLandingPgV3LG.png"
@@ -70,7 +70,7 @@ testimonial_author: "Darrell Adams"
 testimonial_subtitle: "Co-founder, WorldWater"
 
 date: 2019-07-18T17:48:35-04:00
-draft: false
+draft: true
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---

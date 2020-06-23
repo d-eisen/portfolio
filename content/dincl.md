@@ -70,7 +70,7 @@ testimonial_author: "Grace Simrall"
 testimonial_subtitle: "Chief of Civic Innovation and Technology for Louisville Metro Government "
 
 date: 2019-07-18T20:43:14-04:00
-draft: false
+draft: true
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
