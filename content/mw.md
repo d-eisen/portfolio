@@ -31,7 +31,7 @@ case_description: "User experience research and design focused on developing a s
 case_feature_img: "MWMobileMockup@2x.jpg"
 
 # This is the case summary in the case itself
-case_summary: "MedWater is a humanitarian nongovernmental organization (NGO) focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and in the United States. The site is focused on supporting the organization's social media channels as well as serving as a landing page for the organization. I developed a prototype that allows users to donate to the organization in a streamlined process while adding functionality allowing users to raise funds for the organization by challenging other people using social media."
+case_summary: "MedWater is a humanitarian nongovernmental organization (NGO) focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and in the United States. The site is focused on supporting the organization's social media channels as well as serving as a landing page for the organization. I developed a prototype that allows users to donate to the organization in a streamlined process.  Additionally I added functions allowing users to raise funds for the organization by challenging other people by leveraging social media."
 
 # Your team members
 team: ["David Eisenmenger"]
@@ -75,19 +75,19 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 # The Design Challenge
-A non governmental organization (NGO) named MedWater asked me to redesign their current website. The organization’s goal was to increase giving and engagement through their site. Based on user research we found that two ways in which users report most frequently interacting with organization online is to give financially and to share on social media. I designed a mobile first prototype that streamlines the giving process and leverages social media to allow users to challenge others to give the organization.
+A non governmental organization (NGO) named MedWater asked me to redesign their current website. The organization’s goal was to increase giving and engagement through their site. Based on user research, we found that two ways that users report most frequently interacting with organization online is to give financially and to share on social media. I designed a mobile-first prototype that streamlines the giving process and leverages social media to allow users to challenge others to give to the organization.
 
 # Roles and Responsibilities
 I served as a user experience team of one. Working with the client, I initiated research, synthesized the results, ideated and developed initial designs. I developed an initial prototype and performed usability testing.
 
 
 # Scope and Constraints
-Although the initial proposal from the organization was focused on a redesign of their website, the scope of the project was narrowed to focus on developing a prototype that would help the client to test it's donation process.
+Although the initial proposal from the organization was focused on a redesign of their website, the scope of the project was narrowed to focus on developing a prototype that would help the client to test the donation process.
 
 # Users and Audience
 ## Research: Survey and Interviews
 ### Survey: Participant involvement in organizations had mixed results
-I began with user research. Our hypothesis was that user giving and engagement could be increased by leveraging people's connection to the organization. I performed qualitative primary research using an online survey and in person interviews. 
+I began with user research. Our hypothesis was that user giving and engagement could be increased by leveraging people's connection to the organization. I performed qualitative primary research using an online survey and in-person interviews. 
 
 I wanted to interview people who were currently involved with NGOs. A survey was completed by 16 participants who reported being involved with at least one nonprofit organization as a supporter or volunteer at some time in the last twelve months.
 
@@ -95,7 +95,7 @@ In the survey I asked people to indicate the particular ways that they have been
 
 ![Chart NGO Involvement Vector](/mw/img/NonprofitInvolvmentV8.svg "Chart: NGO Involvement")
 
-From these findings we were observed that the results showed that among the top three ways that people reported being involved with an organization, were related to giving financially and sharing about the organization on social media.
+From these findings, we observed that "giving financially" and "sharing about the organization on social media" were among the most frequent ways that people reported being involved with an organization.
 
 Based on these findings, the research seemed to signal that **leveraging social media** could serve as a means to **expand giving.** My thought process followed that if we knew that users were likely to give to an organization and also likely to share an organization's content on social media, perhaps there was a way to directly bridge these two activities.
 
