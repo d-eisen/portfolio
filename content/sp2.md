@@ -58,17 +58,17 @@ button_links:
     #   text: "Download Feature Sets"
 
 # Testimonial text
-# testimonial: "Our organization had talked about developing a diversity and inclusion program for a long time. David took the entire project from concept to implementation. He partnered both internally and externally and delivered a great product to our team."
+testimonial: "Our organization had talked about developing a diversity and inclusion program for a long time. David took the entire project from concept to implementation. He partnered both internally and externally and delivered a great product to our team."
 
 # Testimonial photo, place this at /post_title_here/img
 # e.g. /mypost/img
 # testimonial_photo: ""
 
 # Author of testimonial
-# testimonial_author: "Tiffany Hoback"
+testimonial_author: "Tiffany Hoback"
 
 # Testimonial subtitle, usually position of the testimonial author
-# testimonial_subtitle: "Executive Sponsor"
+testimonial_subtitle: "Executive Sponsor"
 
 date: 2019-06-11T22:59:05-04:00
 draft: false
