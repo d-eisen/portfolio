@@ -23,7 +23,7 @@ case_title: "Product Design"
 case_subtitle: "Provider LTC"
 
 # This is the case description in the case studies section
-case_description: "Spark is an in person training module for diversity and inclusion that uses gamification and storytelling to encourage empathy building and inclusion."
+case_description: "Spark is an in-person training module for diversity and inclusion that uses gamification and storytelling to encourage empathy building and inclusion."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
