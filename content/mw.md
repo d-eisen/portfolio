@@ -99,14 +99,15 @@ From these findings, we observed that "giving financially" and "sharing about th
 
 Based on these findings, the research seemed to signal that **leveraging social media** could serve as a means to **expand giving.** My thought process followed that if we knew that users were likely to give to an organization and also likely to share an organization's content on social media, perhaps there was a way to directly bridge these two activities.
 
-One finding from the survey that was potentially concerning was related to participants' seeming **low interest** in developing **new involvements** with organizations. 
+One finding from the survey that was potentially concerning was related to seeming **low interest** in developing **new involvements** with organizations. 
 
 ![Chart Likelihood](/mw/img/LikelihoodV7.svg "Chart: Likelihood")
 
-When asked the question, "In the next six months how likely are you to be involved in another organization?"  only 26% of survey participants gave a response that would be categorized as a favorable response of "Extremely Likely" or "Very Likely". I was concerned that this could be a **potential barrier** to attracting new users. This finding would be something I would **explore** more deeply during **user interviews**. My thought process was that If there was some resistance to new involvements on the part of users, then perhaps something in the interviews would indicate what might afford users to override this perceived resistance and engage new involvements.
+When asked the question, "In the next six months, how likely are you to be involved in another organization?"  only 26% of survey participants gave a response that would be categorized as a favorable response of "Extremely Likely" or "Very Likely". I was concerned that this could be a **potential barrier** to attracting new users. This finding would be something I would **explore** more deeply during **user interviews**. 
+<!-- My thought process was "if there was some resistance to new involvements on the part of users, then perhaps something in the interviews would indicate what might afford users to override this perceived resistance and engage new involvements. -->
 
 ## Interviews: Personal Connections are Important to Users
-I conducted in person interviews with a group of people who were also survey respondents. I wanted to dig more deeply on couple of important questions:<br>
+I conducted in-person interviews with a group of people who were also survey respondents. I wanted to dig more deeply into a couple of important questions:<br>
 1. What do organizations do that draw you in? 
 2. What are the pain points associated with their experience of NGOS? 
 From the survey, it was inferred that users may be reluctant to develop new involvements with organizations. In the interviews, I asked users what **draws** users to become involved with the organizations. I also asked users what were their **pain points** of being involved with organizations.
@@ -115,10 +116,10 @@ From the survey, it was inferred that users may be reluctant to develop new invo
 Participants responded that they became drawn initially to organizations through **recommendations from people that they know**. When I asked participants what organizations did to continue to draw them in as volunteer or donors, they emphasized that **alignment of their personal values** with **organization's values** drew them in.
 
 ## Pain Points
-I also asked participants what were their pain points associated with being involved with organizations. The two pain points that users identified were related to time. Users reported having difficulty being involved with organizations due to **having limited time to give**, others reported feeling that in the past **organizations had made poor use of their time**.
+I also asked participants about their pain points associated with being involved with organizations. The two pain-points that users identified were related to time. Users reported having difficulty being involved with organizations due to **having limited time to give**, others reported feeling that in the past **organizations had made poor use of their time**.
 
 ## Competitive Analysis
-I performed some brief competitive analysis reviewing the websites of some organizations with a similar mission to MedWater. Keeping in mind the findings that users frequently *gave financially to organizations*, and that one of users paint points related to *use of time*, I observed how competing sites responded to these needs. For example, competitors often place a call to action to donate in accessible location on that was persistent across pages. This feature met the users need to donate and offered that opportunity with minimum cognitive load to find the feature.
+I performed some brief competitive analysis reviewing the websites of some organizations with a similar mission to MedWater. Keeping in mind the findings that users frequently *gave financially to organizations* and that one of users paint points was related to *use of time*, I observed how competing sites responded to these needs. For example, competitors often place a call to action to donate in accessible location on that was persistent across pages. This feature met the users' need to donate and offered that opportunity with minimum cognitive load to find the feature.
 
 # Process
 ## Discovery: Insights, Personas, Empathy Maps
