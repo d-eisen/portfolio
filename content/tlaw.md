@@ -92,18 +92,18 @@ I served as a freelance designer and WordPress developer on a team that included
 
 # Scope and Constraints
 
-The client had a specific vision for the site which was shared through sketches and copy. The client sought a single page site that provided specific information about his areas of practice and conveyed a sense of tradition and connection to the community. My role as designer  was to work within that vision seeking to maximize the effectiveness of the site while conveying the desired look and feel. 
+The client had a specific vision for the site which was shared through sketches and copy. The client sought a single page site that provided specific information about his areas of practice and conveyed a sense of tradition and connection to the community. My role as designer  was to work within that vision, seeking to maximize the effectiveness of the site while conveying the desired look and feel. 
 
 # Process
 
-I met with the client and the the project manager for an initial creative session to gather requirements for the site. The client shared an initial sketch as well as his vision for the site. Based on these requirements the logo designer created logo assets approved by the client. With the logo and the client’s vision in mind, I developed a hand sketch of the site which I shared with the team. I moved quickly to a mockup of the site laid out in WordPress. We shared the mockup with the client and hosted a feedback session to gather final changes. 
+I met with the client and the the project manager for an initial creative session to gather requirements for the site. The client shared an initial sketch as well as his vision for the site. Based on these requirements, the logo designer created logo assets that were approved by the client. With the logo and the client’s vision in mind, I developed a hand sketch of the site which I shared with the team. I moved quickly to a mockup of the site laid out in WordPress. We shared the mockup with the client and hosted a feedback session to gather final changes. 
 
 A sense of the client’s professional history was captured by adding a clickable gallery of photos from across the client’s professional career. 
 
 ![TLawInnerAbout](/tlaw/img/TLawInnerAbout.jpg "About Mason")
 
 
-Aware that most clients will access the information on a phone or tablet, design element were made responsive. Here is an example of the About Us section viewed at a width of 375 pixels, which the normal width of an iPhone 6: 
+Aware that most clients will access the information on a phone or tablet, design elements were made responsive. Here is an example of the About Us section viewed at a width of 375 pixels, which the normal width of an iPhone 6: 
 
 ![About Us Responsive](/tlaw/img/AboutUsResponsive.jpg "About Us Responsive")
 <!-- <br>Practice areas were summarized and include a call to action to contact the attorney’s office.  -->
@@ -113,7 +113,7 @@ Aware that most clients will access the information on a phone or tablet, design
 
 # Outcomes and Lessons
 
-The client was pleased with the design’s fulfillment of their vision for the site. As the the court system begins to recover from the disruption of COVID-19 clearing its’ backlog of cases the client anticipates that increased traffic to the site as new clients are able to have cases heard. 
+The client was pleased with the design’s fulfillment of their vision for the site. As the the court system begins to recover from the disruption of COVID-19, clearing a backlog of cases, the client anticipates that increased traffic to the site as new clients are able to have cases heard. 
 
 
 <!-- ![TLAWThumb03](/tlaw/img/TLAWThumb03@0.75x.jpg "Hero Image Medium")
