@@ -3,25 +3,25 @@
 weight: 3
 
 # This is what appears as the tab's title
-title: "MedWater | David Eisenmenger"
+title: "User Experience Design"
 
 # This is the description in the <head> tag
 description: "I set a direction for the re-design of the product and crafted and tested a functioning prototype for development."
 
 # This the heading of the navigation at the top of the case study
-nav_heading: "MedWater"
+nav_heading: "User Experience Design"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
 thumbnail: "WWLandingPgV3LG.png"
 
 # This is the title of the case study in the case studies section
-case_short_title: "MedWater"
+case_short_title: "User Experience Design"
 
 # This is the title of the case study in the case study page
-case_title: "MedWater"
+case_title: "User Experience Design"
 
 # This is the subtitle of the case study in the case studies section and the case study page
-case_subtitle: "User Experience Design"
+case_subtitle: "MedWater"
 
 # This is the case description in the case studies section
 case_description: "MedWater is a humanitarian organization focused on water, sanitation, and hygiene for communities in the Amazon Basin."
@@ -74,39 +74,15 @@ draft: false
 
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
-# The Problem
-A non governmental organization (NGO) named MedWater asked me to redesign their current website. The organization's goal was to increase giving and engagement through their site and attract new users.  
-# The Solution
-I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
-
 # The Design Challenge
-
-A non governmental organization (NGO) named MedWater asked me to redesign their current website. The organization’s goal was to increase giving and engagement through their site. Based on user research we found that two ways in which users report most frequently interacting with organization online is to give financially and to share on social media. I designed a mobile first prototype that streamlines the giving process and leverages social media to allow users to challenge others to give the orgnaization.
-
-
-
-
-
-
+A non governmental organization (NGO) named MedWater asked me to redesign their current website. The organization’s goal was to increase giving and engagement through their site. Based on user research we found that two ways in which users report most frequently interacting with organization online is to give financially and to share on social media. I designed a mobile first prototype that streamlines the giving process and leverages social media to allow users to challenge others to give the organization.
 
 # Roles and Responsibilities
-
+I served as a user experience team of one. Working with the client, I initiated research, synthesized the results, ideated and developed initial designs. I developed an initial prototype and performed usability testing.
 
 
 # Scope and Constraints
-
-
-
-# Process
-
-
-
-
-
-
-# Outcomes and Lessons
-
-
+Although the initial proposal from the organization was focused on a redesign of their website, the scope of the project was narrowed to focus on developing a prototype that would help the client to test it's donation process.
 
 # Users and Audience
 ## Research: Survey and Interviews
@@ -143,7 +119,9 @@ I also asked participants what were their pain points associated with being invo
 
 ## Competitive Analysis
 I performed some brief competitive analysis reviewing the websites of some organizations with a similar mission to MedWater. Keeping in mind the findings that users frequently *gave financially to organizations*, and that one of users paint points related to *use of time*, I observed how competing sites responded to these needs. For example, competitors often place a call to action to donate in accessible location on that was persistent across pages. This feature met the users need to donate and offered that opportunity with minimum cognitive load to find the feature.
-# Discovery: Insights, Personas, Empathy Maps
+
+# Process
+## Discovery: Insights, Personas, Empathy Maps
 As I reviewed the findings from the research as a whole, one of the key insights was that users may be likely to afford new involvement with a organization if: <br>
 1. they were referred by a **personal connection**  
 2. their experience with the organization's site would be **convenient and efficient** in helping users meet their goals.
@@ -164,16 +142,16 @@ I also wanted to begin to predict how users might behave when using the site. To
 
 ![Empathy Map Shawn](/mw/img/EmpathyMap02V5.png "Empathy Map Shawn")
 
-# Information Architecture: Card Sort and Site Map
-## Card Sort
+## Information Architecture: Card Sort and Site Map
+### Card Sort
 Based upon insight from research, the personas, and the empathy maps, I wanted to learn what would be the most intuitive way to organize the site from the user's perspective. I engaged a card sort activity to help answer this question. An open card sort evaluates a website’s **content strategy** by asking participants in study to sort cards with tasks associated with the website into categories that make sense to the user. The results of the study including the categories, cards, and participant comments were analyzed and evaluated. 
 
-## Site Map
+### Site Map
 I designed a site map based on the results of the card sort activity. I completed an initial hand drawn sketch of the site map to begin the design process. Since my directive was to develop a minimally viable product, I knew that the prototype would not necessarily need to have each section of the site fully developed, however a sound content strategy would include a comprehensive site map.
 
-# Design: User Flows, Sketching, and Wire framing
+## Design: User Flows, Sketching, and Wire framing
 
-## User Stories and Flows
+### User Stories and Flows
 Following a Lean methodology, I developed the content strategy based on **user stories**. User stories are a basic statement that indicates a users basic goals and motivation behind that goal. One of the primary user stories that were identified by the initial design problem and further clarified by research and insight activities were related to making a gift to the organization and connecting with others on social media. 
 <ul>"As a user, I want to make a donation to the organization so that I can support the organization financially."</ul>
 <p>Based on this user story I developed a few simple user flows that illustrate the process that user would follow on the site to reach their goal.
@@ -184,7 +162,7 @@ Following a Lean methodology, I developed the content strategy based on **user s
 
 ![User Flow High Fidelity 1](/mw/img/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1") *User flow high fidelity: Landing Page to Create Account*
 
-## Wireframing
+### Wireframing
 Based on my sketches I developed a low fidelity wireframe of the site. Using the Sketch application I began to sequence the screens into a few different flows based on the user story "As a user, I want to make a donation to the organization so that I can support the organization financially."
 <br>
 <br>
@@ -196,18 +174,18 @@ Here is the screen flow from the landing page to making an individual donation. 
 
 ![Wire Frame 3](/mw/img/Single1C.png  "Wire Frame: Landing Page to Single Donation 3 of 3") 
 
-# Development: Low Fidelity Prototype
+## Development: Low Fidelity Prototype
 I did some quick guerilla testing of the wireframes with a couple of users to screen for any major usability issues. Having received positive feedback from testers, I moved to developing a low fidelity prototype. The <a href="https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D">prototype</a> was developed in Balsamiq and Sketch. It simulates the login process and various flows related to making donations and engaging the site's challenge features. Some areas of the site outside of the MVP have a placeholder that is clearly marked within the experience. The low fidelity version does not contain the full color pallette and styling of the site in order to allow users and testers to focus on the screen layout and process flow. 
 
 [![Prototype](/mw/img/LandingPg.png)](https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D)
 
-# Iteration: Usability Study and Feedback
-## Usability Study
+## Iteration: Usability Study and Feedback
+### Usability Study
 I conducted in person usability tests using a prototype of the MedWater site accessed by the user on their laptop or mine. Participants were asked to complete four tasks using the clickable prototype. They were instructed to work independently on the assigned tasks, moving as close to completion as possible. While completing the tasks, users were asked to think aloud, sharing their process verbally. As participants completed the process, I recorded their comments and made note of their actions. Upon completion of the tests a report was completed and given to the client.
 
 <!-- ![Usability Report Cover Page](/mw/img/MWUsabilityTestReport_Page_1.png "Usability Test Report") -->
-
-## Feedback and Recommendations
+# Outcomes and Lessons
+### Feedback and Recommendations
 As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
 <ul>
 <li>Some users found the prototype’s Facebook login sequence to have too many steps.</li>
@@ -221,9 +199,9 @@ Based on the findings of the study, the following recommendations were made rega
 <li>Create options for receiving updates without creating a full account</li>
 </ol> 
  
-# Next Steps
+## Next Steps
 
-The next steps are to build a high fidelity prototype in InVision to simulate the micro interactions. An additional round of user testing and rapid iteration will follow and the prototype will be ready for development. The next iteration will include the site's blog content as well as a help section including frequently asked questions. 
+The next steps are to build a high fidelity prototype. Following an additional round of user testing and rapid iteration will follow and the prototype will be ready for development. The next iteration of the site would likely include the site's blog content as well as a help section including frequently asked questions. 
 
 The most significant challenge so far has been the integration with social media. Venmo currently provides limited access to its API, therefore seamless integration with the platform may be a challenge for development. 
 
