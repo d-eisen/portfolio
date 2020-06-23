@@ -3,35 +3,35 @@
 weight: 3
 
 # This is what appears as the tab's title
-title: "WorldWater | David Eisenmenger"
+title: "MedWater | David Eisenmenger"
 
 # This is the description in the <head> tag
 description: "I set a direction for the re-design of the product and crafted and tested a functioning prototype for development."
 
 # This the heading of the navigation at the top of the case study
-nav_heading: "WorldWater SHORT"
+nav_heading: "MedWater"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
 thumbnail: "WWLandingPgV3LG.png"
 
 # This is the title of the case study in the case studies section
-case_short_title: "WorldWater SHORT"
+case_short_title: "MedWater"
 
 # This is the title of the case study in the case study page
-case_title: "WorldWater SHORT"
+case_title: "MedWater"
 
 # This is the subtitle of the case study in the case studies section and the case study page
 case_subtitle: "User Experience Design"
 
 # This is the case description in the case studies section
-case_description: "WorldWater is a humanitarian organization focused on water, sanitation, and hygiene for communities in the Amazon Basin."
+case_description: "MedWater is a humanitarian organization focused on water, sanitation, and hygiene for communities in the Amazon Basin."
 
 # This is the featured image of the case, place this image at /post_title_here/img folder
 # e.g. /mypost/img
 case_feature_img: "WWLandingPgV3LG.png"
 
 # This is the case summary in the case itself
-case_summary: "WorldWater is a humanitarian nongovernmental organization (NGO) focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and the United States. The site is focused on supporting the organization's social media channels as a landing page for the organization. The redesign of the site allows users to donate to the organization in a streamlined process while adding functionality allowing users to raise funds for the organization by challenging other people using social media. The organization's name has been replaced with a placeholder name: WorldWater"
+case_summary: "MedWater is a humanitarian nongovernmental organization (NGO) focused on empowering communities to manage their public health infrastructure. Their primary operations are in the Amazon Basin and the United States. The site is focused on supporting the organization's social media channels as a landing page for the organization. The redesign of the site allows users to donate to the organization in a streamlined process while adding functionality allowing users to raise funds for the organization by challenging other people using social media. "
 
 # Your team members
 team: ["David Eisenmenger"]
@@ -67,7 +67,7 @@ testimonial: "David has helped us to realize our vision for this site. His work 
 testimonial_author: "Darrell Adams"
 
 # Testimonial subtitle, usually position of the testimonial author
-testimonial_subtitle: "Co-founder, WorldWater"
+testimonial_subtitle: "Co-founder, MedWater"
 
 date: 2019-07-18T17:48:35-04:00
 draft: false
@@ -75,16 +75,16 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 # The Problem
-A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization's goal was to increase giving and engagement through their site and attract new users.  
+A non governmental organization (NGO) named MedWater asked me to redesign their current website. The organization's goal was to increase giving and engagement through their site and attract new users.  
 # The Solution
 I designed a minimal viable product utilizing mobile first design that streamlines the giving process and leverages social media to allow users to engage others in giving. This is accomplished through allowing users to initiate fundraising challenges via Facebook and Venmo.
 
-# The Design Challengedated
+# The Design Challenge
 
-A non governmental organization (NGO) named WorldWater asked me to redesign their current website. The organization’s goal was to increase giving and engagement through their site. Based on user research we found that two ways in which users report most frequently interacting with organization online is to give financially and to share on social media. I designed a mobile first prototype that streamlines the giving process and leverages social media to allow users to challenge others to give the orgnaization.
+A non governmental organization (NGO) named MedWater asked me to redesign their current website. The organization’s goal was to increase giving and engagement through their site. Based on user research we found that two ways in which users report most frequently interacting with organization online is to give financially and to share on social media. I designed a mobile first prototype that streamlines the giving process and leverages social media to allow users to challenge others to give the orgnaization.
 
 
-# Users and Audience
+
 
 
 
@@ -108,8 +108,9 @@ A non governmental organization (NGO) named WorldWater asked me to redesign thei
 
 
 
-# Research: Survey and Interviews
-## Survey: Participant involvement in organizations had mixed results
+# Users and Audience
+## Research: Survey and Interviews
+### Survey: Participant involvement in organizations had mixed results
 I began with user research. Our hypothesis was that user giving and engagement could be increased by leveraging people's connection to the organization. I performed qualitative primary research using an online survey and in person interviews. 
 
 I wanted to interview people who were currently involved with NGOs. A survey was completed by 16 participants who reported being involved with at least one nonprofit organization as a supporter or volunteer at some time in the last twelve months.
@@ -141,7 +142,7 @@ Participants responded that they became drawn initially to organizations through
 I also asked participants what were their pain points associated with being involved with organizations. The two pain points that users identified were related to time. Users reported having difficulty being involved with organizations due to **having limited time to give**, others reported feeling that in the past **organizations had made poor use of their time**.
 
 ## Competitive Analysis
-I performed some brief competitive analysis reviewing the websites of some organizations with a similar mission to WorldWater. Keeping in mind the findings that users frequently *gave financially to organizations*, and that one of users paint points related to *use of time*, I observed how competing sites responded to these needs. For example, competitors often place a call to action to donate in accessible location on that was persistent across pages. This feature met the users need to donate and offered that opportunity with minimum cognitive load to find the feature.
+I performed some brief competitive analysis reviewing the websites of some organizations with a similar mission to MedWater. Keeping in mind the findings that users frequently *gave financially to organizations*, and that one of users paint points related to *use of time*, I observed how competing sites responded to these needs. For example, competitors often place a call to action to donate in accessible location on that was persistent across pages. This feature met the users need to donate and offered that opportunity with minimum cognitive load to find the feature.
 # Discovery: Insights, Personas, Empathy Maps
 As I reviewed the findings from the research as a whole, one of the key insights was that users may be likely to afford new involvement with a organization if: <br>
 1. they were referred by a **personal connection**  
@@ -169,9 +170,6 @@ Based upon insight from research, the personas, and the empathy maps, I wanted t
 
 ## Site Map
 I designed a site map based on the results of the card sort activity. I completed an initial hand drawn sketch of the site map to begin the design process. Since my directive was to develop a minimally viable product, I knew that the prototype would not necessarily need to have each section of the site fully developed, however a sound content strategy would include a comprehensive site map.
-![Site Map Low Fidelity](/mw/img/MwSiteMapLoFiCropped.png"Site Map Low Fidelity")
-
-I moved quickly to develop a higher fidelity site map that included some early rendering of the screen flows associated with particular actions on the site. 
 
 # Design: User Flows, Sketching, and Wire framing
 
@@ -183,8 +181,6 @@ Following a Lean methodology, I developed the content strategy based on **user s
 <p>Below is an example a user flow based on this story. This flow takes the user from the site's landing page to a completed donation.
 
 ![User Flow High Fidelity](/mw/img/WWUserFlowsHiFi_Page_2V2.png "User flow: From landing page to donation.")
-
-![User Flow Low Fidelity](/mw/img/UserFlowLoFi_Page_2.jpg "User Flow Low Fidelity") *User flow sketch: Landing Page to Create Account*
 
 ![User Flow High Fidelity 1](/mw/img/MedWaterUserFlowsHiFi_Page_1.jpg "User Flow High Fidelity 1") *User flow high fidelity: Landing Page to Create Account*
 
@@ -207,9 +203,9 @@ I did some quick guerilla testing of the wireframes with a couple of users to sc
 
 # Iteration: Usability Study and Feedback
 ## Usability Study
-I conducted in person usability tests using a prototype of the WorldWater site accessed by the user on their laptop or mine. Participants were asked to complete four tasks using the clickable prototype. They were instructed to work independently on the assigned tasks, moving as close to completion as possible. While completing the tasks, users were asked to think aloud, sharing their process verbally. As participants completed the process, I recorded their comments and made note of their actions. Upon completion of the tests a report was completed and given to the client.
+I conducted in person usability tests using a prototype of the MedWater site accessed by the user on their laptop or mine. Participants were asked to complete four tasks using the clickable prototype. They were instructed to work independently on the assigned tasks, moving as close to completion as possible. While completing the tasks, users were asked to think aloud, sharing their process verbally. As participants completed the process, I recorded their comments and made note of their actions. Upon completion of the tests a report was completed and given to the client.
 
-![Usability Report Cover Page](/mw/img/MWUsabilityTestReport_Page_1.png "Usability Test Report")
+<!-- ![Usability Report Cover Page](/mw/img/MWUsabilityTestReport_Page_1.png "Usability Test Report") -->
 
 ## Feedback and Recommendations
 As I evaluated the results of the usability tests some the following issues emerged related to the tasks assigned during the test: 
