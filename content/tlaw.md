@@ -46,7 +46,7 @@ methods: ["Design and Wordpress Development",]
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
 # Place your custom svgs into //svg
 button_links:
-    - link: "https://http://box5210.temp.domains/~ardeawor/tlaw06/"
+    - link: "http://box5210.temp.domains/~ardeawor/tlaw06/"
       img: "eyeball.svg"
       text: "View Website"
     # - link: "http://copenow.co/"
