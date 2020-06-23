@@ -101,7 +101,7 @@ On the legislative Priorities page, I set each of the candidate’s five individ
 
 The updated Get Involved interface includes a clear call to action supported by buttons for making a donation as well as a form to contact the candidate’s office.
 
-*donation image here*
+![Donate Page Example](/jh/img/DonatePg.png "Donate Page Example")
 
 # Outcomes and Lessons
 
