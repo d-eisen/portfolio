@@ -338,10 +338,10 @@ section {
 .read-more {
   display: inline-block;
   width: 100%;
-  border: solid 2px #E1E1E1;
+  border: solid 2px #3345A6  ;
   padding: 18px 0;
   text-align: center;
-  color: #2F468A;
+  color: #F0F0F0;
   font-weight: 500;
   -webkit-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
