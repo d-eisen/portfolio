@@ -5,7 +5,7 @@ theme = "hugo-lodi-theme"
 googleAnalytics = "UA-138889713-1"
 
 [params]
-    theme_color = "#2F468A"
+    theme_color = "#3345A6"
     description = "User Experience Design Portfolio"
     description_photo = "PortfolioMockup.png"
     favicon = "ELogo.svg"
