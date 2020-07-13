@@ -6,7 +6,7 @@ weight: 1
 title: "Web Design"
 
 # This is the description in the <head> tag
-description: "I gave the site a clean and professional look supported with a simple and effective UI."
+description: "I gave the site a clean and professional look supported with a simple and effective user interface."
 
 # This the heading of the navigation at the top of the case study
 nav_heading: "Web Design"
