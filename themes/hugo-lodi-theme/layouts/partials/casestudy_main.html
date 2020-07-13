@@ -4,8 +4,8 @@
         <h2 class="subtitle" style="text-align: center;">{{ .Params.case_subtitle }}</h2>
         <img src="img/{{ .Params.case_feature_img }}" alt="">
         <p class="summary">{{ .Params.case_summary }}</p>
-        <div class="case-details">
-            <!-- <div class="case-details-item">
+        <!-- <div class="case-details">
+            <div class="case-details-item">
                 <p><strong>Team</strong>
                     {{ range .Params.team }}
                     <br>{{ . }}
@@ -27,7 +27,7 @@
                 </p>
             </div>
         </div> -->
-        <h1 style="color: #222222; font-family: merriweather; font-size: 26px; line-height: 1.7em; margin-top: 20px;">{{ .Description }}</h1>
+        <h1 style="color: #222; font-family: merriweather; font-size: 26px; line-height: 1.7em; margin-top: 20px;">{{ .Description }}</h1>
         <div class="case-links">
             {{ $baseUrl := .Site.BaseURL }}
             {{ range $element := .Params.button_links }}
