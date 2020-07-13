@@ -345,7 +345,7 @@ section {
   font-weight: 500;
   -webkit-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
-  border-radius: 2px;
+  border-radius: 10px;
 }
 
 .main-case-study {
