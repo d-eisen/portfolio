@@ -459,12 +459,13 @@ section {
 
 .case-detail-link {
   padding: 15px 30px;
-  /* border: 1px solid #fafafa; */
-  color: #2F468A;
+  border: 1px solid #fafafa;
+  color: #fff;
   border-radius: 10px;
-  background: #f1f1f1;
+  background: #5D6BBA;
   margin-right: 1em;
 }
+
 
 @media all and (max-width: 981px) {
   .hero-left {
