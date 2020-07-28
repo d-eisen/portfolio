@@ -46,12 +46,12 @@ methods: ["Design", "Mockups", "Prototyping"]
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
 # Place your custom svgs into /static/svg
 button_links:
-    - link: "https://www.jimhaadsma.com"
+    - link: "https://invis.io/76Y7MUWR3BZ"
       img: "eyeball.svg"
-      text: "View Website"
-    # - link: "http://copenow.co/"
+      text: "View Prototype"
+    # - link: "https://www.jimhaadsma.com"
     #   img: "eyeball.svg"
-    #   text: "View Landing Page"
+    #   text: "View Live Site"
     # - link: "cope.pdf"
     #   img: "download.svg"
     #   text: "Download Feature Sets"
