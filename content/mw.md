@@ -47,10 +47,10 @@ methods: ["Surveying and Interviewing", "Sketching", "Wireframing", "Prototyping
 # Place your custom svgs into /static/svg
 button_links:
     - link: "https://balsamiq.cloud/su8bkvt/ppctiyo/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMlAjPAQhiALJEBaRA0lANoC6AvkA%3D%3D"
-      img: "eyeball.svg"
+      img: "EyeballWH.svg"
       text: "View Lo Fi Prototype"
     # - link: "http://copenow.co/"
-    #   img: "eyeball.svg"
+    #   img: "EyeballWH.svg"
     #   text: "View Landing Page"
     # - link: "cope.pdf"
     #   img: "download.svg"

@@ -47,10 +47,10 @@ methods: ["Interviewing", "Persona", "Journey Mapping"]
 # Place your custom svgs into /static/svg
 button_links:
     # - link: "https://marvelapp.com/g4b64e/screen/14364499"
-    #   img: "eyeball.svg"
+    #   img: "EyeballWH.svg"
     #   text: "View Prototype"
     # - link: "http://copenow.co/"
-    #   img: "eyeball.svg"
+    #   img: "EyeballWH.svg"
     #   text: "View Landing Page"
     # - link: "cope.pdf"
     #   img: "download.svg"

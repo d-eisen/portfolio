@@ -47,10 +47,10 @@ methods: ["Design", "Mockups", "Prototyping"]
 # Place your custom svgs into /static/svg
 button_links:
     - link: "https://invis.io/76Y7MUWR3BZ"
-      img: "eyeball.svg"
+      img: "EyeballWH.svg"
       text: "View Prototype"
     # - link: "https://www.jimhaadsma.com"
-    #   img: "eyeball.svg"
+    #   img: "EyeballWH.svg"
     #   text: "View Live Site"
     # - link: "cope.pdf"
     #   img: "download.svg"

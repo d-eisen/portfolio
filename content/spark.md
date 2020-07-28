@@ -46,11 +46,11 @@ methods: ["Interviewing", "Content Strategy", "Mockups", "Prototype", "Usability
 # Place your custom svgs into /static/svg
 button_links:
     - link: "https://cdn.flipsnack.com/widget/v2/widget.html?hash=ftpiehnx2"
-      img: "eyeball.svg"
+      img: "EyeballWH.svg"
       text: "View Guide Book"
 
     # - link: "http://copenow.co/"
-    #   img: "eyeball.svg"
+    #   img: "EyeballWH.svg"
     #   text: "View Landing Page"
 
     # - link: "cope.pdf"
