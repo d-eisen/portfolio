@@ -3,7 +3,7 @@
 weight: 1
 
 # This is what appears as the tab's title
-title: "Web Design"
+title: "UX Design"
 
 # This is the description in the <head> tag
 description: "I gave the site a clean and professional look supported with a simple and effective user interface."

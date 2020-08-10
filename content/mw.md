@@ -3,22 +3,22 @@
 weight: 3
 
 # This is what appears as the tab's title
-title: "User Experience Design"
+title: "UX Design"
 
 # This is the description in the <head> tag
 description: "I set a direction for the re-design of the product and crafted and tested a functioning prototype for development."
 
 # This the heading of the navigation at the top of the case study
-nav_heading: "User Experience Design"
+nav_heading: "UX Design"
 
 # This is what appears in the case studies section, place this image at the /static/img folder
 thumbnail: "MWMobileMockup.jpg"
 
 # This is the title of the case study in the case studies section
-case_short_title: "User Experience Design"
+case_short_title: "UX Design"
 
 # This is the title of the case study in the case study page
-case_title: "User Experience Design"
+case_title: "UX Design"
 
 # This is the subtitle of the case study in the case studies section and the case study page
 case_subtitle: "MedWater"
