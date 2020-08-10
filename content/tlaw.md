@@ -37,7 +37,7 @@ case_summary: "The client, Trenaman Law, sought a freelancer to design and devel
 team: ["David Eisenmenger", "Kyle Thatch", "Raffi Tarpinian"]
 
 # Roles of your team members
-roles: ["Web Designer and Developer", "Project Manager", "Logo Designer",]
+roles: ["UX Designer and Developer", "Project Manager", "Logo Designer",]
 
 # Methods your team members used
 methods: ["Design and Wordpress Development",]
