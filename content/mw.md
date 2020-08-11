@@ -84,7 +84,7 @@ I served as a user experience team of one. Working with the client, I initiated 
 # Scope and Constraints
 Although the initial proposal from the organization was focused on a redesign of their website, the scope of the project was narrowed to focus on developing a prototype that would help the client to test the donation process.
 
-# Users and Audience
+# The Process
 ## Research: Survey and Interviews
 ### Survey: Participant involvement in organizations had mixed results
 I began with user research. Our hypothesis was that user giving and engagement could be increased by leveraging people's connection to the organization. I performed qualitative primary research using an online survey and in-person interviews. 
@@ -121,7 +121,6 @@ I also asked participants about their pain points associated with being involved
 ## Competitive Analysis
 I performed some brief competitive analysis reviewing the websites of some organizations with a similar mission to MedWater. Keeping in mind the findings that users frequently *gave financially to organizations* and that one of users paint points was related to *use of time*, I observed how competing sites responded to these needs. For example, competitors often place a call to action to donate in accessible location on that was persistent across pages. This feature met the users' need to donate and offered that opportunity with minimum cognitive load to find the feature.
 
-# Process
 ## Discovery: Insights, Personas, Empathy Maps
 As I reviewed the findings from the research as a whole, one of the key insights was that users may be likely to afford new involvement with a organization if: <br>
 1. they were referred by a **personal connection**  
