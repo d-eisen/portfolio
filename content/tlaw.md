@@ -46,12 +46,12 @@ methods: ["Design and Wordpress Development",]
 # img is the svg that's part of the button. You can use EyeballWH.svg or download.svg
 # Place your custom svgs into //svg
 button_links:
-    - link: "https://www.figma.com/proto/e8NNOcj29Eq20HF89PffJv/TLAW07?node-id=12:1404&viewport=333,163,0.02428167685866356&scaling=min-zoom"
+    # - link: "https://www.figma.com/proto/e8NNOcj29Eq20HF89PffJv/TLAW07?node-id=12:1404&viewport=333,163,0.02428167685866356&scaling=min-zoom"
+    #   # img: "EyeballWH.svg"
+    #   # text: "View Prototype"
+    - link: "http://www.trenamanlaw.com"
       img: "EyeballWH.svg"
-      text: "View Prototype"
-    # - link: "http://box5210.temp.domains/~ardeawor/tlaw06/"
-    #   img: "EyeballWH.svg"
-    #   text: "View Live Site"
+      text: "View Landing Page"
     # - link: "cope.pdf"
     #   img: "download.svg"
     #   text: "Download Feature Sets"
