@@ -85,7 +85,7 @@ draft: false
 ## | Constraints | Lorem Ipsem |
 
 
-| Paragraph   | Text    |  And more      |
+|---|---|---|
 | Paragraph   | Text    |  And more      |
 | Paragraph   | Text    |  And more      |
 | Paragraph   | Text    |  And more      |
