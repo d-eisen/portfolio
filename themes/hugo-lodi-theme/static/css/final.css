@@ -418,19 +418,12 @@ section {
 
 .main-case-study .summary {
   /* The objective of thi: */
-  /* font-family: Roboto;
+  font-family: Roboto;
   font-weight: 300;
   font-size: 24px;
   color: #222222;
   letter-spacing: 0;
-  line-height: 39px; */
-  margin: 0;
-  padding: 0;
-  display: flex;
-  max-width: 700px;
-  list-style-type: none;
-  justify-content: space-between;
-  flex-wrap: wrap;
+  line-height: 39px;
 }
 
 .case-study-item img {
@@ -439,7 +432,13 @@ section {
 }
 
 .case-details {
-  
+  margin: 0;
+  padding: 0;
+  display: flex;
+  max-width: 700px;
+  list-style-type: none;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .case-links {
