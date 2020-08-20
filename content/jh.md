@@ -34,13 +34,13 @@ case_feature_img: "JHTopBanner.jpg"
 case_summary: "The Committee to Elect Jim Haadsma engaged Tech for Campaigns to redesign the website for Rep. Haadsma as part of his campaign for re-election to the Michigan House of Representatives, 62nd District. I served as the Designer on a team of volunteers contracted by Tech for Campaigns. Working in collaboration with the candidate and staff, our team developed an upgraded website to showcase Jim’s story and track record for re-election. This site also created a space for volunteers and donors to support his campaign. We developed a new website to support a full set of campaign tools including a donation form, volunteer sign up, and information related to COVID-19 in a way that presented a professional and inviting look for potential volunteers, donors, and voters in his district."
 
 # Your team members
-team: ["David Eisenmenger", "Jenny Marshall", "Laura Leebove", "Kenneth Lee"]
+team: ["Team", "My Role", "Constraints", "Problem"]
 
 # Roles of your team members
-roles: ["Designer", "Product Manager", "Copywriter", "Engineer"]
+roles: ["David Eisenmenger, Designer; Jenny Marshall, Team Lead: Laura Leebove, Copywriter;  Kenneth Lee, Engineer", "I served as the Designer for the site leveraging my skills in user experience design and visual design.", "As a designer, I had to work within the design capabilities of the content management system that we would be delivering to the client.", "The committee to elect Jim Haadsma wanted a new website for Jim’s upcoming campaign for re-election to the Michigan State House of Representatives, 62nd District. The client was interested in a site the presented a professional and inviting look that emphasized Jim’s strengths as a candidate. The client also wanted to make available a full set of campaign tools including a donation form and volunteer sign up.",]
 
 # Methods your team members used
-methods: ["Design", "Mockups", "Prototyping"]
+# methods: ["Design", "Mockups", "Prototyping"]
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
