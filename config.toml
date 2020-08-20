@@ -32,7 +32,7 @@ googleAnalytics = "UA-138889713-1"
     "When I am not doing design work, you can find me tending to my vegetable garden or enjoying a hike.",
     ]
     
-    # resume = "Resume_Eisenmenger.pdf"
+    resume = "Resume_Eisenmenger.pdf"
 
 [params.process]
     enable = true
