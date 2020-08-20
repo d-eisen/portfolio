@@ -90,6 +90,10 @@ draft: false
 | Paragraph   | Text    |  And more      |
 | Paragraph   | Text    |  And more      |
 
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 
 # The Design Challenge
 
