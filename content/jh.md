@@ -76,7 +76,7 @@ draft: false
 # Write the content of your case study below the three dashed lines. You can use markdown and raw HTML.
 ---
 
-| :---        |    :----:   | 
+| :--- |:---- | 
 | The Challenge | The committee to elect Jim Haadsma wanted a new website for Jim’s upcoming campaign for re-election to the Michigan State House of Representatives, 62nd District. The client was interested in a site the presented a professional and inviting look that emphasized Jim’s strengths as a candidate. The client also wanted to make available a full set of campaign tools including a donation form and volunteer sign up.<br> |
 | My Role | I served as the team Designer for the site leveraging my skills in user interface design.<br> |
 | Team | Jenny Marshall, Team Lead: Laura Leebove, Copywriter;  Kenneth Lee, Engineer"<br> |
