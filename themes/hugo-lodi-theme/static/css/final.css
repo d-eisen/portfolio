@@ -441,6 +441,17 @@ section {
   flex-wrap: wrap;
 }
 
+.case-details-left {
+  font-style: bold;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  max-width: 700px;
+  list-style-type: none;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
 .case-links {
   margin-top: 26px;
   padding-bottom: 30px;
