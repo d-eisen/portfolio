@@ -4,22 +4,22 @@
         <h2 class="subtitle" style="text-align: center;">{{ .Params.case_subtitle }}</h2>
         <img src="img/{{ .Params.case_feature_img }}" alt="">
         <p class="summary">{{ .Params.case_summary }}</p>
-        <div class="case-details">
-            <div class="case-details-left">
+        <div class="case-details grid-container">
+            <div class="case-details-item grid-item">
                 <!-- <p><strong>Team</strong> -->
                     {{ range .Params.team }}
                     <br>{{ . }}
                     {{end}}
                 </p>
             </div>
-            <div class="case-details-item">
+            <div class="case-details-item grid-item">
                 <!-- <p><strong>Roles</strong> -->
                     {{ range .Params.roles }}
                     <br>{{ . }}
                     {{ end }}
                 </p>
             </div>
-            <div class="case-details-item">
+            <div class="case-details-item grid-item">
                 <!-- <p><strong>My Methods</strong> -->
                     {{ range .Params.methods }}
                     <br>{{ . }}
