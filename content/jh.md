@@ -32,9 +32,9 @@ case_feature_img: "JHTopBanner.jpg"
 
 # This is the case summary in the case itself
 case_summary: 
-* "The Challenge"
-"The committee to elect Jim Haadsma wanted a new website for Jim’s upcoming campaign for re-election to the Michigan State House of Representatives, 62nd District. The client was interested in a site the presented a professional and inviting look that emphasized Jim’s strengths as a candidate. The client also wanted to make available a full set of campaign tools including a donation form and volunteer sign up."
-<b>"My Role"</b>
+"The Challenge
+The committee to elect Jim Haadsma wanted a new website for Jim’s upcoming campaign for re-election to the Michigan State House of Representatives, 62nd District. The client was interested in a site the presented a professional and inviting look that emphasized Jim’s strengths as a candidate. The client also wanted to make available a full set of campaign tools including a donation form and volunteer sign up."
+"My Role"
 "I served as the team Designer for the site leveraging my skills in user interface design.
 Team
 Jenny Marshall, Team Lead; Laura Leebove, Copywriter;  Kenneth Lee, Engineer
